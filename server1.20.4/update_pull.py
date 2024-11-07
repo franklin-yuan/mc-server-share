@@ -10,6 +10,8 @@ print("Getting new files:")
 
 repo = git.Repo(config.worldpath)
 #print(repo.git.status())
-print(repo.git.execute("git clone https://github.com/franklin-yuan/mc-server-share.git"))
+print(repo.git.execute("git fetch --all"))
+print(repo.git.execute("git reset --hard origin/main"))
+
 
 #repo.git.execute("git checkout -b my_branch")

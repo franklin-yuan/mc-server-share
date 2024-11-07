@@ -1,0 +1,10 @@
+Pre:
+1. Install git and python if you don't have them
+
+Instructions:
+0. Open config.py and change worldpath to the path containing both the server and this instruction file
+1. use run-once.bat once
+2. use start.bat inside server folder
+3. after you are finished: type 'stop' into the console otherwise the world will not save
+4. enter your name
+5. Wait until the console says COMPLETE!!

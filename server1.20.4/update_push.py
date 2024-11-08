@@ -6,6 +6,12 @@ import git
 import random
 from git import Repo
 
+from pathlib import Path
+
+folder_path = Path.cwd()
+print(os.path.dirname(folder_path))
+config.worldpath = os.path.dirname(folder_path)
+
 print("Upping files:")
 user = input("What is your name: ")
 try:

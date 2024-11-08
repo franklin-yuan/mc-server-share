@@ -1,62 +1,22 @@
-[23:23:17] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[23:23:19] [ServerMain/INFO]: Loaded 7 recipes
-[23:23:19] [ServerMain/INFO]: Loaded 1271 advancements
-[23:23:19] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[23:23:19] [Server thread/INFO]: Loading properties
-[23:23:19] [Server thread/INFO]: Default game type: SURVIVAL
-[23:23:19] [Server thread/INFO]: Generating keypair
-[23:23:20] [Server thread/INFO]: Starting Minecraft server on *:25565
-[23:23:20] [Server thread/INFO]: Using default channel type
-[23:23:20] [Server thread/INFO]: Preparing level "world"
-[23:23:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[23:23:22] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[23:23:22] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[23:23:22] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[23:23:22] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[23:23:22] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[23:23:23] [Worker-Main-4/INFO]: Preparing spawn area: 83%
-[23:23:23] [Server thread/INFO]: Time elapsed: 2578 ms
-[23:23:23] [Server thread/INFO]: Done (3.223s)! For help, type "help"
-[23:25:10] [User Authenticator #1/INFO]: UUID of player thunderball is 51663a42-2b1d-46a3-8338-adb5a6225ee0
-[23:25:10] [Server thread/INFO]: thunderball[/[0:0:0:0:0:0:0:1]:60903] logged in with entity id 33 at (-4646.53238221219, 217.02251495271798, -4838.702396269148)
-[23:25:10] [Server thread/INFO]: thunderball joined the game
-[23:25:42] [Server thread/INFO]: <thunderball> hiu
-[23:25:50] [Server thread/INFO]: <thunderball> type in
-[23:25:58] [Server thread/INFO]: <thunderball> ./broadcast
-[23:26:05] [Server thread/INFO]: <thunderball> ./broadcast hi
-[23:26:16] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[23:26:16] [Server thread/INFO]: ./br./broadcast hi<--[HERE]
-[23:26:22] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[23:26:22] [Server thread/INFO]: hi<--[HERE]
-[23:26:33] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[23:26:33] [Server thread/INFO]: ./broadcast<--[HERE]
-[23:26:54] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[23:26:54] [Server thread/INFO]: ./br hi<--[HERE]
-[23:27:01] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[23:27:01] [Server thread/INFO]: broadcast hi<--[HERE]
-[23:27:22] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[23:27:22] [Server thread/INFO]: broadcast<--[HERE]
-[23:27:29] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[23:27:29] [Server thread/INFO]: say<--[HERE]
-[23:27:49] [Server thread/INFO]: [thunderball] hi
-[23:28:20] [Server thread/INFO]: [Not Secure] [Server] hi
-[23:28:23] [Server thread/INFO]: <thunderball> hi
-[23:28:24] [Server thread/INFO]: <thunderball> nice
-[23:28:27] [Server thread/INFO]: [Not Secure] [Server] does it work
-[23:28:29] [Server thread/INFO]: <thunderball> yes
-[23:28:33] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[23:28:33] [Server thread/INFO]: nice<--[HERE]
-[23:28:35] [Server thread/INFO]: [Not Secure] [Server] nice
-[23:28:54] [Server thread/INFO]: thunderball lost connection: Disconnected
-[23:28:54] [Server thread/INFO]: thunderball left the game
-[23:31:28] [Server thread/INFO]: Stopping the server
-[23:31:28] [Server thread/INFO]: Stopping server
-[23:31:28] [Server thread/INFO]: Saving players
-[23:31:28] [Server thread/INFO]: Saving worlds
-[23:31:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[23:31:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[23:31:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[23:31:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:31:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:31:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:31:28] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23:39:30] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[23:39:31] [ServerMain/INFO]: Loaded 7 recipes
+[23:39:32] [ServerMain/INFO]: Loaded 1271 advancements
+[23:39:32] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[23:39:32] [Server thread/INFO]: Loading properties
+[23:39:32] [Server thread/INFO]: Default game type: SURVIVAL
+[23:39:32] [Server thread/INFO]: Generating keypair
+[23:39:32] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:39:32] [Server thread/INFO]: Using default channel type
+[23:39:32] [Server thread/INFO]: Preparing level "world"
+[23:39:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:39:36] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[23:39:36] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[23:39:36] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:39:36] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:39:36] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[23:39:36] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[23:39:36] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[23:39:37] [Worker-Main-3/INFO]: Preparing spawn area: 27%
+[23:39:37] [Worker-Main-1/INFO]: Preparing spawn area: 85%
+[23:39:37] [Server thread/INFO]: Time elapsed: 4223 ms
+[23:39:37] [Server thread/INFO]: Done (5.284s)! For help, type "help"

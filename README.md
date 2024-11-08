@@ -7,6 +7,7 @@ https://git-scm.com/downloads
 https://www.python.org/downloads/
 
 Instructions:
+0. Put the contents of this repository in its own folder
 1. use run-once.bat once
 2. use start.bat inside server folder
 3. after you are finished: type 'stop' into the console otherwise the world will not save

@@ -2,6 +2,8 @@ import os
 import config
 os.environ["GIT_PYTHON_REFRESH"] = "quiet"
 
+token = "20FlLRf2lwrf5bRSRSr4berWmMw_3cj7zPrVNjiPwbzf3ccaC"
+
 import git
 import random
 from git import Repo
@@ -25,7 +27,7 @@ time.sleep(1)
 
 import ngrok
 
-listener = ngrok.forward("localhost:8080", authtoken_from_env=True,
+listener = ngrok.forward("localhost:8080", authtoken_from_env=token,
     proto="tcp")
 
 print(f"Ingress established at: {listener.url()}");

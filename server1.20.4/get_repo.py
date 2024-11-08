@@ -63,5 +63,7 @@ token.replace(" ", "")
 f = open("config.bat", "w+")
 f.write("set authtoken="+token)
 f.close()
+import ngrok
+ngrok.set_auth_token(token)
 
 

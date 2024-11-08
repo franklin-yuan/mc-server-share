@@ -2,7 +2,7 @@
 
 python ./update_pull.py
 
-start "" ngrok tcp 25565 --region au
+REM start "" ngrok tcp 25565 --region au
 
 java -Xmx3072M -Xms3072M -jar server.jar nogui
 

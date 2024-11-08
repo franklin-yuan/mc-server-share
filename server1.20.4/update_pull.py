@@ -23,4 +23,11 @@ print("Type 'stop' into this terminal when you want to end the server!")
 
 time.sleep(1)
 
+import ngrok
+
+listener = ngrok.forward("localhost:8080", authtoken_from_env=True,
+    proto="tcp")
+
+print(f"Ingress established at: {listener.url()}");
+
 #repo.git.execute("git checkout -b my_branch")

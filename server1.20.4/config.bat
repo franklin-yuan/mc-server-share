@@ -1,1 +1,1 @@
-set authtoken=20FlLRf2lwrf5bRSRSr4berWmMw_3cj7zPrVNjiPwbzf3ccaC
+set authtoken=""

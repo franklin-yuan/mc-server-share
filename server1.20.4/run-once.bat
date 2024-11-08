@@ -1,13 +1,10 @@
 @echo off
 
+set OLDDIR=%CD%
 
 :start
 cls
 
-
-
-call config.bat
-ngrok config add-authtoken %authtoken%
 
 python ./get-pip.py
 
@@ -16,9 +13,12 @@ cd \python%python_ver%\Scripts\
 pip install gitpython
 pip install ngrok
 
+chdir /d %OLDDIR% &rem restore current directory
+
 python ./get_repo.py
 
-
+call config.bat
+ngrok config add-authtoken %authtoken%
 
 pause
 exit

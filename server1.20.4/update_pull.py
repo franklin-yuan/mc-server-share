@@ -6,6 +6,12 @@ import git
 import random
 from git import Repo
 
+from pathlib import Path
+folder_path = Path.cwd()
+print(folder_path)
+
+config.worldpath = folder_path
+
 print("Getting new files:")
 
 repo = git.Repo(config.worldpath)

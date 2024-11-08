@@ -7,8 +7,11 @@ import git
 import random
 from git import Repo
 
+from pathlib import Path
+folder_path = Path.cwd()
+print(folder_path)
 
-
+config.worldpath = folder_path
 
 # dir_path = os.path.dirname(os.path.realpath(__file__))
 # dir_path = os.path.join(dir_path, r"server1.20.4")

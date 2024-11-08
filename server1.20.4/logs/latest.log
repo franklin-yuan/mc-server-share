@@ -1,37 +1,42 @@
-[19:51:35] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[19:51:36] [ServerMain/INFO]: Loaded 7 recipes
-[19:51:36] [ServerMain/INFO]: Loaded 1271 advancements
-[19:51:36] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[19:51:36] [Server thread/INFO]: Loading properties
-[19:51:36] [Server thread/INFO]: Default game type: SURVIVAL
-[19:51:36] [Server thread/INFO]: Generating keypair
-[19:51:36] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:51:36] [Server thread/INFO]: Using default channel type
-[19:51:37] [Server thread/INFO]: Preparing level "world"
-[19:51:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:51:40] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[19:51:40] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:51:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:51:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:51:40] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[19:51:40] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[19:51:40] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[19:51:41] [Worker-Main-7/INFO]: Preparing spawn area: 60%
-[19:51:41] [Server thread/INFO]: Time elapsed: 3836 ms
-[19:51:41] [Server thread/INFO]: Done (4.762s)! For help, type "help"
-[19:52:33] [User Authenticator #1/INFO]: UUID of player thunderball is 51663a42-2b1d-46a3-8338-adb5a6225ee0
-[19:52:34] [Server thread/INFO]: thunderball[/[0:0:0:0:0:0:0:1]:55219] logged in with entity id 34 at (-4607.665460580879, 217.85218493674452, -4737.202610052222)
-[19:52:34] [Server thread/INFO]: thunderball joined the game
-[19:52:40] [Server thread/INFO]: thunderball lost connection: Disconnected
-[19:52:40] [Server thread/INFO]: thunderball left the game
-[19:52:44] [Server thread/INFO]: Stopping the server
-[19:52:44] [Server thread/INFO]: Stopping server
-[19:52:44] [Server thread/INFO]: Saving players
-[19:52:44] [Server thread/INFO]: Saving worlds
-[19:52:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[19:52:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[19:52:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[19:52:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:52:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:52:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:52:44] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20:01:22] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:01:23] [ServerMain/INFO]: Loaded 7 recipes
+[20:01:23] [ServerMain/INFO]: Loaded 1271 advancements
+[20:01:23] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[20:01:23] [Server thread/INFO]: Loading properties
+[20:01:23] [Server thread/INFO]: Default game type: SURVIVAL
+[20:01:23] [Server thread/INFO]: Generating keypair
+[20:01:24] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:01:24] [Server thread/INFO]: Using default channel type
+[20:01:24] [Server thread/INFO]: Preparing level "world"
+[20:01:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:01:26] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[20:01:26] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[20:01:26] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[20:01:26] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[20:01:26] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:01:27] [Worker-Main-13/INFO]: Preparing spawn area: 55%
+[20:01:27] [Server thread/INFO]: Time elapsed: 2668 ms
+[20:01:27] [Server thread/INFO]: Done (3.262s)! For help, type "help"
+[20:02:03] [User Authenticator #1/INFO]: UUID of player thunderball is 51663a42-2b1d-46a3-8338-adb5a6225ee0
+[20:02:03] [Server thread/INFO]: thunderball[/[0:0:0:0:0:0:0:1]:54042] logged in with entity id 34 at (-4607.665460580879, 217.85218493674452, -4737.202610052222)
+[20:02:04] [Server thread/INFO]: thunderball joined the game
+[20:02:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2547ms or 50 ticks behind
+[20:02:12] [Server thread/INFO]: thunderball lost connection: Disconnected
+[20:02:12] [Server thread/INFO]: thunderball left the game
+[20:02:16] [User Authenticator #2/INFO]: UUID of player thunderball is 51663a42-2b1d-46a3-8338-adb5a6225ee0
+[20:02:17] [Server thread/INFO]: thunderball[/[0:0:0:0:0:0:0:1]:54045] logged in with entity id 269 at (-4607.799606988428, 217.85218493674452, -4743.995018960448)
+[20:02:17] [Server thread/INFO]: thunderball joined the game
+[20:02:36] [Server thread/INFO]: [thunderball: Set own game mode to Survival Mode]
+[20:02:54] [Server thread/INFO]: thunderball lost connection: Disconnected
+[20:02:54] [Server thread/INFO]: thunderball left the game
+[20:02:58] [Server thread/INFO]: Stopping the server
+[20:02:58] [Server thread/INFO]: Stopping server
+[20:02:58] [Server thread/INFO]: Saving players
+[20:02:58] [Server thread/INFO]: Saving worlds
+[20:02:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:02:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20:02:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20:02:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:02:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:02:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:02:58] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

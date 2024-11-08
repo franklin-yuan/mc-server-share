@@ -13,7 +13,7 @@ folder_path = Path.cwd()
 print(os.path.dirname(folder_path))
 config.worldpath = os.path.dirname(folder_path)
 
-print("Getting new files:")
+print("Getting new files (takes a long time for the first time):")
 
 repo = git.Repo(config.worldpath)
 #print(repo.git.status())

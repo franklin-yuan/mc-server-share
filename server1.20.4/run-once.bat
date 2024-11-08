@@ -4,7 +4,7 @@
 :start
 cls
 
-python ./get_repo.py
+
 
 call config.bat
 ngrok config add-authtoken %authtoken%
@@ -15,6 +15,8 @@ cd \
 cd \python%python_ver%\Scripts\
 pip install gitpython
 pip install ngrok
+
+python ./get_repo.py
 
 
 

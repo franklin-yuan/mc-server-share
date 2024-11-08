@@ -1,5 +1,0 @@
-print("We need your ngrok authentication token (authtoken) now. Please make sure you have signed up and have your authtoken ready.")
-token = input("Authtoken: ")
-token.replace(" ", "")
-f = open("server1.20.4/config.bat", "w+")
-f.write("set MYVAR="+token)

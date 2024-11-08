@@ -27,7 +27,7 @@ try:
 except:
     print("Something weird happened")
 
-repo.git.autoset
+print("Wait until this terminal says 'complete'")
 print(repo.git.execute("git push -u origin main"))
 print("Complete")
 import time

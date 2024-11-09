@@ -17,8 +17,10 @@ print("Getting new files (takes a long time for the first time):")
 
 repo = git.Repo(config.worldpath)
 #print(repo.git.status())
-print(repo.git.execute("git fetch --all"))
-print(repo.git.execute("git reset --hard origin/main"))
+
+
+# print(repo.git.execute("git fetch --all"))
+# print(repo.git.execute("git reset --hard origin/main"))
 
 # import ngrok
 

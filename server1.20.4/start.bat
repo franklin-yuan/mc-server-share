@@ -9,6 +9,6 @@ java -Xmx3072M -Xms3072M -jar server.jar nogui
 
 python ./update_push.py
 
-taskkill.exe /IM ngrok.exe 
+taskkill.exe /F ngrok.exe 
 
 PAUSE

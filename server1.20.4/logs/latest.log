@@ -1,51 +1,66 @@
-[21:45:17] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[21:45:18] [ServerMain/INFO]: Loaded 7 recipes
-[21:45:18] [ServerMain/INFO]: Loaded 1271 advancements
-[21:45:18] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[21:45:18] [Server thread/INFO]: Loading properties
-[21:45:18] [Server thread/INFO]: Default game type: SURVIVAL
-[21:45:18] [Server thread/INFO]: Generating keypair
-[21:45:18] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:45:18] [Server thread/INFO]: Using default channel type
-[21:45:18] [Server thread/INFO]: Preparing level "world"
-[21:45:19] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:45:21] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[21:45:21] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[21:45:21] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[21:45:21] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[21:45:21] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[21:45:22] [Server thread/INFO]: Time elapsed: 2379 ms
-[21:45:22] [Server thread/INFO]: Done (3.312s)! For help, type "help"
-[21:45:45] [User Authenticator #1/INFO]: UUID of player Averygoogplayer is 0b7d95b9-a3bc-4fe3-bc49-e1b0ed8eeeeb
-[21:45:46] [Server thread/INFO]: Averygoogplayer[/[0:0:0:0:0:0:0:1]:53808] logged in with entity id 157 at (-1095.300000011921, 96.0, 663.678523324105)
-[21:45:46] [Server thread/INFO]: Averygoogplayer joined the game
-[21:45:54] [User Authenticator #2/INFO]: UUID of player thunderball is 51663a42-2b1d-46a3-8338-adb5a6225ee0
-[21:45:54] [Server thread/INFO]: thunderball[/[0:0:0:0:0:0:0:1]:53913] logged in with entity id 449 at (661.0209985265315, 101.29550169650918, -340.13914379429826)
-[21:45:54] [Server thread/INFO]: thunderball joined the game
-[21:46:01] [Server thread/INFO]: [thunderball: Teleported thunderball to Averygoogplayer]
-[21:46:13] [Server thread/INFO]: Averygoogplayer lost connection: Disconnected
-[21:46:13] [Server thread/INFO]: Averygoogplayer left the game
-[21:47:16] [User Authenticator #3/INFO]: UUID of player Averygoogplayer is 0b7d95b9-a3bc-4fe3-bc49-e1b0ed8eeeeb
-[21:47:17] [Server thread/INFO]: Averygoogplayer[/[0:0:0:0:0:0:0:1]:54204] logged in with entity id 630 at (-1089.1089042123956, 110.1212968405392, 686.4375849553868)
-[21:47:17] [Server thread/INFO]: Averygoogplayer joined the game
-[21:47:27] [Server thread/INFO]: [thunderball: Set own game mode to Survival Mode]
-[21:47:59] [Server thread/INFO]: Averygoogplayer has made the advancement [We Need to Go Deeper]
-[21:48:48] [Server thread/WARN]: Spruce Boat (vehicle of thunderball) moved wrongly! 0.29263236899726053
-[21:49:22] [Server thread/WARN]: Spruce Boat (vehicle of thunderball) moved wrongly! 1.1464060128228368
-[21:49:22] [Server thread/WARN]: Spruce Boat (vehicle of thunderball) moved wrongly! 2.5983408245922135
-[21:49:22] [Server thread/WARN]: Spruce Boat (vehicle of thunderball) moved wrongly! 1.1876817391108716
-[21:49:22] [Server thread/WARN]: Spruce Boat (vehicle of thunderball) moved wrongly! 1.2080110356436364
-[21:49:24] [Server thread/WARN]: Spruce Boat (vehicle of thunderball) moved wrongly! 0.41797482142087006
-[21:50:13] [Server thread/WARN]: Spruce Boat (vehicle of Averygoogplayer) moved too quickly! 1.5779733075760305E-10,0.0,12.560287762001508
-[21:50:13] [Server thread/WARN]: Spruce Boat (vehicle of Averygoogplayer) moved too quickly! 1.5779733075760305E-10,0.0,12.560287762001508
-[21:53:41] [Server thread/INFO]: Stopping the server
-[21:53:41] [Server thread/INFO]: Stopping server
-[21:53:41] [Server thread/INFO]: Saving players
-[21:53:41] [Server thread/INFO]: Saving worlds
-[21:53:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[21:53:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[21:53:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[21:53:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:53:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:53:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:53:42] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:55:28] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:55:29] [ServerMain/INFO]: Loaded 7 recipes
+[21:55:30] [ServerMain/INFO]: Loaded 1271 advancements
+[21:55:30] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[21:55:30] [Server thread/INFO]: Loading properties
+[21:55:30] [Server thread/INFO]: Default game type: SURVIVAL
+[21:55:30] [Server thread/INFO]: Generating keypair
+[21:55:30] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:55:30] [Server thread/INFO]: Using default channel type
+[21:55:30] [Server thread/INFO]: Preparing level "world"
+[21:55:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:55:34] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[21:55:34] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[21:55:34] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:55:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:55:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:55:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:55:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:55:35] [Worker-Main-4/INFO]: Preparing spawn area: 57%
+[21:55:35] [Server thread/INFO]: Time elapsed: 3664 ms
+[21:55:35] [Server thread/INFO]: Done (4.548s)! For help, type "help"
+[21:55:42] [User Authenticator #1/INFO]: UUID of player thunderball is 51663a42-2b1d-46a3-8338-adb5a6225ee0
+[21:55:42] [Server thread/INFO]: thunderball[/[0:0:0:0:0:0:0:1]:55891] logged in with entity id 33 at (-4611.367064864247, 127.0, -4771.638826553261)
+[21:55:42] [Server thread/INFO]: thunderball joined the game
+[21:56:00] [User Authenticator #2/INFO]: UUID of player Averygoogplayer is 0b7d95b9-a3bc-4fe3-bc49-e1b0ed8eeeeb
+[21:56:00] [Server thread/INFO]: Averygoogplayer[/[0:0:0:0:0:0:0:1]:55895] logged in with entity id 293 at (-4620.938071965614, 127.0, -4767.018894151709)
+[21:56:00] [Server thread/INFO]: Averygoogplayer joined the game
+[21:56:56] [Server thread/INFO]: Averygoogplayer has made the advancement [Diamonds!]
+[21:57:14] [Server thread/INFO]: Averygoogplayer fell from a high place
+[21:57:37] [Server thread/INFO]: [thunderball: Teleported Averygoogplayer to thunderball]
+[21:57:38] [Server thread/INFO]: thunderball lost connection: Disconnected
+[21:57:38] [Server thread/INFO]: thunderball left the game
+[21:57:51] [User Authenticator #3/INFO]: UUID of player thunderball is 51663a42-2b1d-46a3-8338-adb5a6225ee0
+[21:57:51] [Server thread/INFO]: thunderball[/[0:0:0:0:0:0:0:1]:55926] logged in with entity id 1048 at (-4544.699999988079, 87.61805377810627, -4571.300000011921)
+[21:57:51] [Server thread/INFO]: thunderball joined the game
+[21:57:53] [Server thread/INFO]: thunderball lost connection: Disconnected
+[21:57:53] [Server thread/INFO]: thunderball left the game
+[21:59:30] [Server thread/INFO]: No player was found
+[21:59:55] [User Authenticator #4/INFO]: UUID of player thunderball is 51663a42-2b1d-46a3-8338-adb5a6225ee0
+[21:59:55] [Server thread/INFO]: thunderball[/[0:0:0:0:0:0:0:1]:55951] logged in with entity id 1506 at (-4544.699999988079, 71.16068454716651, -4571.699999988079)
+[21:59:55] [Server thread/INFO]: thunderball joined the game
+[21:59:56] [Server thread/INFO]: Set thunderball's game mode to Spectator Mode
+[22:00:14] [Server thread/INFO]: [thunderball: Set own game mode to Survival Mode]
+[22:01:46] [Server thread/INFO]: [thunderball: Teleported thunderball to Averygoogplayer]
+[22:06:26] [Server thread/INFO]: [thunderball: Set own game mode to Spectator Mode]
+[22:06:55] [Server thread/INFO]: [thunderball: Teleported thunderball to Averygoogplayer]
+[22:07:09] [Server thread/INFO]: [thunderball: Summoned new Firework Rocket]
+[22:07:16] [Server thread/INFO]: [thunderball: Teleported thunderball to Averygoogplayer]
+[22:07:48] [Server thread/INFO]: [thunderball: Summoned new Primed TNT]
+[22:07:58] [Server thread/INFO]: [thunderball: Summoned new Primed TNT]
+[22:07:58] [Server thread/INFO]: Averygoogplayer blew up
+[22:08:06] [Server thread/INFO]: Averygoogplayer lost connection: Disconnected
+[22:08:06] [Server thread/INFO]: Averygoogplayer left the game
+[22:08:07] [Server thread/INFO]: thunderball lost connection: Disconnected
+[22:08:07] [Server thread/INFO]: thunderball left the game
+[22:08:18] [Server thread/INFO]: Stopping the server
+[22:08:19] [Server thread/INFO]: Stopping server
+[22:08:19] [Server thread/INFO]: Saving players
+[22:08:19] [Server thread/INFO]: Saving worlds
+[22:08:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:08:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:08:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:08:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:08:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:08:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:08:19] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

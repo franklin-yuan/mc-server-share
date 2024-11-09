@@ -20,6 +20,16 @@ repo = git.Repo(config.worldpath)
 print(repo.git.execute("git fetch --all"))
 print(repo.git.execute("git reset --hard origin/main"))
 
+# import ngrok
+
+# session = ngrok.SessionBuilder.authtoken("20FlLRf2lwrf5bRSRSr4berWmMw_3cj7zPrVNjiPwbzf3ccaC")
+# listener = ngrok.forward("localhost:8080", authtoken_from_env=True,
+#     proto="tcp")
+
+# print(f"Ingress established at: {listener.url()}");
+
+
+
 print("Type 'stop' into this terminal when you want to end the server!")
 
 time.sleep(1)

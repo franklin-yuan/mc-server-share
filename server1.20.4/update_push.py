@@ -28,7 +28,7 @@ except:
     print("Something weird happened")
 
 print("Wait until this terminal says 'complete'")
-print(repo.git.execute("git push -u origin main"))
+print(repo.git.execute("git push -u origin main"+config.current_branch))
 print("Complete")
 import time
 time.sleep(1)

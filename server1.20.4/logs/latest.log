@@ -1,19 +1,33 @@
-[13:58:04] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[13:58:05] [ServerMain/INFO]: Loaded 7 recipes
-[13:58:05] [ServerMain/INFO]: Loaded 1271 advancements
-[13:58:06] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[13:58:06] [Server thread/INFO]: Loading properties
-[13:58:06] [Server thread/INFO]: Default game type: SURVIVAL
-[13:58:06] [Server thread/INFO]: Generating keypair
-[13:58:06] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:58:06] [Server thread/INFO]: Using default channel type
-[13:58:06] [Server thread/INFO]: Preparing level "world"
-[13:58:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[13:58:09] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[13:58:09] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[13:58:09] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[13:58:09] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[13:58:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:58:09] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[13:58:10] [Server thread/INFO]: Time elapsed: 2968 ms
-[13:58:10] [Server thread/INFO]: Done (3.806s)! For help, type "help"
+[14:01:14] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[14:01:16] [ServerMain/INFO]: Loaded 7 recipes
+[14:01:17] [ServerMain/INFO]: Loaded 1271 advancements
+[14:01:17] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[14:01:17] [Server thread/INFO]: Loading properties
+[14:01:17] [Server thread/INFO]: Default game type: SURVIVAL
+[14:01:17] [Server thread/INFO]: Generating keypair
+[14:01:17] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:01:17] [Server thread/INFO]: Using default channel type
+[14:01:17] [Server thread/INFO]: Preparing level "world"
+[14:01:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:01:21] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[14:01:21] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[14:01:21] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[14:01:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:01:21] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[14:01:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:01:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[14:01:22] [Worker-Main-5/INFO]: Preparing spawn area: 23%
+[14:01:22] [Worker-Main-4/INFO]: Preparing spawn area: 90%
+[14:01:22] [Server thread/INFO]: Time elapsed: 4039 ms
+[14:01:22] [Server thread/INFO]: Done (5.032s)! For help, type "help"
+[14:01:24] [Server thread/INFO]: Stopping the server
+[14:01:24] [Server thread/INFO]: Stopping server
+[14:01:24] [Server thread/INFO]: Saving players
+[14:01:24] [Server thread/INFO]: Saving worlds
+[14:01:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14:01:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[14:01:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[14:01:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:01:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:01:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:01:25] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

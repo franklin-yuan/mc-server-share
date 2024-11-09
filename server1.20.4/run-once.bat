@@ -19,6 +19,8 @@ python ./get_repo.py
 
 call config.bat
 ngrok config add-authtoken %authtoken%
+git config --global user.email %user_email%
+git config user.email %user_name%
 
 pause
 exit

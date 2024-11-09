@@ -60,10 +60,22 @@ print(r"""
 print("We need your ngrok authentication token (authtoken) now. Please make sure you have signed up and have your authtoken ready.")
 token = input("Authtoken: ")
 token.replace(" ", "")
-f = open("config.bat", "w+")
-f.write("set authtoken="+token)
-f.close()
+
 import ngrok
 ngrok.set_auth_token(token)
+
+print("We need an email for git to use. Please enter your email: ")
+email = input("E-mail: ")
+email.replace(" ", "")
+print("We need a username for git to use. Please enter a username: ")
+username = input("Username: ")
+
+f = open("config.bat", "w+")
+f.write("set authtoken="+token+"\n")
+f.write("set user_email="+email+"\n")
+f.write("set user_name="+username)
+f.close()
+
+
 
 

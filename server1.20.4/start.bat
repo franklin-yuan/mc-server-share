@@ -25,8 +25,6 @@ start "" ngrok tcp 30000 --region au
 
 START java -jar -Xmx3072M -Xms3072M forge-1.21.3-53.0.11-shim.jar --onlyCheckJava nogui
 
-PAUSE
-
 if %ERRORLEVEL% NEQ 0 (
     echo.
     echo If you're struggling to fix the error above, ask for help on the forums or Discord mentioned in the readme.
@@ -34,6 +32,8 @@ if %ERRORLEVEL% NEQ 0 (
 )
 
 :exit
+
+PAUSE
 
 
 taskkill.exe /IM ngrok.exe /F 

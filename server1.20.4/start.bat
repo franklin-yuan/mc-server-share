@@ -5,9 +5,12 @@ set OLDDIR=%CD%
 :start
 cls
 
-echo Getting new files (takes a long time for the first time):
-
 call config.bat
+
+
+echo Getting new files (takes a long time for the first time):
+echo Getting files for world: %currrent_world%
+
 
 cd ..
 

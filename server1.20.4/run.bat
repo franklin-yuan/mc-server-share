@@ -12,4 +12,3 @@ REM Add custom program arguments (such as nogui) to the next line before the %* 
 java @user_jvm_args.txt @libraries/net/minecraftforge/forge/1.21.3-53.0.11/win_args.txt %*
 
 :exit
-pause

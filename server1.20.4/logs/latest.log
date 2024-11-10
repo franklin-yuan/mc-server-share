@@ -1,43 +1,46 @@
-[10Nov2024 19:44:22.872] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server]
-[10Nov2024 19:44:22.878] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Oracle Corporation Java HotSpot(TM) 64-Bit Server VM 23.0.1+11-39
-[10Nov2024 19:44:22.879] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.2 starting: java version 23.0.1 by Oracle Corporation; OS Windows 11 arch amd64 version 10.0
-[10Nov2024 19:44:23.250] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
-[10Nov2024 19:44:23.519] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///C:/Users/frank/OneDrive/Desktop/minecraft/mc-server-share-mod1/server1.20.4/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
-[10Nov2024 19:44:23.946] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
-[10Nov2024 19:44:24.844] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments []
-[10Nov2024 19:44:25.412] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///C:/Users/frank/OneDrive/Desktop/minecraft/mc-server-share-mod1/server1.20.4/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/C:/Users/frank/OneDrive/Desktop/minecraft/mc-server-share-mod1/server1.20.4/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:///C:/Users/frank/OneDrive/Desktop/minecraft/mc-server-share-mod1/server1.20.4/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/C:/Users/frank/OneDrive/Desktop/minecraft/mc-server-share-mod1/server1.20.4/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties]
-[10Nov2024 19:44:25.887] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///C:/Users/frank/OneDrive/Desktop/minecraft/mc-server-share-mod1/server1.20.4/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/C:/Users/frank/OneDrive/Desktop/minecraft/mc-server-share-mod1/server1.20.4/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///C:/Users/frank/OneDrive/Desktop/minecraft/mc-server-share-mod1/server1.20.4/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/C:/Users/frank/OneDrive/Desktop/minecraft/mc-server-share-mod1/server1.20.4/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties]
-[10Nov2024 19:44:32.714] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 53.0.11, for MC 1.21.3 with MCP 20241025.112443
-[10Nov2024 19:44:32.714] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v53.0.11 Initialized
-[10Nov2024 19:44:32.746] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
-[10Nov2024 19:44:34.208] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[10Nov2024 19:44:34.907] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA Current: 53.0.11 Target: 53.0.11
-[10Nov2024 19:44:35.086] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[10Nov2024 19:44:37.614] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1343 recipes
-[10Nov2024 19:44:37.636] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1449 advancements
-[10Nov2024 19:44:38.163] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.3
-[10Nov2024 19:44:38.164] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[10Nov2024 19:44:38.165] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[10Nov2024 19:44:38.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[10Nov2024 19:44:38.232] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[10Nov2024 19:44:38.342] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using default channel type
-[10Nov2024 19:44:38.610] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[10Nov2024 19:44:38.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[10Nov2024 19:44:40.586] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Nov2024 19:44:40.629] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Nov2024 19:44:40.632] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Nov2024 19:44:40.635] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Nov2024 19:44:40.817] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 1734 ms
-[10Nov2024 19:44:40.819] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (2.295s)! For help, type "help"
-[10Nov2024 19:44:40.868] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[10Nov2024 19:44:51.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[10Nov2024 19:44:51.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[10Nov2024 19:44:51.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[10Nov2024 19:44:51.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[10Nov2024 19:44:51.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[10Nov2024 19:44:51.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[10Nov2024 19:44:51.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[10Nov2024 19:44:51.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[10Nov2024 19:44:51.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[10Nov2024 19:44:51.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[10Nov2024 19:44:51.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[10Nov2024 19:48:42.836] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server]
+[10Nov2024 19:48:42.838] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Oracle Corporation Java HotSpot(TM) 64-Bit Server VM 23.0.1+11-39
+[10Nov2024 19:48:42.839] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.2 starting: java version 23.0.1 by Oracle Corporation; OS Windows 11 arch amd64 version 10.0
+[10Nov2024 19:48:42.967] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
+[10Nov2024 19:48:43.061] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///C:/Users/frank/OneDrive/Desktop/minecraft/mc-server-share-mod1/server1.20.4/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
+[10Nov2024 19:48:43.356] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[10Nov2024 19:48:43.912] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments []
+[10Nov2024 19:48:44.118] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///C:/Users/frank/OneDrive/Desktop/minecraft/mc-server-share-mod1/server1.20.4/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/C:/Users/frank/OneDrive/Desktop/minecraft/mc-server-share-mod1/server1.20.4/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:///C:/Users/frank/OneDrive/Desktop/minecraft/mc-server-share-mod1/server1.20.4/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/C:/Users/frank/OneDrive/Desktop/minecraft/mc-server-share-mod1/server1.20.4/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties]
+[10Nov2024 19:48:44.477] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///C:/Users/frank/OneDrive/Desktop/minecraft/mc-server-share-mod1/server1.20.4/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/C:/Users/frank/OneDrive/Desktop/minecraft/mc-server-share-mod1/server1.20.4/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///C:/Users/frank/OneDrive/Desktop/minecraft/mc-server-share-mod1/server1.20.4/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/C:/Users/frank/OneDrive/Desktop/minecraft/mc-server-share-mod1/server1.20.4/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties]
+[10Nov2024 19:48:48.255] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 53.0.11, for MC 1.21.3 with MCP 20241025.112443
+[10Nov2024 19:48:48.255] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v53.0.11 Initialized
+[10Nov2024 19:48:48.269] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[10Nov2024 19:48:48.818] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[10Nov2024 19:48:49.269] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[10Nov2024 19:48:49.307] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA Current: 53.0.11 Target: 53.0.11
+[10Nov2024 19:48:51.102] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1343 recipes
+[10Nov2024 19:48:51.119] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1449 advancements
+[10Nov2024 19:48:51.619] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.3
+[10Nov2024 19:48:51.620] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[10Nov2024 19:48:51.621] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[10Nov2024 19:48:51.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[10Nov2024 19:48:51.726] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[10Nov2024 19:48:51.803] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using default channel type
+[10Nov2024 19:48:51.901] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[10Nov2024 19:48:52.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[10Nov2024 19:48:52.957] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Nov2024 19:48:52.964] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Nov2024 19:48:53.054] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 834 ms
+[10Nov2024 19:48:53.055] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (1.193s)! For help, type "help"
+[10Nov2024 19:48:53.072] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[10Nov2024 19:48:55.173] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player thunderball is 51663a42-2b1d-46a3-8338-adb5a6225ee0
+[10Nov2024 19:48:55.910] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thunderball[/[fd58:d759:35a0:8c00:e41c:7d97:97d:2d99]:56971] logged in with entity id 41 at (-461.93718665858626, 191.70414795396323, 764.9211622607896)
+[10Nov2024 19:48:55.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thunderball joined the game
+[10Nov2024 19:49:47.126] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thunderball lost connection: Disconnected
+[10Nov2024 19:49:47.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thunderball left the game
+[10Nov2024 19:49:52.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[10Nov2024 19:49:52.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[10Nov2024 19:49:52.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[10Nov2024 19:49:52.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[10Nov2024 19:49:52.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10Nov2024 19:49:52.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[10Nov2024 19:49:52.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[10Nov2024 19:49:53.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10Nov2024 19:49:53.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10Nov2024 19:49:53.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10Nov2024 19:49:53.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

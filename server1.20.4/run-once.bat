@@ -54,7 +54,7 @@ set /p user_name=Username:
 
 ngrok config add-authtoken %authtoken%
 git config --global user.email %user_email%
-git config --global user.username %user_name%
+git config --global user.name %user_name%
 
 
 

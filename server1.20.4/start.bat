@@ -41,7 +41,7 @@ git commit . -m "Update from %upload_name%"
 
 echo Wait until this terminal says 'complete'
 
-git push -u origin %currrent_world%
+git push -u origin HEAD:%currrent_world%
 
 echo Complete
 

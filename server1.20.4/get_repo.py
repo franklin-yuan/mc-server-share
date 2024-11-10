@@ -31,7 +31,7 @@ try:
     repo = git.Repo(config.worldpath)
     print(repo.git.status())
     print(repo.git.execute("git remote add origin https://github.com/franklin-yuan/mc-server-share.git"))
-    print(repo.git.execute("git branch -M main"))
+    print(repo.git.execute("git branch -M "+config.current_branch))
     #print(repo.git.execute("git config --global --type bool push.autoSetupRemote true"))
 except:
     print("Something weird happened or repository already initiated")
@@ -75,6 +75,8 @@ f.write("set authtoken="+token+"\n")
 f.write("set user_email="+email+"\n")
 f.write("set user_name="+username)
 f.close()
+
+
 
 
 

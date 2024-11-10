@@ -21,17 +21,14 @@ echo Type 'stop' into this terminal when you want to end the server!
 chdir /d %OLDDIR% &rem restore current directory
 @REM python ./update_pull.py
 
-start "" ngrok tcp 25565 --region au
+start "" ngrok tcp 30000 --region au
 
-start "" java -jar -Xmx3072M -Xms3072M forge-1.21.3-53.0.11-shim.jar --onlyCheckJava
+START java -jar -Xmx3072M -Xms3072M forge-1.21.3-53.0.11-shim.jar --onlyCheckJava nogui
 if %ERRORLEVEL% NEQ 0 (
     echo.
     echo If you're struggling to fix the error above, ask for help on the forums or Discord mentioned in the readme.
     goto :exit
 )
-
-REM Add custom program arguments (such as nogui) to the next line before the %* or pass them to this script directly
-java @user_jvm_args.txt @libraries/net/minecraftforge/forge/1.21.3-53.0.11/win_args.txt %*
 
 :exit
 

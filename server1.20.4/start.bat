@@ -1,16 +1,22 @@
 @echo off
+
+set OLDDIR=%CD%
+
+:start
 cls
 
 echo Getting new files (takes a long time for the first time):
 
 call config.bat
 
+cd ..
+
 git fetch --all
 git reset --hard origin/%currrent_world%
 
 echo Type 'stop' into this terminal when you want to end the server!
 
-
+chdir /d %OLDDIR% &rem restore current directory
 @REM python ./update_pull.py
 
 start "" ngrok tcp 25565 --region au
@@ -24,6 +30,8 @@ echo Upping files:
 set /p upload_name=Enter name to use for upload:  
 
 echo Setting everything up... The first time could take a while
+
+cd ..
 
 git status
 git add .

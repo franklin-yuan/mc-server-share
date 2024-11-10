@@ -11,7 +11,6 @@ call config.bat
 echo Getting new files (takes a long time for the first time):
 echo Getting files for world: %currrent_world%
 
-
 cd ..
 
 git fetch --all
@@ -24,7 +23,7 @@ chdir /d %OLDDIR% &rem restore current directory
 
 start "" ngrok tcp 25565 --region au
 
-java -Xmx3072M -Xms3072M -jar server.jar nogui
+call run.bat
 
 taskkill.exe /IM ngrok.exe /F 
 

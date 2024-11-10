@@ -1,1 +1,1 @@
-set authtoken=""
+set currrent_world=mod1

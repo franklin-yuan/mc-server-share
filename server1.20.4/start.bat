@@ -23,7 +23,7 @@ chdir /d %OLDDIR% &rem restore current directory
 
 start "" ngrok tcp 25565 --region au
 
-call run.bat
+java -Xmx3072M -Xms3072M -jar forge-1.21.3-53.0.11-shim nogui
 
 taskkill.exe /IM ngrok.exe /F 
 

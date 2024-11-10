@@ -1,14 +1,6 @@
 @echo off
 REM Add custom JVM arguments (such as RAM allocation) to the user_jvm_args.txt
 
-java -jar forge-1.21.3-53.0.11-shim.jar --onlyCheckJava
-if %ERRORLEVEL% NEQ 0 (
-    echo.
-    echo If you're struggling to fix the error above, ask for help on the forums or Discord mentioned in the readme.
-    goto :exit
-)
+java -Xmx3072M -Xms3072M -jar forge-1.21.3-53.0.11-shim.jar nogui
 
-REM Add custom program arguments (such as nogui) to the next line before the %* or pass them to this script directly
-java @user_jvm_args.txt @libraries/net/minecraftforge/forge/1.21.3-53.0.11/win_args.txt %*
 
-:exit

@@ -17,7 +17,7 @@ cd ..
 git init
 git remote add origin https://github.com/franklin-yuan/mc-server-share.git
 git status
-git fetch --all
+git fetch origin main
 git reset --hard origin/main
 
 echo:

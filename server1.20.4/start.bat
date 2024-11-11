@@ -13,7 +13,7 @@ echo Getting files for world: %currrent_world%
 
 cd ..
 
-git fetch --all
+git fetch origin %currrent_world%
 git reset --hard origin/%currrent_world%
 
 echo Type 'stop' into this terminal when you want to end the server!
@@ -26,9 +26,6 @@ start "" ngrok tcp 30000 --region au
 call run.bat
 
 :exit
-
-PAUSE
-
 
 taskkill.exe /IM ngrok.exe /F 
 

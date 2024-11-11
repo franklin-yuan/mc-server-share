@@ -17,13 +17,15 @@ cd ..
 git init
 git remote add origin https://github.com/franklin-yuan/mc-server-share.git
 git status
+git fetch --all
+git reset --hard origin/main
 
 echo:
 echo:
 
 echo Please select which world you would like to host. The current worlds include:
 echo Current worlds include:
-cd ..
+
 git branch -r
 echo Entering one that is not in the list will create a new world of that name.
 set /p world=Enter world (without the 'origin/', etc main): 

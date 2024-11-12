@@ -21,7 +21,7 @@ echo Type 'stop' into this terminal when you want to end the server!
 chdir /d %OLDDIR% &rem restore current directory
 @REM python ./update_pull.py
 
-start "" ngrok tcp 30000 --region au
+start "" ngrok tcp 25565 --region au
 
 call run.bat
 

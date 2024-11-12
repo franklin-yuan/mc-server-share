@@ -1,7 +1,11 @@
 
-[gui]
-	#Displays info on top of Structure Blocks and Jigsaws, similarly to pre-1.13 versions.
+[rendering]
+	#
+	# Displays info on top of Structure Blocks and Jigsaws in world.
+	# Default: true
 	show_structure_block_info = true
-	#Skips the screen that tells you that a world uses experimental settings.
-	skip_experimental_backup_screen = true
+	#
+	# Makes the render used by the Building Tool operate in a threaded context.
+	# Default: true
+	thread_building_tool = true
 

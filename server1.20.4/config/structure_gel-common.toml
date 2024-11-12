@@ -1,15 +1,31 @@
 
-[features]
-	#Adds more vanilla structures to the list of structures that lakes cannot generate inside of. Only villages when set to false. Requires reload.
-	extra_lake_proofing = true
+[building_tool]
+	#
+	# The amount of undo operations saved by the Building Tool.
+	# Default: 64
+	#Range: 8 ~ 256
+	max_undos = 64
+	#
+	# The amount of copied block regions that can be stored at a time with the Clone tool.
+	# Default: 9
+	#Range: 1 ~ 32
+	clipboard_size = 9
+	#
+	# The amount hours that a player's actions should stay in memory for. Use -1 to save forever.
+	# Default: 24
+	#Range: -1 ~ 240
+	expiration_time = 24
 
-[biome_dictionary]
-	#A list of mod IDs that will be ignored when the biome dictionary attempts to register unregistered biomes. Mod IDs must be comma separated ("biomesoplenty, byg, blue_skies").
-	ignored_mods = ""
-	#Determines if the biome dictionary make assumptions for unregistered biomes. Setting this to false can fix issues where a structure generates in the wrong dimension.
-	make_best_guess = true
-
-[commands]
-	#When true, removes the size limit from the fill and clone commands.
-	exceed_fill_clone_limit = true
+[debug]
+	#
+	# When true, allows extra debug logging to be printed to the console.
+	# Default: false
+	console_debug = false
+	#
+	# When true:
+	# - Gel blocks can be clicked through like air when holding items that don't interact with them.
+	# - Gel blocks can be replaced like air when not holding gel or crouching.
+	# - Gel blocks automatically replace destroyed neighboring blocks.
+	# Default: true
+	advanced_gel_behavior = true
 

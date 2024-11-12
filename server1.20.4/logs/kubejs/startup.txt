@@ -1,3 +1,0 @@
-[19:33:45] [INFO ] Loaded script startup_scripts:squidspawn.js in 0.251 s
-[19:33:45] [INFO ] Loaded script startup_scripts:startingitems.js in 0.01 s
-[19:33:45] [INFO ] Loaded 2/2 KubeJS startup scripts in 0.761 s

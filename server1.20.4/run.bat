@@ -1,8 +1,7 @@
 @echo off
-REM Add custom JVM arguments (such as RAM allocation) to the user_jvm_args.txt
-
-java -Xmx8192M -Xms8192M -jar forge.jar nogui
-
+REM Forge requires a configured set of both JVM and program arguments.
+REM Add custom JVM arguments to the user_jvm_args.txt
+REM Add custom program arguments {such as nogui} to this file in the next line before the %* or
+REM  pass them to this script directly
+java @user_jvm_args.txt @libraries/net/minecraftforge/forge/1.20.1-47.3.0/win_args.txt %*
 pause
-
-

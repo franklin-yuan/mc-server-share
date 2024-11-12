@@ -11,10 +11,9 @@ call config.bat
 echo Getting new files (takes a long time for the first time):
 echo Getting files for world: %currrent_world%
 
-
 cd ..
 
-git fetch --all
+git fetch origin %currrent_world%
 git reset --hard origin/%currrent_world%
 
 echo Type 'stop' into this terminal when you want to end the server!
@@ -22,9 +21,11 @@ echo Type 'stop' into this terminal when you want to end the server!
 chdir /d %OLDDIR% &rem restore current directory
 @REM python ./update_pull.py
 
-start "" ngrok tcp 25565 --region au
+start "" ngrok tcp 30000 --region au
 
-java -Xmx3072M -Xms3072M -jar server.jar nogui
+call run.bat
+
+:exit
 
 taskkill.exe /IM ngrok.exe /F 
 

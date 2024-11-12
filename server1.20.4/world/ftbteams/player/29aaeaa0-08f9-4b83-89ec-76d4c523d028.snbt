@@ -1,0 +1,17 @@
+{
+	id: "29aaeaa0-08f9-4b83-89ec-76d4c523d028"
+	type: "player"
+	player_name: "Silent_Death1921"
+	ranks: {
+		29aaeaa0-08f9-4b83-89ec-76d4c523d028: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Silent_Death1921"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF5962"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

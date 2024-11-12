@@ -1,1 +1,1 @@
-set currrent_world=main
+set currrent_world=origin/mod1

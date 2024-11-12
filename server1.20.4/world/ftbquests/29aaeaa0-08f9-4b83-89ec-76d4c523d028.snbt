@@ -4,9 +4,19 @@
 	name: "Silent_Death1921#29aaeaa0"
 	lock: false
 	rewards_blocked: false
-	task_progress: { }
-	started: { }
-	completed: { }
+	task_progress: {
+		0470194500CBE26C: 1
+	}
+	started: {
+		1D4E5CDD59FFB7A0: 1731406970911L
+		2574E7CF699D5B45: 1731406970911L
+		0470194500CBE26C: 1731406970911L
+		0000000000000001: 1731406970911L
+	}
+	completed: {
+		2574E7CF699D5B45: 1731406970929L
+		0470194500CBE26C: 1731406970929L
+	}
 	claimed_rewards: { }
 	player_data: { }
 }

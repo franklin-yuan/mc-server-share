@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "51663a422b1d46a38338adb5a6225ee0"
+	name: "thunderball#51663a42"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		0470194500CBE26C: 1
+	}
+	started: {
+		1D4E5CDD59FFB7A0: 1731407099534L
+		2574E7CF699D5B45: 1731407099534L
+		0470194500CBE26C: 1731407099534L
+		0000000000000001: 1731407099534L
+	}
+	completed: {
+		2574E7CF699D5B45: 1731407099534L
+		0470194500CBE26C: 1731407099534L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}

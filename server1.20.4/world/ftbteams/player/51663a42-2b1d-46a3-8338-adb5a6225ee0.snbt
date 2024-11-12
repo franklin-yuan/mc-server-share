@@ -1,0 +1,17 @@
+{
+	id: "51663a42-2b1d-46a3-8338-adb5a6225ee0"
+	type: "player"
+	player_name: "thunderball"
+	ranks: {
+		51663a42-2b1d-46a3-8338-adb5a6225ee0: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "thunderball"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF5972"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

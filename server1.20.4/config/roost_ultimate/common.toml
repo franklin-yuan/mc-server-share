@@ -1,0 +1,47 @@
+
+["Roost Ultimate Config"]
+	"Roost Tier 5" = 30
+	"Roost Tier 6" = 30
+	"Roost Tier 7" = 30
+	#XP Tier 1-9 - is the needed XP Amount for a levelup for each Tier of Chicken.
+	"XP Tier 1" = 500
+	"Roost Tier 8" = 30
+	#Block Output Speed.
+	"Roost Tier 1" = 30
+	"XP Tier 3" = 12500
+	"Roost Tier 2" = 30
+	"XP Tier 2" = 2500
+	"Roost Tier 3" = 30
+	"XP Tier 5" = 125000
+	"Roost Tier 4" = 30
+	"XP Tier 4" = 62500
+	"Roost Tier 9" = 30
+	#Vanilla Seeds is the XP Amount for any seed in Tag forge:seeds.
+	"Vanilla Seeds" = 20
+	"Breeder Speed" = 30
+	"Trainer Speed" = 20
+	#Tier 1-9 - sets the maxlevel for each Tier of Chicken.
+	"Max Level Tier 1" = 60
+	"Max Level Tier 2" = 60
+	"Max Level Tier 3" = 60
+	"Max Level Tier 4" = 60
+	"Max Level Tier 5" = 60
+	"Seeds Tier 5" = 350
+	"Max Level Tier 6" = 60
+	"Seeds Tier 4" = 300
+	"Max Level Tier 7" = 60
+	"Seeds Tier 7" = 700
+	"Max Level Tier 8" = 60
+	"Seeds Tier 6" = 500
+	"Max Level Tier 9" = 60
+	#Seeds Tier 1-9 is the XP Amount for the tiered Seeds.
+	"Seeds Tier 1" = 100
+	"Seeds Tier 3" = 150
+	"Seeds Tier 2" = 125
+	"XP Tier 7" = 325000
+	"XP Tier 6" = 250000
+	"XP Tier 9" = 500000
+	"XP Tier 8" = 400000
+	"Seeds Tier 9" = 2500
+	"Seeds Tier 8" = 1000
+

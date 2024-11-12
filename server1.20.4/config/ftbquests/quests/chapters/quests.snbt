@@ -1,0 +1,96 @@
+{
+	id: "0BB1A6609C85D492"
+	group: ""
+	order_index: 1
+	filename: "quests"
+	title: "Goals"
+	icon: {
+		id: "botania:cosmetic_questgiver_mark"
+		Count: 1b
+		tag: { }
+	}
+	subtitle: ["Simple/Easy Quests"]
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 0.0d
+			y: 0.0d
+			description: ["Mobile Storage that follows you around"]
+			id: "303CDBD79FEB8628"
+			tasks: [{
+				id: "770D60E73DCAC9A0"
+				type: "item"
+				item: {
+					id: "luggage:luggage"
+					Count: 1b
+					tag: { }
+				}
+			}]
+			rewards: [{
+				id: "0BA37E05E98E7CE4"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: 2.0d
+			y: 0.0d
+			description: ["Test out your Luck by opening these Pandora's Boxes"]
+			id: "4390B94CC9C66245"
+			tasks: [{
+				id: "232DDE5DFADD90D9"
+				type: "item"
+				item: "pandorasbox:pandoras_box"
+			}]
+			rewards: [{
+				id: "393A0A6B0766D926"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: 0.0d
+			y: 1.5d
+			description: ["Craft one of the OG Backpacks"]
+			id: "7A6CFA6F454BFF06"
+			tasks: [{
+				id: "1EFBFB4C9C4DBD81"
+				type: "item"
+				title: "Craft Any Backpack"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "travelersbackpack:custom_travelers_backpack"
+					}
+				}
+			}]
+			rewards: [{
+				id: "67B982652F4D5397"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: 2.0d
+			y: 1.5d
+			description: ["Have Fun Mining"]
+			id: "7B3A3DD87367461C"
+			tasks: [{
+				id: "09EB82ADF2A7B278"
+				type: "item"
+				item: {
+					id: "mininggadgets:mininggadget_simple"
+					Count: 1b
+					tag: { }
+				}
+			}]
+			rewards: [{
+				id: "4D1CA29050BE14BB"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+	]
+}

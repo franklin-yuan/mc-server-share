@@ -1,0 +1,312 @@
+{
+  "entries": [
+    {
+      "item": "mysticalagriculture:inferium_essence",
+      "emc": 64
+    },
+    {
+      "item": "minecraft:stone",
+      "emc": 16
+    },
+    {
+      "item": "projecte:transmutation_table",
+      "emc": 320
+    },
+    {
+      "item": "minecraft:furnace",
+      "emc": 8
+    },
+    {
+      "item": "mysticalagriculture:prosperity_shard",
+      "emc": 64
+    },
+    {
+      "item": "allthemodium:allthemodium_ingot",
+      "emc": 327670
+    },
+    {
+      "item": "allthemodium:vibranium_ingot",
+      "emc": 655340
+    },
+    {
+      "item": "allthemodium:unobtainium_ingot",
+      "emc": 5242720
+    },
+    {
+      "item": "allthemodium:unobtainium_allthemodium_alloy_ingot",
+      "emc": 5570390
+    },
+    {
+      "item": "allthemodium:unobtainium_vibranium_alloy_ingot",
+      "emc": 5898060
+    },
+    {
+      "item": "allthemodium:vibranium_allthemodium_alloy_ingot",
+      "emc": 983010
+    },
+    {
+      "item": "inventorypets:pet_illuminati{Damage:0,slowDelay:1660822193861L}",
+      "emc": 0
+    },
+    {
+      "item": "projecte:low_covalence_dust",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:dropper",
+      "emc": 73
+    },
+    {
+      "item": "projecte:alchemical_chest",
+      "emc": 9121
+    },
+    {
+      "item": "projecte:transmutation_tablet",
+      "emc": 2228548
+    },
+    {
+      "item": "minecraft:piston",
+      "emc": 348
+    },
+    {
+      "item": "levinide:sunstone_fragment",
+      "emc": 16384
+    },
+    {
+      "item": "levinide:celestial_nugget",
+      "emc": 65536
+    },
+    {
+      "item": "levinide:edenite_ingot",
+      "emc": 32768
+    },
+    {
+      "item": "levinide:blyte",
+      "emc": 2048
+    },
+    {
+      "item": "levinide:donta_fragment",
+      "emc": 2048
+    },
+    {
+      "item": "minecraft:charcoal",
+      "emc": 32
+    },
+    {
+      "item": "minecraft:experience_bottle",
+      "emc": 256
+    },
+    {
+      "item": "minecraft:dragon_head",
+      "emc": 26214
+    },
+    {
+      "item": "minecraft:comparator",
+      "emc": 259
+    },
+    {
+      "item": "forbidden_arcanus:darkstone",
+      "emc": 8
+    },
+    {
+      "item": "forbidden_arcanus:arcane_crystal",
+      "emc": 256
+    },
+    {
+      "item": "refinedstorage:machine_casing",
+      "emc": 2049
+    },
+    {
+      "item": "iceandfire:dragonscales_red",
+      "emc": 2048
+    },
+    {
+      "item": "iceandfire:dragonscales_green",
+      "emc": 2048
+    },
+    {
+      "item": "iceandfire:dragonscales_bronze",
+      "emc": 2048
+    },
+    {
+      "item": "iceandfire:dragonscales_gray",
+      "emc": 2048
+    },
+    {
+      "item": "iceandfire:dragonscales_blue",
+      "emc": 2048
+    },
+    {
+      "item": "iceandfire:dragonscales_white",
+      "emc": 2048
+    },
+    {
+      "item": "iceandfire:dragonscales_sapphire",
+      "emc": 2048
+    },
+    {
+      "item": "iceandfire:dragonscales_silver",
+      "emc": 2048
+    },
+    {
+      "item": "iceandfire:dragonscales_electric",
+      "emc": 2048
+    },
+    {
+      "item": "iceandfire:dragonscales_amythest",
+      "emc": 2048
+    },
+    {
+      "item": "iceandfire:dragonscales_copper",
+      "emc": 2048
+    },
+    {
+      "item": "iceandfire:dragonscales_black",
+      "emc": 2048
+    },
+    {
+      "item": "iceandfire:dragonbone",
+      "emc": 2048
+    },
+    {
+      "item": "iceandfire:fire_dragon_heart",
+      "emc": 16384
+    },
+    {
+      "item": "iceandfire:ice_dragon_heart",
+      "emc": 16384
+    },
+    {
+      "item": "iceandfire:lightning_dragon_heart",
+      "emc": 16384
+    },
+    {
+      "item": "iceandfire:fire_dragon_flesh",
+      "emc": 4096
+    },
+    {
+      "item": "iceandfire:ice_dragon_flesh",
+      "emc": 4096
+    },
+    {
+      "item": "iceandfire:lightning_dragon_flesh",
+      "emc": 4096
+    },
+    {
+      "item": "bhc:red_heart",
+      "emc": 256
+    },
+    {
+      "item": "bhc:green_heart",
+      "emc": 16384
+    },
+    {
+      "item": "bhc:yellow_heart",
+      "emc": 1024
+    },
+    {
+      "item": "bhc:blue_heart",
+      "emc": 65536
+    },
+    {
+      "item": "gobber2:gobber2_glob",
+      "emc": 1024
+    },
+    {
+      "item": "gobber2:gobber2_glob_nether",
+      "emc": 8192
+    },
+    {
+      "item": "gobber2:gobber2_glob_end",
+      "emc": 32768
+    },
+    {
+      "item": "minecraft:totem_of_undying",
+      "emc": 5120
+    },
+    {
+      "item": "cyclic:gem_amber",
+      "emc": 280
+    },
+    {
+      "item": "cyclic:gem_obsidian",
+      "emc": 488
+    },
+    {
+      "item": "minecraft:glass_pane",
+      "emc": 1
+    },
+    {
+      "item": "mekanism:dust_lithium",
+      "emc": 256
+    },
+    {
+      "item": "draconicevolution:draconium_dust",
+      "emc": 512
+    },
+    {
+      "item": "draconicevolution:draconium_ingot",
+      "emc": 512
+    },
+    {
+      "item": "draconicevolution:dragon_heart",
+      "emc": 65536
+    },
+    {
+      "item": "levinide:dark_dominator_ground",
+      "emc": 4
+    },
+    {
+      "item": "levinide:dominator_scythe_orb",
+      "emc": 966
+    },
+    {
+      "item": "levinide:dominator_scythe_handle",
+      "emc": 966
+    },
+    {
+      "item": "levinide:dominator_scythe_blade",
+      "emc": 966
+    },
+    {
+      "item": "levinide:dominator_falchion_blade",
+      "emc": 483
+    },
+    {
+      "item": "levinide:dominator_falchion_handle",
+      "emc": 483
+    },
+    {
+      "item": "levinide:raw_edenite",
+      "emc": 32768
+    },
+    {
+      "item": "mekanism:pellet_plutonium",
+      "emc": 90112
+    },
+    {
+      "item": "mekanism:pellet_antimatter",
+      "emc": 90112000
+    },
+    {
+      "item": "mekanism:pellet_polonium",
+      "emc": 90112
+    },
+    {
+      "item": "minecraft:firework_rocket",
+      "emc": 64
+    },
+    {
+      "item": "fluxnetworks:flux_dust",
+      "emc": 64
+    },
+    {
+      "item": "minecraft:elytra{Damage:0}",
+      "emc": 12800
+    },
+    {
+      "item": "aquaculture:neptunium_ingot",
+      "emc": 12740
+    }
+  ]
+}

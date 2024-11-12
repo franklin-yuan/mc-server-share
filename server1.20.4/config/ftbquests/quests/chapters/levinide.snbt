@@ -1,0 +1,3170 @@
+{
+	id: "451CB2DAEED0D277"
+	group: ""
+	order_index: 3
+	filename: "levinide"
+	title: "Levinide"
+	icon: {
+		id: "levinide:big_go"
+		Count: 1b
+		tag: {
+			Damage: 0
+		}
+	}
+	subtitle: ["Levinide Questline"]
+	default_quest_shape: "rsquare"
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			title: "Special Celestial Swords"
+			x: -4.0d
+			y: 13.5d
+			description: ["Craft any Enhancement of the Celestial Sword"]
+			dependencies: ["5F149412ED0A234C"]
+			dependency_requirement: "one_completed"
+			id: "71510E953CC89998"
+			tasks: [
+				{
+					id: "450F7AF41F9F6225"
+					type: "item"
+					item: {
+						id: "levinide:withering_celestial_sword"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "708E200D28985823"
+					type: "item"
+					item: {
+						id: "levinide:flaming_celestial_sword"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "13FD3528383E257A"
+					type: "item"
+					item: {
+						id: "levinide:eternal_celestial_sword"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+			rewards: [{
+				id: "2E5827155BFCA106"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -13.5d
+			y: -7.5d
+			description: ["Cheap Sword, Has a very helpful Right-click  Ability (Consumed Item on Use)"]
+			dependencies: ["711FC6DE1C8D6F3D"]
+			id: "1B5451A658135B21"
+			tasks: [{
+				id: "5DEAC8D51A170ED8"
+				type: "item"
+				item: {
+					id: "levinide:flower_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "00CDC2C09165807A"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			title: "Lantern Dimension"
+			x: -4.0d
+			y: -7.5d
+			description: [
+				"The Lantern Dimension is made just like a Regular Nether Portal, Except you use Structure Frame instead of Obsdian and Lantern Fueller instead of Flint and Steel."
+				""
+			]
+			dependencies: ["7ACA9881F153549B"]
+			id: "50FA679DD92C8AD8"
+			tasks: [
+				{
+					id: "3D41775E811AE600"
+					type: "item"
+					item: "levinide:lantern_frame"
+					count: 10L
+				}
+				{
+					id: "258A06C153D91EE1"
+					type: "item"
+					item: {
+						id: "levinide:lantern"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+			rewards: [{
+				id: "7392A1C8F4AF85D3"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -15.5d
+			y: -9.5d
+			description: ["This Item Sets Entities on Fire"]
+			dependencies: ["02FCB02E8B6A310D"]
+			id: "162979DD017C9C44"
+			tasks: [{
+				id: "77C123CD6F37DDE8"
+				type: "item"
+				item: {
+					id: "levinide:sunstone_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "0D7FCCF5D9DFED29"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -14.5d
+			y: -10.5d
+			dependencies: ["080F90D30D5A567F"]
+			id: "02FCB02E8B6A310D"
+			tasks: [{
+				id: "3008CF21553BBE0E"
+				type: "item"
+				item: "levinide:sunstone_ingot"
+			}]
+			rewards: [{
+				id: "5B0A7D017690441E"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -13.5d
+			y: -10.5d
+			description: ["Sunstone Ore is found in Meteorites that Spawn in the Desert Biome. They Vary from 3x3 to 5x5"]
+			dependencies: ["711FC6DE1C8D6F3D"]
+			id: "080F90D30D5A567F"
+			tasks: [{
+				id: "56D05BCF44C95E11"
+				type: "item"
+				item: "levinide:sunstone_fragment"
+			}]
+			rewards: [{
+				id: "57201F66D9C05006"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -13.5d
+			y: -8.5d
+			dependencies: ["711FC6DE1C8D6F3D"]
+			id: "7530FDD454C20FAD"
+			tasks: [{
+				id: "1C0BEC58FDEB2A6B"
+				type: "item"
+				item: "levinide:raw_diamond_netherite_mixture"
+			}]
+			rewards: [{
+				id: "79A54962D4C80100"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -14.5d
+			y: -8.5d
+			description: ["Smelt Diamond-Netherite Mixture"]
+			dependencies: ["7530FDD454C20FAD"]
+			id: "1F80A7054399E2B9"
+			tasks: [{
+				id: "60FE21EF4301F688"
+				type: "item"
+				item: "levinide:dozinite_ingot"
+			}]
+			rewards: [{
+				id: "572B29AF5C18729A"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -13.5d
+			y: -6.5d
+			dependencies: ["711FC6DE1C8D6F3D"]
+			id: "2C2676CA910F1B8A"
+			tasks: [{
+				id: "6BD226DCC2E98EF2"
+				type: "item"
+				item: "levinide:levide"
+			}]
+			rewards: [{
+				id: "3479ED781F8B53E8"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -14.5d
+			y: -6.5d
+			dependencies: ["2C2676CA910F1B8A"]
+			id: "0BF06C6491556C7B"
+			tasks: [{
+				id: "71BF07E497DA6656"
+				type: "item"
+				item: "levinide:slagstone"
+			}]
+			rewards: [{
+				id: "25690FD3E9C6ECBE"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -4.0d
+			y: -5.5d
+			description: ["Levinide is a Huge Mod, Adding A ton new to the game. There can be some complex features and so I hope this questline will help you progress through the mod."]
+			id: "7ACA9881F153549B"
+			tasks: [{
+				id: "4EB4F1AEAB77C458"
+				type: "checkmark"
+				title: "Levinide"
+			}]
+		}
+		{
+			title: "Dominator Lands Biome"
+			x: -4.0d
+			y: -4.0d
+			description: ["This Biome is the Perfect way to start the Levinide Mod. It is home to lots of New Mobs which spawn at night. There are many new structures as well. Some even contain spawners to help make farms."]
+			dependencies: ["7ACA9881F153549B"]
+			id: "162930FC32B83CE7"
+			tasks: [{
+				id: "578EDB550169ED8B"
+				type: "biome"
+				title: "Dominator Lands Biome"
+				icon: "levinide:dominator_ground"
+				biome: "levinide:dominator_land"
+			}]
+			rewards: [{
+				id: "33208A20697C912A"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			title: "Slagstone Peaks Biome"
+			x: -6.0d
+			y: -9.0d
+			description: ["This Biome with Great Heights is the safest place, well atleast in the Lantern Dimension. No Monster Spawn there. You can live there"]
+			dependencies: ["7712EAA7C1DA035F"]
+			id: "3049F5F8BB330F98"
+			tasks: [{
+				id: "3807F0F070A6F023"
+				type: "biome"
+				title: "Slagstone Peaks Biome"
+				icon: "levinide:slagstone"
+				biome: "levinide:slagstone_peaks"
+			}]
+			rewards: [{
+				id: "2ACC595A299CA48F"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -11.0d
+			y: -5.5d
+			description: ["These Quests Show some of the Smaller Features in the Mod"]
+			dependencies: ["7ACA9881F153549B"]
+			id: "711FC6DE1C8D6F3D"
+			tasks: [{
+				id: "60D60D1DB8D57686"
+				type: "checkmark"
+				title: "Other Features"
+			}]
+		}
+		{
+			x: -2.0d
+			y: -9.0d
+			description: ["Donta Lands are home to lots of New Strong Mobs. They drop a ton of New Unique Items which are required by more powerful Items. This Biome has lots of structures, some even have spawners which allow you to make farms easier."]
+			dependencies: ["7712EAA7C1DA035F"]
+			id: "4D877895720693F5"
+			tasks: [{
+				id: "55501DF4CBE104E4"
+				type: "biome"
+				title: "Donta Lands Biome"
+				icon: "minecraft:grass_block"
+				biome: "levinide:donta_lands"
+			}]
+			rewards: [{
+				id: "29906A340F8088E7"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -4.0d
+			y: -9.0d
+			description: ["This Dimension is home to more of the crazy stuff in Levinide, such as the new Bosses and also the Next Progressions in the Mod."]
+			dependencies: ["50FA679DD92C8AD8"]
+			id: "7712EAA7C1DA035F"
+			tasks: [{
+				id: "17C6D2A67C4F36BF"
+				type: "dimension"
+				title: "Visit Lantern Dimension"
+				icon: "levinide:lantern_eye"
+				dimension: "levinide:lantern"
+			}]
+			rewards: [{
+				id: "2CC09FCCA03E5694"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -9.5d
+			y: -7.5d
+			description: ["Mining Dirt or Grass Blocks with this Shovel has a 10% chance to spawn a New Clay Mob, which drops Lots of Clay"]
+			dependencies: ["711FC6DE1C8D6F3D"]
+			id: "39D9DA0617691E65"
+			tasks: [{
+				id: "1BA9520C7558F5D1"
+				type: "item"
+				item: {
+					id: "levinide:clay_shovel"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "649B60E599899FE1"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -18.5d
+			y: -5.5d
+			dependencies: ["711FC6DE1C8D6F3D"]
+			id: "5F176A104913B1E9"
+			tasks: [{
+				id: "06AA27A0C3043AC9"
+				type: "item"
+				item: "levinide:tough_paper"
+			}]
+			rewards: [{
+				id: "25720314C739E575"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -21.5d
+			y: -5.5d
+			dependencies: ["5F176A104913B1E9"]
+			id: "73750E7AC305BE20"
+			tasks: [{
+				id: "3A50126F0FCFC359"
+				type: "item"
+				item: "levinide:tough_golden_paper"
+			}]
+			rewards: [{
+				id: "6B7186E27B69C381"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -24.5d
+			y: -5.5d
+			dependencies: ["73750E7AC305BE20"]
+			id: "0DBD2AEF41DBE53A"
+			tasks: [{
+				id: "273BA53EBFE6E5B9"
+				type: "item"
+				item: "levinide:tough_diamond_paper"
+			}]
+			rewards: [{
+				id: "71201E92E1562E6E"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -18.5d
+			y: -2.5d
+			description: ["Make Scroll for Early Game, More of the Basic Scroll Abilities"]
+			dependencies: ["5F176A104913B1E9"]
+			id: "71FB66B1055F8ACC"
+			tasks: [{
+				id: "75EDCD69B4BBF1A5"
+				type: "item"
+				item: "levinide:blank_scroll"
+			}]
+			rewards: [{
+				id: "46ABBC4270AE0004"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -21.5d
+			y: -2.5d
+			description: ["Make High MC Tier Scrolls and also some Unique Scroll with special Abilities"]
+			dependencies: ["73750E7AC305BE20"]
+			id: "30A7EB45163A8E1E"
+			tasks: [{
+				id: "64E36EEFCE1E19D3"
+				type: "item"
+				item: "levinide:blank_golden_scroll"
+			}]
+			rewards: [{
+				id: "0A97C946ED71F1B6"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -24.5d
+			y: -2.5d
+			description: ["Highest Tier of Scrolls can be made with this scroll. Go beyond Vanilla limitations."]
+			dependencies: ["0DBD2AEF41DBE53A"]
+			id: "33B0A2FB5396FAA2"
+			tasks: [{
+				id: "664B0EB05E8DB910"
+				type: "item"
+				item: "levinide:blank_diamond_scroll"
+			}]
+			rewards: [{
+				id: "6F92CE8152D2ECE5"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -18.0d
+			y: -1.5d
+			description: ["Adds the Efficiency Enchant to or Upgrades the Level. Can Be Applied to Tool"]
+			dependencies: ["71FB66B1055F8ACC"]
+			id: "4C40643717AD7F26"
+			tasks: [{
+				id: "0D54C0A3151222EE"
+				type: "item"
+				item: "levinide:efficiency_scroll_i"
+			}]
+			rewards: [{
+				id: "31D1DE5B6C7EC581"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -20.5d
+			y: -1.5d
+			description: ["Adds the Efficiency Enchant to or Upgrades the Level. Can Be Applied to Tool"]
+			dependencies: ["30A7EB45163A8E1E"]
+			id: "6A6154CD4F667CD5"
+			tasks: [{
+				id: "64044BC1E2BC810F"
+				type: "item"
+				item: "levinide:efficiency_scroll_ii"
+			}]
+			rewards: [{
+				id: "1F5DF24FA875ACA6"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -24.5d
+			y: -1.5d
+			description: ["Adds the Efficiency Enchant to or Upgrades the Level. Can Be Applied to Tool"]
+			dependencies: ["33B0A2FB5396FAA2"]
+			id: "2B6BF7ADFAA826FE"
+			tasks: [{
+				id: "4FA92339091F1025"
+				type: "item"
+				item: "levinide:efficiency_scroll_iii"
+			}]
+			rewards: [{
+				id: "796A516C6563D215"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -19.0d
+			y: -1.5d
+			description: ["Adds the Unbreaking Enchant to or Upgrades the Level. Can Be Applied to anything that has Durability"]
+			dependencies: ["71FB66B1055F8ACC"]
+			id: "66895EEB15B12B16"
+			tasks: [{
+				id: "2D6CE6FCF4770539"
+				type: "item"
+				item: "levinide:unbreaking_scroll"
+			}]
+			rewards: [{
+				id: "6E94BAE77E0E807F"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -21.5d
+			y: -1.5d
+			description: ["Increases the Spawn Chance of Dominator Zombies and Bosses. Can Only be Applied to Dominator Summoning Weapons"]
+			dependencies: ["30A7EB45163A8E1E"]
+			id: "17778B1CEB71B84C"
+			tasks: [{
+				id: "08070A6DECDB18DA"
+				type: "item"
+				item: "levinide:dominator_summoning_scroll"
+			}]
+			rewards: [{
+				id: "50E18C295855EED2"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -22.5d
+			y: -1.5d
+			description: ["+10% Per Clay Miner for a Clay Mob to spawn when digging up Dirt and Grass Blocks. Can be Applied to Shovel"]
+			dependencies: ["30A7EB45163A8E1E"]
+			id: "208BE7A6B7F0F46C"
+			tasks: [{
+				id: "33B038FEA0DEED6D"
+				type: "item"
+				item: "levinide:clay_miner_scroll"
+			}]
+			rewards: [{
+				id: "1F95FA001979610D"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -4.0d
+			y: -1.5d
+			description: ["This is a Very Common Drop from Dominator Zombies. Dominator Nuggets can also be crafted"]
+			dependencies: ["5BA3E6F34A02351D"]
+			id: "5DD7D3E55ADC2FC5"
+			tasks: [{
+				id: "793B853E1D3E5132"
+				type: "item"
+				item: "levinide:superior_flesh"
+			}]
+			rewards: [{
+				id: "2B277C18C409F7B7"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -4.0d
+			y: 0.0d
+			description: ["Made with 9 Dominator Nuggets, this Item is very useful in many recipes. Most importantly to start the Dominator Progression"]
+			dependencies: ["5DD7D3E55ADC2FC5"]
+			id: "36D75638AA9DA493"
+			tasks: [{
+				id: "287067E89BE0988A"
+				type: "item"
+				item: "levinide:dominator_ingot"
+			}]
+			rewards: [{
+				id: "58CD9BFFEC672D97"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -4.0d
+			y: 3.0d
+			description: ["The Very First Dominator Sword, This Sword has a Chance to Spawn in Dominator Zombies when killing Undead Mobs such as Skeleton and Zombies. Killing Dominator Zombies has a Higher Chance to Spawn Bosses"]
+			dependencies: ["1989F9BD0F36DABC"]
+			id: "41899AC77CF9B6EB"
+			tasks: [{
+				id: "701204105FCBBC56"
+				type: "item"
+				item: {
+					id: "levinide:dominator_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "6674DCA8AB698F07"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			title: "Dominator Falcion Parts"
+			x: -5.0d
+			y: 4.0d
+			description: ["Dominator Falcion Parts are dropped from Dominator Zombies. Atleast One Part is Dropped Per Zombie"]
+			dependencies: ["41899AC77CF9B6EB"]
+			id: "7513C03EEE0853CE"
+			tasks: [
+				{
+					id: "1D1BCD04611F1CE1"
+					type: "item"
+					item: "levinide:dominator_falchion_blade"
+				}
+				{
+					id: "10C0810BEB1DDDDD"
+					type: "item"
+					item: "levinide:dominator_falchion_handle"
+				}
+			]
+			rewards: [{
+				id: "65C3968A19169645"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -4.0d
+			y: 5.0d
+			description: ["Dominator Falcion is the First Dominator Weapon that can summon the First Dominator Boss, Dominator Tier I. Also the chance to Summon Dominator Zombie is Increased"]
+			dependencies: [
+				"7513C03EEE0853CE"
+				"773EF93C93587AEF"
+			]
+			id: "09F8A12EF1DF80F0"
+			tasks: [{
+				id: "5FB78DA1565B6CB9"
+				type: "item"
+				item: {
+					id: "levinide:dominator_falchion"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "3BAC1486DFAEA869"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			title: "Dominator Scythe Parts"
+			x: -5.0d
+			y: 6.0d
+			description: ["Dominator Scythe Parts are dropped from Dominator Tier I. Atleast One Part is Dropped Per Dominator Tier I"]
+			dependencies: ["09F8A12EF1DF80F0"]
+			id: "520A4D37A6DF7AE5"
+			tasks: [
+				{
+					id: "245C22353B13E58C"
+					type: "item"
+					item: "levinide:dominator_scythe_blade"
+				}
+				{
+					id: "3166FE42EC0F72B6"
+					type: "item"
+					item: "levinide:dominator_scythe_handle"
+				}
+				{
+					id: "741509E9F3C7E430"
+					type: "item"
+					item: "levinide:dominator_scythe_orb"
+				}
+			]
+			rewards: [{
+				id: "387E8A429870722D"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -4.0d
+			y: 7.0d
+			description: ["Dominator Scythe has a small chance to summon Dominator Tier II. Also the chance to Summon Dominator Zombie and Tier I is Increased"]
+			dependencies: [
+				"520A4D37A6DF7AE5"
+				"5624367C907E9D4F"
+			]
+			id: "062E085AD8F0D1F3"
+			tasks: [{
+				id: "34F0D0A863E34188"
+				type: "item"
+				item: {
+					id: "levinide:dominator_scythe"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "4C45A8A0B9A1CD56"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -3.0d
+			y: 4.0d
+			description: ["Dominator Zombies have lots of Drops, They can drop Iron Nuggets, Rotten Flesh, Wither Catalyst Flowers, Dominator Parts and Dominator Nuggets"]
+			dependencies: ["41899AC77CF9B6EB"]
+			id: "773EF93C93587AEF"
+			tasks: [{
+				id: "1DB25162793DD119"
+				type: "kill"
+				entity: "levinide:dominator_zombie"
+				value: 10L
+			}]
+			rewards: [{
+				id: "3F85B92ADACE94E7"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -4.0d
+			y: -2.5d
+			dependencies: ["162930FC32B83CE7"]
+			id: "5BA3E6F34A02351D"
+			tasks: [{
+				id: "485F6DFCD20A4097"
+				type: "kill"
+				entity: "levinide:dominator_zombie"
+				value: 2L
+			}]
+			rewards: [{
+				id: "1F782FC0D9CB6134"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -4.0d
+			y: 4.0d
+			description: ["Crest Dominator Zombies drop more Dominator Nuggets than Regular Dominator Zombies"]
+			dependencies: ["41899AC77CF9B6EB"]
+			id: "33E00438FE3B0269"
+			tasks: [{
+				id: "6B4B38FA0B879B50"
+				type: "kill"
+				entity: "levinide:crest_dominator_zombie"
+				value: 2L
+			}]
+			rewards: [{
+				id: "79DCA6DA98442EDE"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			title: "Crest Dominator Armor"
+			x: -2.5d
+			y: 0.0d
+			description: ["Crest Armor is Very Useful and easy to craft."]
+			dependencies: ["36D75638AA9DA493"]
+			id: "5FFA9A2776156661"
+			tasks: [
+				{
+					id: "5B5B2989CE2C8B21"
+					type: "item"
+					item: {
+						id: "levinide:crest_dominator_a_helmet"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "794E4D7F97CE9688"
+					type: "item"
+					item: {
+						id: "levinide:crest_dominator_a_chestplate"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "3BB6B76A15F72C3B"
+					type: "item"
+					item: {
+						id: "levinide:crest_dominator_a_leggings"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "50962EE9D7EB5599"
+					type: "item"
+					item: {
+						id: "levinide:crest_dominator_a_boots"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+			rewards: [{
+				id: "294E53D14E978938"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -5.5d
+			y: 0.0d
+			description: ["A Block of Dominator Ingot, Used in lots of Recipes"]
+			dependencies: ["36D75638AA9DA493"]
+			id: "57538473BA5C5546"
+			tasks: [{
+				id: "66C5CFE7D539ABDA"
+				type: "item"
+				item: "levinide:dominator_block"
+			}]
+			rewards: [{
+				id: "2661C3D639BE1855"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -7.0d
+			y: 0.0d
+			description: ["Easy, Small amd Simple Storage Bag."]
+			dependencies: ["57538473BA5C5546"]
+			id: "159B9DAB9383D470"
+			tasks: [{
+				id: "6FAE52ED9D498083"
+				type: "item"
+				item: {
+					id: "levinide:small_dominator_bag"
+					Count: 1b
+					ForgeCaps: {
+						Parent: {
+							Size: 9
+							Items: [ ]
+						}
+					}
+				}
+			}]
+			rewards: [{
+				id: "575802ACA7E9D379"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -7.0d
+			y: 1.0d
+			description: ["A Bigger Bag"]
+			dependencies: ["159B9DAB9383D470"]
+			id: "688322E66090A5DE"
+			tasks: [{
+				id: "1E358DD5F8F703D4"
+				type: "item"
+				item: {
+					id: "levinide:medium_dominator_bag"
+					Count: 1b
+					ForgeCaps: {
+						Parent: {
+							Size: 18
+							Items: [ ]
+						}
+					}
+				}
+			}]
+			rewards: [{
+				id: "485807037E2406E7"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -7.0d
+			y: 2.0d
+			description: ["Even Bigger Bag"]
+			dependencies: ["688322E66090A5DE"]
+			id: "42F855002C01D46B"
+			tasks: [{
+				id: "607FFB5195DA6CB4"
+				type: "item"
+				item: {
+					id: "levinide:large_dominator_bag"
+					Count: 1b
+					ForgeCaps: {
+						Parent: {
+							Size: 27
+							Items: [ ]
+						}
+					}
+				}
+			}]
+			rewards: [{
+				id: "3E77CD278FA6CAEE"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -3.0d
+			y: 6.0d
+			description: ["Dominator Tier I can drop lots of Items. Dominator, Iron and Gold Ingots, Diamonds and Dominator Scythe Parts"]
+			dependencies: ["09F8A12EF1DF80F0"]
+			id: "5624367C907E9D4F"
+			tasks: [{
+				id: "3FC0F811FE148E7D"
+				type: "kill"
+				entity: "levinide:dominator_tier_i"
+				value: 3L
+			}]
+			rewards: [{
+				id: "6A1E106EEA4003D4"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -3.0d
+			y: 8.5d
+			description: ["Dominator Tier II have a lot of new Drops such as Dominator Armor, Celestial Nugget, Celestial Handle and Netherite Scrap"]
+			dependencies: ["062E085AD8F0D1F3"]
+			id: "1D8A3E9DAE697134"
+			tasks: [{
+				id: "29204FA8CEFB5D1D"
+				type: "kill"
+				entity: "levinide:dominator_tier_ii"
+				value: 5L
+			}]
+			rewards: [{
+				id: "7232061B15D137DA"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -4.0d
+			y: 8.5d
+			description: ["A Very Rare drop from the Dominator Tier II Boss. Used to Craft the Next Weapon"]
+			dependencies: ["062E085AD8F0D1F3"]
+			id: "7D3DC139B9DA2D93"
+			tasks: [{
+				id: "53F60A4421759AF4"
+				type: "item"
+				item: "levinide:celestial_handle"
+			}]
+			rewards: [{
+				id: "63290ECD9358EA4D"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -5.0d
+			y: 8.5d
+			description: ["A New Drop from Dominator Tier II. Celestial Nuggets are used to Progress through the Dominator Quests"]
+			dependencies: ["062E085AD8F0D1F3"]
+			id: "5FA7BEE3A999966D"
+			tasks: [{
+				id: "08DED8079876DC95"
+				type: "item"
+				item: "levinide:celestial_nugget"
+			}]
+			rewards: [{
+				id: "2DA01E7DEFCCF8BD"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -4.0d
+			y: 10.0d
+			description: ["A Very Powerful Weapon Upgrade. This Weapon has More Weapon Path Choices. With this Celestial Sword, you can now Summon Dominator Tier III, A Very Powerful Boss. Also the Chance to Summon Dominator Zombies from Undead Mobs, Dominator Tier I and Tier II is increased"]
+			dependencies: [
+				"5FA7BEE3A999966D"
+				"7D3DC139B9DA2D93"
+				"1D8A3E9DAE697134"
+			]
+			id: "1612A4BF8723614B"
+			tasks: [{
+				id: "3474A1D4207AFCF3"
+				type: "item"
+				item: {
+					id: "levinide:celestial_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "1590D8C7340FF0C6"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -4.0d
+			y: 1.5d
+			description: ["Dominator Weapons are very Powerful and Get Stronger the More you use the. The Dominator Weapon Gain Experience for every Undead Mob Kill. Experience allows your Weapon to level up. Every Level adds a New Smite Level with a max of Smite X. Smite Increases the Damage Dealt to Undead Mobs such as the Dominator Zombies and Bosses"]
+			dependencies: ["36D75638AA9DA493"]
+			id: "1989F9BD0F36DABC"
+			tasks: [{
+				id: "6DF17CBC6237A6E9"
+				type: "checkmark"
+				title: "Dominator Weapons"
+			}]
+		}
+		{
+			title: "Dominator Armor"
+			x: -1.5d
+			y: 8.5d
+			description: ["Very Needed Armo. A Common Drop from Dominator Tier II. Extra Armor Parts can be turned into Dominator Nuggets."]
+			dependencies: ["1D8A3E9DAE697134"]
+			id: "26D297F68B5FDB3F"
+			tasks: [
+				{
+					id: "12B566114E7DA358"
+					type: "item"
+					item: {
+						id: "levinide:dominator_helmet"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "35D99638CD138895"
+					type: "item"
+					item: {
+						id: "levinide:dominator_chestplate"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "0DDB314F854CC8B5"
+					type: "item"
+					item: {
+						id: "levinide:dominator_leggings"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "03007300B770B83E"
+					type: "item"
+					item: {
+						id: "levinide:dominator_boots"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+			rewards: [{
+				id: "19304680086DB5E1"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			title: "Celestial Armor"
+			x: -1.5d
+			y: 9.5d
+			description: ["A Very Big Upgrade from Dominator Armor"]
+			dependencies: ["26D297F68B5FDB3F"]
+			id: "1E16C347377247DC"
+			tasks: [
+				{
+					id: "7B687D2A78078717"
+					type: "item"
+					item: {
+						id: "levinide:celestial_helmet"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "71028A13080D2265"
+					type: "item"
+					item: {
+						id: "levinide:celestial_chestplate"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "47D96DFE6479FB7F"
+					type: "item"
+					item: {
+						id: "levinide:celestial_leggings"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "6FF6C792F4A5E29E"
+					type: "item"
+					item: {
+						id: "levinide:celestial_boots"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+			rewards: [{
+				id: "4300FE108C1B8F9C"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -2.0d
+			y: 4.0d
+			description: ["A Rare Drop from Dominator Zombies. Crest Dominator Zombies have a higher chance to drop. Used in Recipes for Summoning Scrolls and Summoning Boss Items."]
+			dependencies: ["773EF93C93587AEF"]
+			id: "43F8DB915B2280B9"
+			tasks: [{
+				id: "3D83968D4F585749"
+				type: "item"
+				item: "levinide:dominator_summoning_core"
+			}]
+			rewards: [{
+				id: "038B973CB5EA6D37"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -1.0d
+			y: 3.0d
+			description: ["Right-Click to Summon the Dominator Tier I Boss"]
+			dependencies: ["43F8DB915B2280B9"]
+			id: "3706A7AA6F8EE4F6"
+			tasks: [{
+				id: "55F9695F7F6C30E6"
+				type: "item"
+				item: "levinide:summon_dominator_i"
+			}]
+			rewards: [{
+				id: "587206133E326E6E"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -1.0d
+			y: 4.0d
+			description: ["Right-Click to Summon the Dominator Tier II Boss"]
+			dependencies: ["43F8DB915B2280B9"]
+			id: "3684DC4E765C0EBB"
+			tasks: [{
+				id: "3CF7EAF118420FEE"
+				type: "item"
+				item: "levinide:summon_dominator_ii"
+			}]
+			rewards: [{
+				id: "2E8FCD2752FFE3EA"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -1.0d
+			y: 5.0d
+			description: ["Right-Click to Summon the Dominator Tier III Boss"]
+			dependencies: ["43F8DB915B2280B9"]
+			id: "697376CD387B03DC"
+			tasks: [{
+				id: "1F18F78CC96D05CD"
+				type: "item"
+				item: "levinide:summon_dominator_iii"
+			}]
+			rewards: [{
+				id: "5E656FF09D815D49"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -3.0d
+			y: 11.0d
+			description: ["Dominator Tier III now drop Netherite Ingots, Celestial Ingots and A Very Rare Drop Celestial Point"]
+			dependencies: ["1612A4BF8723614B"]
+			id: "758E072032EA8FE0"
+			tasks: [{
+				id: "3D95F65F2C811A62"
+				type: "kill"
+				entity: "levinide:dominator_tier_iii"
+				value: 2L
+			}]
+			rewards: [{
+				id: "4BF836E14E2E9A2E"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -8.0d
+			y: -8.5d
+			description: ["Summoned from Clay Miner Scroll or Clay Shovel"]
+			dependencies: ["39D9DA0617691E65"]
+			id: "093C8C1A5BB3FE52"
+			tasks: [{
+				id: "718D29A1D747C054"
+				type: "kill"
+				entity: "levinide:clay_piglin"
+				value: 3L
+			}]
+			rewards: [{
+				id: "4523A9B4C6EA4886"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -8.0d
+			y: -7.5d
+			description: ["Summoned from Clay Miner Scroll or Clay Shovel"]
+			dependencies: ["39D9DA0617691E65"]
+			id: "6A9294374485DE8B"
+			tasks: [{
+				id: "4343835861CCC223"
+				type: "kill"
+				entity: "levinide:clay_slug"
+				value: 3L
+			}]
+			rewards: [{
+				id: "7AA056B5F66F247F"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -8.0d
+			y: -6.5d
+			description: ["Summoned from Clay Miner Scroll or Clay Shovel"]
+			dependencies: ["39D9DA0617691E65"]
+			id: "5BE17D6B1AE3362B"
+			tasks: [{
+				id: "7EE58A7C197CF654"
+				type: "kill"
+				entity: "levinide:clay_spider"
+				value: 3L
+			}]
+			rewards: [{
+				id: "6A7436264B9FD9C3"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -10.5d
+			y: -4.0d
+			dependencies: ["711FC6DE1C8D6F3D"]
+			id: "711683A0741A29A6"
+			tasks: [{
+				id: "4E4A9F3F087215EB"
+				type: "item"
+				item: {
+					id: "levinide:absorbent_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "679C31AB9A3D4D71"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -11.5d
+			y: -4.0d
+			dependencies: ["711FC6DE1C8D6F3D"]
+			id: "204A531FF579BCF4"
+			tasks: [{
+				id: "284B4F5EEF51C83A"
+				type: "item"
+				item: {
+					id: "levinide:mob_mixer"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "5714853E153CBD0C"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -11.0d
+			y: -3.0d
+			description: ["Mixes are used to Enhance Swords sword and get some fun New Abilities"]
+			dependencies: [
+				"204A531FF579BCF4"
+				"711683A0741A29A6"
+			]
+			id: "4C2AB5D18EF4F76A"
+			tasks: [{
+				id: "2AB6E8B4AA8641BA"
+				type: "checkmark"
+				title: "Ability Mixes"
+			}]
+		}
+		{
+			x: -12.5d
+			y: -1.5d
+			dependencies: [
+				"6E95A403E6F67DD8"
+				"3E26B78753802D54"
+			]
+			id: "1982240D2A9540FC"
+			tasks: [{
+				id: "1AF4A7B95BBCAAC2"
+				type: "item"
+				item: "levinide:plague_mix"
+			}]
+			rewards: [{
+				id: "190B65687D642E2E"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -12.0d
+			y: -0.5d
+			dependencies: [
+				"1982240D2A9540FC"
+				"0CE682208F8F7852"
+			]
+			id: "0C041F7375101893"
+			tasks: [{
+				id: "04D40124EA8379D9"
+				type: "item"
+				item: "levinide:withering_mix"
+			}]
+			rewards: [{
+				id: "3F112072E2BEE6C9"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -9.5d
+			y: -1.5d
+			dependencies: ["4C2AB5D18EF4F76A"]
+			id: "4A007184537E8718"
+			tasks: [{
+				id: "191732B7E79870D5"
+				type: "item"
+				item: "levinide:blaze_mix"
+			}]
+			rewards: [{
+				id: "45564F892B8B0274"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -10.0d
+			y: -0.5d
+			dependencies: ["4A007184537E8718"]
+			id: "753C93A095FFFDE0"
+			tasks: [{
+				id: "5BE742541B7CA8FE"
+				type: "item"
+				item: "levinide:explosive_mix"
+			}]
+			rewards: [{
+				id: "0698B0A7B2271CE6"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -11.0d
+			y: 1.0d
+			dependencies: [
+				"0C041F7375101893"
+				"753C93A095FFFDE0"
+				"0CE682208F8F7852"
+			]
+			id: "51A504297E309920"
+			tasks: [{
+				id: "19230B2FE4C2D557"
+				type: "item"
+				item: "levinide:eternal_mix"
+			}]
+			rewards: [{
+				id: "093E8E939887B0D0"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -11.0d
+			y: -0.5d
+			dependencies: ["4C2AB5D18EF4F76A"]
+			id: "0CE682208F8F7852"
+			tasks: [{
+				id: "722992A6BDB84009"
+				type: "item"
+				item: "levinide:wither_skeleton_mix"
+			}]
+			rewards: [{
+				id: "1B53A5E3EF2C1B4B"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -11.5d
+			y: -1.5d
+			dependencies: ["4C2AB5D18EF4F76A"]
+			id: "6E95A403E6F67DD8"
+			tasks: [{
+				id: "274A4A7CFEC322A6"
+				type: "item"
+				item: "levinide:mooshroom_mix"
+			}]
+			rewards: [{
+				id: "7FD2D65B6B83ABF8"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -10.5d
+			y: -1.5d
+			dependencies: ["4C2AB5D18EF4F76A"]
+			id: "3E26B78753802D54"
+			tasks: [{
+				id: "0308CD5FAE26F1A8"
+				type: "item"
+				item: "levinide:spider_mix"
+			}]
+			rewards: [{
+				id: "27EBE1A150FD4D32"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -8.5d
+			y: -1.5d
+			description: ["This Sword Sets the Hit Entity On Fire"]
+			dependencies: ["4A007184537E8718"]
+			id: "7049018C9E307658"
+			tasks: [{
+				id: "7CA99C54D681EA8F"
+				type: "item"
+				item: {
+					id: "levinide:blazing_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "55426A98D8F2F64E"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -9.0d
+			y: -0.5d
+			description: ["This Sword Explodes when an Entity is Hit"]
+			dependencies: ["753C93A095FFFDE0"]
+			id: "501C5157E4729134"
+			tasks: [{
+				id: "1929B796C5C12908"
+				type: "item"
+				item: {
+					id: "levinide:explosive_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "533783ACA5064380"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -13.5d
+			y: -1.5d
+			description: ["This Sword Applies Poison to Hit Mob"]
+			dependencies: ["1982240D2A9540FC"]
+			id: "78C5B032B9A271F3"
+			tasks: [{
+				id: "18FE20204C59E891"
+				type: "item"
+				item: {
+					id: "levinide:plague_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "5A5AEB6A0CAD35D1"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -13.0d
+			y: -0.5d
+			description: ["This Sword Applies Withering to Hit Mob"]
+			dependencies: ["0C041F7375101893"]
+			id: "0B6A377C44B63ACD"
+			tasks: [{
+				id: "7B5AD1480ECAF472"
+				type: "item"
+				item: {
+					id: "levinide:withering_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "3589C8F51DCB7911"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -11.0d
+			y: 2.0d
+			description: ["This Sword has 5 Attack Speed (Normally 1.6) and Gives Speed I when Held, Sneak to gain Invisibility"]
+			dependencies: ["51A504297E309920"]
+			id: "39DD75203F96BC1B"
+			tasks: [{
+				id: "7CAC14524FC1F928"
+				type: "item"
+				item: {
+					id: "levinide:eternal_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "1B7015D57BF052A9"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -4.0d
+			y: 12.0d
+			description: ["Sword Abilities Enhance the Celestial Sword by a Lot. Please Go through the Ability Mixes Quests Before these Next Quests"]
+			dependencies: ["1612A4BF8723614B"]
+			id: "5F149412ED0A234C"
+			tasks: [{
+				id: "258012A3151C8DA5"
+				type: "checkmark"
+				title: "Sword Abilities"
+			}]
+		}
+		{
+			x: -5.0d
+			y: 11.0d
+			description: ["A Very Rare Drop from Dominator Tier III"]
+			dependencies: ["1612A4BF8723614B"]
+			id: "1E6ECC94F415AC09"
+			tasks: [{
+				id: "6FB73613DFF28E94"
+				type: "item"
+				item: "levinide:celestial_point"
+			}]
+			rewards: [{
+				id: "642807ADFAD6EA3E"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -6.5d
+			y: 12.0d
+			dependencies: ["1E6ECC94F415AC09"]
+			id: "55F9CC7F207705FE"
+			tasks: [{
+				id: "241F7B3752FBDA35"
+				type: "item"
+				item: "levinide:celestial_crown_point"
+			}]
+			rewards: [{
+				id: "7795CCBE13242196"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -6.5d
+			y: 13.5d
+			description: ["Allows you to Summon Dominator Mobs without the need of a Dominator Weapon. The Summoning Power is weak but this can be used with a Dominator Weapon to further increase the Spawning Power"]
+			dependencies: [
+				"55F9CC7F207705FE"
+				"1E6ECC94F415AC09"
+			]
+			id: "26ED7FB3C843F848"
+			tasks: [{
+				id: "648E32FD27067A16"
+				type: "item"
+				item: {
+					id: "levinide:celestial_crown_helmet"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "4063E841CFE52BDC"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -9.0d
+			y: 11.0d
+			dependencies: ["1E6ECC94F415AC09"]
+			id: "186BF3649458AD8A"
+			tasks: [{
+				id: "62385D6381F93537"
+				type: "item"
+				item: "levinide:edenite_point"
+			}]
+			rewards: [{
+				id: "3B192DF18ED542D6"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -7.5d
+			y: 12.0d
+			dependencies: ["55F9CC7F207705FE"]
+			id: "342DF1C8D97D45FC"
+			tasks: [{
+				id: "626819E789E1A49B"
+				type: "item"
+				item: "levinide:edenite_crown_point"
+			}]
+			rewards: [{
+				id: "65E5A7BDD809A034"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -7.5d
+			y: 13.5d
+			description: ["Increases the Dominator Summoning Power Even More"]
+			dependencies: [
+				"342DF1C8D97D45FC"
+				"186BF3649458AD8A"
+				"26ED7FB3C843F848"
+			]
+			id: "1874DE25852FDD3C"
+			tasks: [{
+				id: "26DF57F79A910598"
+				type: "item"
+				item: {
+					id: "levinide:edenite_crown_helmet"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "144BCC1838A3D360"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -7.0d
+			y: 15.0d
+			description: [
+				"Celestial Tier IV Can be summoned when having Dominator Summoning Power of 6"
+				"Celestial Crown: +1 , Edenite Crown +2, Dominator Sword: +1, Dominator Falcion: +2, Dominator Scythe: +3, Any Celestial Sword: +4"
+				""
+				"You Either Need Edenite Crown and Atleast Dominator Scythe or Celestial Crown and Celestial Sword to have a small chance to Summon Celestial Tier IV Boss when Killing Undead Mobs"
+			]
+			dependencies: [
+				"1874DE25852FDD3C"
+				"26ED7FB3C843F848"
+			]
+			id: "03ABBB42AB9ECE10"
+			tasks: [{
+				id: "49EEAC3C72DF383D"
+				type: "checkmark"
+				title: "Celestial Tier IV"
+			}]
+		}
+		{
+			x: -7.0d
+			y: 16.0d
+			description: ["Defeat this ABSOLUTE monster."]
+			dependencies: ["03ABBB42AB9ECE10"]
+			id: "064E653F0B8C3F9B"
+			tasks: [{
+				id: "2F45611C850C1269"
+				type: "kill"
+				entity: "levinide:celestial_tier_iv"
+				value: 1L
+			}]
+			rewards: [{
+				id: "678141375D73F77C"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			title: "Sunstone Tools"
+			x: -15.5d
+			y: -10.5d
+			dependencies: ["02FCB02E8B6A310D"]
+			id: "3976CF96243450AD"
+			tasks: [
+				{
+					id: "484CE9F32C901CB1"
+					type: "item"
+					item: {
+						id: "levinide:sunstone_pickaxe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "7BB2C1DAF9885622"
+					type: "item"
+					item: {
+						id: "levinide:sunstone_axe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "4ACFAA0A7010120F"
+					type: "item"
+					item: {
+						id: "levinide:sunstone_shovel"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "24F969F19D255B50"
+					type: "item"
+					item: {
+						id: "levinide:sunstone_hoe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+			rewards: [{
+				id: "0F8BAF31AF82CB50"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			title: "Sunstone Armor"
+			x: -14.5d
+			y: -9.5d
+			dependencies: ["02FCB02E8B6A310D"]
+			id: "0B487CB942B81649"
+			tasks: [
+				{
+					id: "779101294C9D1CFE"
+					type: "item"
+					item: {
+						id: "levinide:sunstone_helmet"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "3CA73583980C8C37"
+					type: "item"
+					item: {
+						id: "levinide:sunstone_chestplate"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "5BA4D0C2418E727A"
+					type: "item"
+					item: {
+						id: "levinide:sunstone_leggings"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "2591A710C3510E7A"
+					type: "item"
+					item: {
+						id: "levinide:sunstone_boots"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+			rewards: [{
+				id: "260A226397473352"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -2.5d
+			y: -4.0d
+			dependencies: ["162930FC32B83CE7"]
+			id: "6BBED29B00843430"
+			tasks: [{
+				id: "232252C2EF060934"
+				type: "item"
+				item: "levinide:wither_catalyst_flower"
+			}]
+			rewards: [{
+				id: "5639AB288D8FE1FA"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -0.5d
+			y: -4.0d
+			dependencies: ["6BBED29B00843430"]
+			id: "4E27D4B7F087455F"
+			tasks: [{
+				id: "1E5947A84DE1F858"
+				type: "item"
+				item: "levinide:wither_catalyst"
+			}]
+			rewards: [{
+				id: "1A4383F50677950E"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: 0.0d
+			y: -2.5d
+			dependencies: ["4E27D4B7F087455F"]
+			id: "089B41186229A154"
+			tasks: [{
+				id: "1BC7B44259D2D5B6"
+				type: "item"
+				item: "levinide:bottle_of_regeneration_i"
+			}]
+			rewards: [{
+				id: "647A1C1CAC92BD61"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -1.0d
+			y: -2.5d
+			dependencies: ["4E27D4B7F087455F"]
+			id: "5DF46938C7F9193B"
+			tasks: [{
+				id: "10DB7701B21138A1"
+				type: "item"
+				item: "levinide:bottle_of_strength_i"
+			}]
+			rewards: [{
+				id: "311016DBEAB6F3D0"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -1.0d
+			y: -1.5d
+			dependencies: ["5DF46938C7F9193B"]
+			id: "5EAC9BD670EC04F7"
+			tasks: [{
+				id: "4122481B9293839E"
+				type: "item"
+				item: "levinide:bottle_of_strength_ii"
+			}]
+			rewards: [{
+				id: "746B76B054B1B47A"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: 0.0d
+			y: -1.5d
+			dependencies: ["089B41186229A154"]
+			id: "0B4848149786FB1E"
+			tasks: [{
+				id: "4307BDE4E9366414"
+				type: "item"
+				item: "levinide:bottle_of_regeneration_ii"
+			}]
+			rewards: [{
+				id: "73E029523BC761C9"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: 0.0d
+			y: -0.5d
+			dependencies: ["0B4848149786FB1E"]
+			id: "685C86FE4F28147C"
+			tasks: [{
+				id: "5B65AA3C0CA019D7"
+				type: "item"
+				item: "levinide:bottle_of_regeneration_iii"
+			}]
+			rewards: [{
+				id: "5C89660C5ACBE4DE"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -1.0d
+			y: -0.5d
+			dependencies: ["5EAC9BD670EC04F7"]
+			id: "0FC07C0D405B4EDB"
+			tasks: [{
+				id: "5CD16055767A1E3C"
+				type: "item"
+				item: "levinide:bottle_of_strength_iii"
+			}]
+			rewards: [{
+				id: "6639D934F307609F"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -6.5d
+			y: -4.0d
+			dependencies: ["162930FC32B83CE7"]
+			id: "63B5DFC939AD6A47"
+			tasks: [{
+				id: "6CE6FB914CDB8F26"
+				type: "item"
+				item: "levinide:dark_dominator_ground"
+			}]
+			rewards: [{
+				id: "61A99A3D7EAFF4A6"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -6.5d
+			y: -3.0d
+			dependencies: ["63B5DFC939AD6A47"]
+			id: "5EA1C6D665F6DDC5"
+			tasks: [{
+				id: "0BCBF183A4AF8C9F"
+				type: "item"
+				item: {
+					id: "levinide:dark_dominator_pickaxe"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "49BDB8432825374F"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -6.5d
+			y: -2.0d
+			dependencies: ["5EA1C6D665F6DDC5"]
+			id: "5C0DFF26C5D7999E"
+			tasks: [{
+				id: "0C03D8B49A6A9612"
+				type: "item"
+				item: {
+					id: "levinide:gilded_dark_dominator_pickaxe"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "71135F9626D4D8F0"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -11.0d
+			y: -15.0d
+			description: ["These are Kill Quests, Most of these Mobs have some Special Drops Requiring you to Kill lots of them"]
+			dependencies: ["711FC6DE1C8D6F3D"]
+			id: "755EFE948764CE72"
+			tasks: [{
+				id: "3F3EF8E3DC5791F4"
+				type: "checkmark"
+				title: "Kill Quests"
+			}]
+		}
+		{
+			x: -11.0d
+			y: -16.5d
+			description: ["Vexonite Dungeons are found floating in the Skies"]
+			dependencies: ["755EFE948764CE72"]
+			id: "43ED256621D0226D"
+			tasks: [{
+				id: "5340A5B99D4021A6"
+				type: "kill"
+				entity: "levinide:vexonite"
+				value: 1L
+			}]
+			rewards: [{
+				id: "473AC21ADBAF94DE"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -11.0d
+			y: -17.5d
+			dependencies: ["43ED256621D0226D"]
+			id: "50C043FDE4CCC34C"
+			tasks: [{
+				id: "7DB1F631FE8F8904"
+				type: "item"
+				item: "levinide:vexonite_skin"
+			}]
+			rewards: [{
+				id: "4E4514EDBE740C28"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -11.0d
+			y: -19.0d
+			description: ["Upgrade to Everything about the Eternal Celestial Sword, This Sword is no longer considered Dominator so it cannot Summon Dominator Bosses "]
+			dependencies: ["50C043FDE4CCC34C"]
+			id: "0167EF3C0E10F403"
+			tasks: [{
+				id: "3ECBDD390C650E31"
+				type: "item"
+				item: {
+					id: "levinide:eternal_blessed_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "18D55FE03D4358B1"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -12.0d
+			y: -17.5d
+			dependencies: ["5381FE03D28F299F"]
+			id: "3411CEC8F354093C"
+			tasks: [{
+				id: "486896B59C595415"
+				type: "item"
+				item: "levinide:king_crog_skin"
+			}]
+			rewards: [{
+				id: "0CE71B4265B3C504"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -12.0d
+			y: -19.0d
+			dependencies: ["3411CEC8F354093C"]
+			id: "002C7308070173F7"
+			tasks: [{
+				id: "31E67479941AEDE1"
+				type: "item"
+				item: {
+					id: "levinide:king_crog_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "6797054147A23B2C"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -12.0d
+			y: -16.5d
+			description: ["King Crog Dungeon is found in the Savanna Biome"]
+			dependencies: ["755EFE948764CE72"]
+			id: "5381FE03D28F299F"
+			tasks: [{
+				id: "15EFA99377FC07C8"
+				type: "kill"
+				entity: "levinide:king_crog"
+				value: 1L
+			}]
+			rewards: [{
+				id: "09C8974406CF8F00"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -0.5d
+			y: -11.5d
+			description: ["Donta Guardians come in 3 Variants: Donta Health Guardian has Double HP, Donta Speed Guardian has Increased Speed, Donta Strength Guardian has Increased Damage. Camp Sites can be found for these Mobs"]
+			dependencies: ["4D877895720693F5"]
+			id: "5E334B67E51F2EFC"
+			tasks: [{
+				id: "4D7B2FD8063D4516"
+				type: "checkmark"
+				title: "Donta Guardians"
+			}]
+		}
+		{
+			x: 1.0d
+			y: -12.5d
+			dependencies: ["5E334B67E51F2EFC"]
+			id: "4A7E5709844436F4"
+			tasks: [{
+				id: "70F7F7011FBAE58A"
+				type: "kill"
+				entity: "levinide:donta_health_guardian"
+				value: 5L
+			}]
+			rewards: [{
+				id: "72ECF236CC206210"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: 1.0d
+			y: -11.5d
+			dependencies: ["5E334B67E51F2EFC"]
+			id: "7E9C4FEBEF40CE9F"
+			tasks: [{
+				id: "7072AC4B708DB1CE"
+				type: "kill"
+				entity: "levinide:donta_speed_guardian"
+				value: 5L
+			}]
+			rewards: [{
+				id: "559E4D001EF840C6"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: 1.0d
+			y: -10.5d
+			dependencies: ["5E334B67E51F2EFC"]
+			id: "61C859971C7A721B"
+			tasks: [{
+				id: "21EFA8B7A197A4D3"
+				type: "kill"
+				entity: "levinide:donta_strength_guardian"
+				value: 5L
+			}]
+			rewards: [{
+				id: "085A52E53C22C991"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: 2.5d
+			y: -11.5d
+			description: ["A Common Drop from Donta Guardians"]
+			dependencies: [
+				"4A7E5709844436F4"
+				"7E9C4FEBEF40CE9F"
+				"61C859971C7A721B"
+			]
+			id: "4F55AB3FC79992B3"
+			tasks: [{
+				id: "2C1E3E5EA1D52497"
+				type: "item"
+				item: "levinide:donta_fragment"
+				count: 16L
+			}]
+			rewards: [{
+				id: "23D9BA219DEF763E"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: 4.0d
+			y: -12.5d
+			description: ["Can be Crafted"]
+			dependencies: ["4F55AB3FC79992B3"]
+			id: "1401CED481FAB3BE"
+			tasks: [{
+				id: "309F55E13C98799B"
+				type: "item"
+				item: "levinide:donta_string"
+				count: 16L
+			}]
+			rewards: [{
+				id: "766DC4E99D695C2C"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: 4.0d
+			y: -11.5d
+			description: ["Can be Crafted"]
+			dependencies: ["4F55AB3FC79992B3"]
+			id: "28EA4D1168891821"
+			tasks: [{
+				id: "58FB077A6F6849D0"
+				type: "item"
+				item: "levinide:donta_diamond"
+				count: 16L
+			}]
+			rewards: [{
+				id: "06FBF766558EC9CE"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: 4.0d
+			y: -10.5d
+			description: ["Can be Crafted"]
+			dependencies: ["4F55AB3FC79992B3"]
+			id: "3981E48B62CD886C"
+			tasks: [{
+				id: "0F23ECBBBE73EC09"
+				type: "item"
+				item: "levinide:donta_ingot"
+				count: 16L
+			}]
+			rewards: [{
+				id: "64452F68EA399BF9"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -0.5d
+			y: -7.0d
+			description: ["Donta Lands has Some Ores that Generate Below. Edenite and Goat Ore"]
+			dependencies: ["4D877895720693F5"]
+			id: "264520A40F15593E"
+			tasks: [{
+				id: "65BFDA9E8341E38F"
+				type: "checkmark"
+				title: "Donta Lands Mining"
+			}]
+		}
+		{
+			x: 1.0d
+			y: -6.0d
+			description: ["Generates in the Donta Lands Biome, Fairly Common"]
+			dependencies: ["264520A40F15593E"]
+			id: "7EEC371FEBEB369D"
+			tasks: [{
+				id: "4ECAD1483BA3D991"
+				type: "item"
+				item: "levinide:raw_edenite"
+				count: 8L
+			}]
+			rewards: [{
+				id: "50071C4AF5C9BE5E"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: 2.5d
+			y: -6.0d
+			dependencies: ["7EEC371FEBEB369D"]
+			id: "5960CA7F0D194A52"
+			tasks: [{
+				id: "30ABA53D6A145B7E"
+				type: "item"
+				item: "levinide:edenite_ingot"
+			}]
+			rewards: [{
+				id: "7B65963B0613DD5F"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: 5.5d
+			y: -11.5d
+			description: ["Donta Weapons Give Absorption Hearts when Hitting Entities"]
+			dependencies: [
+				"1401CED481FAB3BE"
+				"28EA4D1168891821"
+				"3981E48B62CD886C"
+			]
+			id: "6E807001E0E7BB59"
+			tasks: [{
+				id: "79E5429F14772F67"
+				type: "checkmark"
+				title: "Donta Weapons"
+			}]
+		}
+		{
+			x: 7.0d
+			y: -11.5d
+			dependencies: ["6E807001E0E7BB59"]
+			id: "74240CEE5766A41A"
+			tasks: [{
+				id: "5DDFB851C296FA5E"
+				type: "item"
+				item: {
+					id: "levinide:donta_dagger"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "471B95F7C3FB3E89"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: 8.5d
+			y: -11.5d
+			dependencies: ["74240CEE5766A41A"]
+			id: "24FE21CF2D8D2235"
+			tasks: [{
+				id: "74AD4A56485CB9A0"
+				type: "item"
+				item: "levinide:great_donta_ingot"
+			}]
+			rewards: [{
+				id: "6D2EC47590773DAB"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: 2.5d
+			y: -5.0d
+			dependencies: ["5960CA7F0D194A52"]
+			id: "75B63C7E99667E46"
+			tasks: [{
+				id: "64C0CDE81106227F"
+				type: "item"
+				item: "levinide:edenite_block"
+			}]
+			rewards: [{
+				id: "6A316D498DAD4069"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: 4.5d
+			y: -5.0d
+			description: ["Right-Click to Summon the Edenite Lord, A Very Powerful Boss"]
+			dependencies: ["75B63C7E99667E46"]
+			id: "60FBE757977A63EF"
+			tasks: [{
+				id: "52F7D4A784156AEF"
+				type: "item"
+				item: "levinide:boss_summoner_edenite_lord"
+			}]
+			rewards: [{
+				id: "47E44BE8620EDE0F"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: 2.5d
+			y: -7.0d
+			dependencies: ["5960CA7F0D194A52"]
+			id: "32C23B79AEBD4604"
+			tasks: [
+				{
+					id: "7CAFA1A8C52D0D9A"
+					type: "item"
+					item: {
+						id: "levinide:edenite_helmet"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "09E3320EEA2ECC43"
+					type: "item"
+					item: {
+						id: "levinide:edenite_chestplate"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "5FFFD815CB4BBF46"
+					type: "item"
+					item: {
+						id: "levinide:edenite_leggings"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "30C54465F11DC3AD"
+					type: "item"
+					item: {
+						id: "levinide:edenite_boots"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+			rewards: [{
+				id: "6857D95906AA5CA9"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: 3.5d
+			y: -6.0d
+			dependencies: ["5960CA7F0D194A52"]
+			id: "411508569AA8CE57"
+			tasks: [
+				{
+					id: "2EFAA96BDA9B3CC7"
+					type: "item"
+					item: {
+						id: "levinide:edenite_sword"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "3AB56ED222B3C8B8"
+					type: "item"
+					item: {
+						id: "levinide:edenite_pickaxe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "0EEF88162F41F8D9"
+					type: "item"
+					item: {
+						id: "levinide:edenite_axe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "3F09775256FA01C6"
+					type: "item"
+					item: {
+						id: "levinide:edenite_shovel"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "115430814306D9C2"
+					type: "item"
+					item: {
+						id: "levinide:edenite_hoe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+			rewards: [{
+				id: "3308FBD0CC462744"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: 10.0d
+			y: -11.5d
+			dependencies: ["24FE21CF2D8D2235"]
+			id: "134FB95D08B0C76D"
+			tasks: [{
+				id: "2989949954F4CC0E"
+				type: "item"
+				item: {
+					id: "levinide:donta_axe"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "4F05BA4C27596865"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: 13.0d
+			y: -11.5d
+			dependencies: ["1D36A5A0B0FF431F"]
+			id: "5A95FC186E8B30E7"
+			tasks: [{
+				id: "44DEDA20B89E3CB6"
+				type: "item"
+				item: {
+					id: "levinide:donta_great_axe"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "7E7738227F838E15"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: 11.5d
+			y: -11.5d
+			dependencies: ["134FB95D08B0C76D"]
+			id: "1D36A5A0B0FF431F"
+			tasks: [{
+				id: "2B03EB79922BDA1A"
+				type: "item"
+				item: "levinide:ultimate_donta_ingot"
+			}]
+			rewards: [{
+				id: "366619FB7FE3628B"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: 1.0d
+			y: -8.5d
+			description: ["Goat Ore Can be Found Deep in the Donta Lands Biome"]
+			dependencies: ["264520A40F15593E"]
+			id: "7B4CA3BDD891E225"
+			tasks: [
+				{
+					id: "71C028F168BBBD40"
+					type: "item"
+					item: "levinide:goat_fur"
+				}
+				{
+					id: "1C591722014BC263"
+					type: "item"
+					item: "levinide:goat_eye"
+					count: 2L
+				}
+				{
+					id: "6F41277AB2D47BB5"
+					type: "item"
+					item: "levinide:goat_goatee"
+				}
+			]
+			rewards: [{
+				id: "0E6163D01DFAF5C0"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: 2.5d
+			y: -8.5d
+			dependencies: ["7B4CA3BDD891E225"]
+			id: "1649AD85CF8FA52C"
+			tasks: [{
+				id: "4F4C1BE77F69D7AD"
+				type: "item"
+				item: "levinide:goat_mask"
+			}]
+			rewards: [{
+				id: "3C9DE66D6EDA5679"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: 4.0d
+			y: -9.0d
+			description: ["This Block Summons The King Goat Boss. Can also be found Rarely in the Donta Lands Biome"]
+			dependencies: ["1649AD85CF8FA52C"]
+			id: "2C2E081224D7AF97"
+			tasks: [{
+				id: "2AE332FFC0E8BD99"
+				type: "item"
+				item: "levinide:boss_summoner_king_goat"
+			}]
+			rewards: [{
+				id: "6A022FE5D7A9D720"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: 4.0d
+			y: -8.0d
+			dependencies: ["1649AD85CF8FA52C"]
+			id: "38D40B1B31FE10B9"
+			tasks: [{
+				id: "50886D00B24BA786"
+				type: "kill"
+				entity: "levinide:king_goat"
+				value: 1L
+			}]
+			rewards: [{
+				id: "6D94EF5455861672"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: 6.0d
+			y: -7.0d
+			description: ["Used to Craft New Gear"]
+			dependencies: ["38D40B1B31FE10B9"]
+			id: "32515942939A10F5"
+			tasks: [{
+				id: "6830ECA68F9B1B21"
+				type: "item"
+				item: "levinide:king_goat_horn"
+			}]
+			rewards: [{
+				id: "0D4F3F47CB4DC249"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: 6.0d
+			y: -9.0d
+			description: ["Rare King Goat Drop"]
+			dependencies: ["38D40B1B31FE10B9"]
+			id: "7F4E59745B233480"
+			tasks: [{
+				id: "0FD4133FAEAA897D"
+				type: "item"
+				item: "levinide:king_goat_skin"
+			}]
+			rewards: [{
+				id: "2385880EC62B2B0F"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: 7.5d
+			y: -9.0d
+			description: ["A Very Powerful Axe"]
+			dependencies: ["7F4E59745B233480"]
+			id: "5D3065157DDD91B9"
+			tasks: [{
+				id: "7DC2B71303B4BC5A"
+				type: "item"
+				item: {
+					id: "levinide:king_goat_axe"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "709502C44C62E31A"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: 7.5d
+			y: -7.5d
+			description: ["Devastating Weapon"]
+			dependencies: ["32515942939A10F5"]
+			id: "10C7FB56E9C07645"
+			tasks: [{
+				id: "1F2EB15809D730EB"
+				type: "item"
+				item: {
+					id: "levinide:goat_god_wolven_blade"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "5D7D145E0DF3AE63"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: 7.5d
+			y: -6.5d
+			description: ["Powerful Armor"]
+			dependencies: ["32515942939A10F5"]
+			id: "49745E1D0AE91ED1"
+			tasks: [
+				{
+					id: "2551E577BB8A0A1E"
+					type: "item"
+					item: {
+						id: "levinide:goat_god_helmet"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "65538AE26CB05EF1"
+					type: "item"
+					item: {
+						id: "levinide:goat_god_chestplate"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "20F8FA3C850FA123"
+					type: "item"
+					item: {
+						id: "levinide:goat_god_leggings"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "1DA307D677C30462"
+					type: "item"
+					item: {
+						id: "levinide:goat_god_boots"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+			rewards: [{
+				id: "6499BC30D0683549"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -9.5d
+			y: -9.5d
+			dependencies: ["711FC6DE1C8D6F3D"]
+			id: "371AE7F50BB39302"
+			tasks: [{
+				id: "274C1C21C302B24E"
+				type: "item"
+				item: {
+					id: "levinide:great_blade"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "6EC3D9E0B7B03EC9"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -8.5d
+			y: -9.5d
+			dependencies: ["371AE7F50BB39302"]
+			id: "0231CEE1651A56CD"
+			tasks: [{
+				id: "23A4229D91B701A2"
+				type: "item"
+				item: {
+					id: "levinide:great_wolven_blade"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "246F9A2E56F00E12"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -7.5d
+			y: -9.5d
+			dependencies: ["0231CEE1651A56CD"]
+			id: "153E1FF0CFD67926"
+			tasks: [{
+				id: "0D4FF34096D8379E"
+				type: "item"
+				item: {
+					id: "levinide:enhanced_great_wolven_blade"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "5C13B5949B7FDB6F"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -15.5d
+			y: -3.5d
+			description: ["These Items are Still In Progress and will Change. Recipes for these Items are also very Easy, the Finalised Recipes will require Lots of Progression"]
+			dependencies: ["711FC6DE1C8D6F3D"]
+			id: "065A984AF9EA89A0"
+			tasks: [{
+				id: "117CD7517DED5F8A"
+				type: "checkmark"
+				title: "WIP Items"
+			}]
+		}
+		{
+			x: -16.0d
+			y: -2.0d
+			dependencies: ["065A984AF9EA89A0"]
+			id: "2B685E014F8A2DE3"
+			tasks: [{
+				id: "73F6A114FA0EB4EB"
+				type: "item"
+				item: {
+					id: "levinide:cursed_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "1C77E9C29EFD5374"
+				type: "item"
+				item: "crazy_craft_updated_core:ultimate_coin"
+			}]
+		}
+		{
+			x: -15.0d
+			y: -2.0d
+			dependencies: ["065A984AF9EA89A0"]
+			id: "0C25B7DDD3E08664"
+			tasks: [
+				{
+					id: "30222D9D8A1B5EEF"
+					type: "item"
+					item: {
+						id: "levinide:cursed_helmet"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "0A984114BB42A740"
+					type: "item"
+					item: {
+						id: "levinide:cursed_chestplate"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "51827DBC20352D1E"
+					type: "item"
+					item: {
+						id: "levinide:cursed_leggings"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "5959220FC0580D0F"
+					type: "item"
+					item: {
+						id: "levinide:cursed_boots"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+			rewards: [{
+				id: "2D1A83B50B6DC345"
+				type: "item"
+				item: "crazy_craft_updated_core:ultimate_coin"
+			}]
+		}
+		{
+			x: -12.5d
+			y: -10.5d
+			dependencies: ["711FC6DE1C8D6F3D"]
+			id: "2B992DDEA11088CA"
+			tasks: [{
+				id: "4255453AF3608DBC"
+				type: "item"
+				item: "levinide:dark_knight_block"
+			}]
+			rewards: [{
+				id: "7FA5995FB8A4B6B4"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -12.5d
+			y: -11.5d
+			dependencies: ["2B992DDEA11088CA"]
+			id: "6EEC111EAABD2262"
+			tasks: [{
+				id: "5A42569EC4F0E26D"
+				type: "item"
+				item: {
+					id: "levinide:dark_knight_helmet"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "4354A4DB2E22BE6D"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -10.0d
+			y: -16.5d
+			description: ["Found in the Desert Biome"]
+			dependencies: ["755EFE948764CE72"]
+			id: "5CA031C318013F12"
+			tasks: [{
+				id: "13FA4DBED443E7C6"
+				type: "kill"
+				entity: "levinide:sword_knight"
+				value: 1L
+			}]
+			rewards: [{
+				id: "4DA9F9C9A9A4F85E"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -10.0d
+			y: -17.5d
+			description: ["1 in 50 Chance to Drop from Sword Knight"]
+			dependencies: ["5CA031C318013F12"]
+			id: "415A8A25ABF5E9A4"
+			tasks: [{
+				id: "65BE577400B815CC"
+				type: "item"
+				item: {
+					id: "levinide:big_oh"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "68853BB258DB6F61"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -10.0d
+			y: -19.0d
+			description: ["Very Powerful"]
+			dependencies: ["415A8A25ABF5E9A4"]
+			id: "57E0749AA614C511"
+			tasks: [{
+				id: "3B3FEBF4ECE28CBC"
+				type: "item"
+				item: {
+					id: "levinide:big_go"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "63C818A447CB8DAF"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+		{
+			x: -2.5d
+			y: -5.5d
+			description: ["A Very Powerful Tool, Changes the Time when pressing a Key while holding this Item. Changing Time means you can choose to live in Night Time and Keep Grinding your Progression in the Mod"]
+			dependencies: ["7ACA9881F153549B"]
+			id: "672D20F2B3EB4DAB"
+			tasks: [{
+				id: "75E6E15B2C08B454"
+				type: "item"
+				item: "levinide:levinide_wand"
+			}]
+			rewards: [{
+				id: "555B46F5AE02688D"
+				type: "item"
+				item: "crazy_craft_updated_core:normal_coin"
+			}]
+		}
+	]
+}

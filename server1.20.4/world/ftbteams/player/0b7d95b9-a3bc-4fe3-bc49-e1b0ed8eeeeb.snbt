@@ -1,0 +1,17 @@
+{
+	id: "0b7d95b9-a3bc-4fe3-bc49-e1b0ed8eeeeb"
+	type: "player"
+	player_name: "Averygoogplayer"
+	ranks: {
+		0b7d95b9-a3bc-4fe3-bc49-e1b0ed8eeeeb: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Averygoogplayer"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF5D"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

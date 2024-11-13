@@ -2476,6 +2476,7 @@
       "minecraft:skeleton": "2024-11-12 23:48:11 +1300",
       "minecraft:spider": "2024-11-12 23:44:58 +1300",
       "minecraft:creeper": "2024-11-12 23:48:08 +1300",
+      "minecraft:cave_spider": "2024-11-13 17:41:09 +1300",
       "minecraft:silverfish": "2024-11-13 16:39:26 +1300",
       "minecraft:zombie": "2024-11-12 23:48:43 +1300",
       "minecraft:zombie_villager": "2024-11-13 16:14:35 +1300"
@@ -2974,6 +2975,7 @@
       "cooked_mutton": "2024-11-13 00:33:33 +1300",
       "cooked_beef": "2024-11-13 16:16:40 +1300",
       "golden_apple": "2024-11-13 00:03:57 +1300",
+      "bread": "2024-11-13 17:32:32 +1300",
       "rotten_flesh": "2024-11-13 00:02:43 +1300",
       "melon_slice": "2024-11-13 15:57:10 +1300"
     },
@@ -5180,6 +5182,7 @@
       "shrubland": "2024-11-13 00:36:01 +1300",
       "rocky_shrubland": "2024-11-13 00:35:10 +1300",
       "floodplain": "2024-11-13 16:47:59 +1300",
+      "old_growth_woodland": "2024-11-13 17:50:46 +1300",
       "orchard": "2024-11-13 00:34:48 +1300",
       "redwood_forest": "2024-11-13 00:34:42 +1300",
       "rocky_rainforest": "2024-11-13 15:49:32 +1300",
@@ -5821,11 +5824,275 @@
     },
     "done": true
   },
-  "minecraft:nether/explore_nether": {
+  "aether:recipes/combat/iron_leggings_repairing": {
     "criteria": {
-      "minecraft:nether_wastes": "2024-11-13 17:02:54 +1300"
+      "has_iron_leggings": "2024-11-13 16:12:07 +1300"
     },
-    "done": false
+    "done": true
+  },
+  "aether:recipes/combat/iron_boots_repairing": {
+    "criteria": {
+      "has_iron_boots": "2024-11-13 16:12:07 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_helmet_repairing": {
+    "criteria": {
+      "has_iron_helmet": "2024-11-13 16:12:08 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/shield_repairing": {
+    "criteria": {
+      "has_shield": "2024-11-13 16:12:34 +1300"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/nether_mushroom_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2024-11-13 16:24:32 +1300"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2024-11-13 16:24:32 +1300"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/crimson_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2024-11-13 16:24:32 +1300"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/nether_reed_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2024-11-13 16:24:32 +1300"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/nether_sakura_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2024-11-13 16:24:32 +1300"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/anchor_tree_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2024-11-13 16:24:32 +1300"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/warped_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2024-11-13 16:24:32 +1300"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/mushroom_fir_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2024-11-13 16:24:32 +1300"
+    },
+    "done": true
+  },
+  "bclib:recipes/decorations/tag_shulker_box": {
+    "criteria": {
+      "has_tag_c_chest": "2024-11-13 16:24:32 +1300"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/rubeus_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2024-11-13 16:24:32 +1300"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/stalagnate_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2024-11-13 16:24:32 +1300"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/wart_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2024-11-13 16:24:32 +1300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/orange_sandstone": {
+    "criteria": {
+      "has_orange_sand": "2024-11-13 16:26:41 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2024-11-13 16:26:41 +1300"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2024-11-13 16:27:02 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-11-13 16:27:02 +1300"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_stonecutting": {
+    "criteria": {
+      "has_item": "2024-11-13 16:27:02 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-11-13 16:27:02 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-11-13 16:27:02 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-11-13 16:27:02 +1300"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2024-11-13 16:27:02 +1300"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_from_mossy_cobblestone": {
+    "criteria": {
+      "has_item": "2024-11-13 16:27:02 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-11-13 16:27:02 +1300"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2024-11-13 16:27:02 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-11-13 16:27:02 +1300"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_cobblestone": {
+    "criteria": {
+      "has_item": "2024-11-13 16:27:02 +1300"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/lodestone": {
+    "criteria": {
+      "has_chiseled_stone_bricks": "2024-11-13 16:35:44 +1300"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pedestal": {
+    "criteria": {
+      "has_chiseled_stone_bricks": "2024-11-13 16:35:44 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2024-11-13 16:35:44 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2024-11-13 16:35:44 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2024-11-13 16:35:44 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2024-11-13 16:37:03 +1300"
+    },
+    "done": true
+  },
+  "twigs:recipes/compacted_dripstone": {
+    "criteria": {
+      "has_pointed_dripstone": "2024-11-13 16:37:03 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2024-11-13 16:39:18 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-11-13 16:39:18 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-11-13 16:39:18 +1300"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2024-11-13 16:39:18 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2024-11-13 16:39:18 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-11-13 16:39:18 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-11-13 16:39:18 +1300"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2024-11-13 16:39:18 +1300"
+    },
+    "done": true
   },
   "everycomp:recipes/decorations/af/biomesoplenty/mahogany_drawer": {
     "criteria": {
@@ -5836,12 +6103,6 @@
   "supplementaries:recipes/decorations/biomesoplenty/sign_post_mahogany": {
     "criteria": {
       "has_planks": "2024-11-13 16:39:58 +1300"
-    },
-    "done": true
-  },
-  "bygonenether:root": {
-    "criteria": {
-      "entered_nether": "2024-11-13 17:02:34 +1300"
     },
     "done": true
   },
@@ -5857,21 +6118,9 @@
     },
     "done": true
   },
-  "advancednetherite:recipes/misc/lodestone": {
-    "criteria": {
-      "has_chiseled_stone_bricks": "2024-11-13 16:35:44 +1300"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/hnhome/biomesoplenty/mahogany_lattice": {
     "criteria": {
       "has_planks": "2024-11-13 16:39:58 +1300"
-    },
-    "done": true
-  },
-  "betternether:recipes/transportation/nether_mushroom_chest_boat": {
-    "criteria": {
-      "has_tag_c_chest": "2024-11-13 16:24:32 +1300"
     },
     "done": true
   },
@@ -5893,21 +6142,9 @@
     },
     "done": true
   },
-  "aether:recipes/combat/iron_leggings_repairing": {
-    "criteria": {
-      "has_iron_leggings": "2024-11-13 16:12:07 +1300"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/hc/biomesoplenty/mahogany_corner_trim": {
     "criteria": {
       "has_planks": "2024-11-13 16:39:58 +1300"
-    },
-    "done": true
-  },
-  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_stairs_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_item": "2024-11-13 16:27:02 +1300"
     },
     "done": true
   },
@@ -5935,21 +6172,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
-    "criteria": {
-      "has_mossy_cobblestone": "2024-11-13 16:27:02 +1300"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/abnbl/biomesoplenty/large_mahogany_boat": {
     "criteria": {
       "has_planks": "2024-11-13 16:39:58 +1300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dripstone_block": {
-    "criteria": {
-      "has_pointed_dripstone": "2024-11-13 16:37:03 +1300"
     },
     "done": true
   },
@@ -5971,18 +6196,6 @@
     },
     "done": true
   },
-  "betternether:recipes/transportation/willow_chest_boat": {
-    "criteria": {
-      "has_tag_c_chest": "2024-11-13 16:24:32 +1300"
-    },
-    "done": true
-  },
-  "betternether:recipes/transportation/crimson_chest_boat": {
-    "criteria": {
-      "has_tag_c_chest": "2024-11-13 16:24:32 +1300"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/af/biomesoplenty/mahogany_shelf": {
     "criteria": {
       "has_planks": "2024-11-13 16:39:58 +1300"
@@ -6001,27 +6214,9 @@
     },
     "done": true
   },
-  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_stonecutting": {
-    "criteria": {
-      "has_item": "2024-11-13 16:27:02 +1300"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/building_blocks/mahogany_slab": {
     "criteria": {
       "has_planks": "2024-11-13 16:39:58 +1300"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/shield_repairing": {
-    "criteria": {
-      "has_shield": "2024-11-13 16:12:34 +1300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
-    "criteria": {
-      "has_mossy_cobblestone": "2024-11-13 16:27:02 +1300"
     },
     "done": true
   },
@@ -6040,18 +6235,6 @@
   "everycomp:recipes/decorations/abnbl/biomesoplenty/mahogany_furnace_boat": {
     "criteria": {
       "has_planks": "2024-11-13 16:39:58 +1300"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/pedestal": {
-    "criteria": {
-      "has_chiseled_stone_bricks": "2024-11-13 16:35:44 +1300"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/beef_patty": {
-    "criteria": {
-      "beef_patty": "2024-11-13 16:59:18 +1300"
     },
     "done": true
   },
@@ -6085,63 +6268,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/stone_brick_wall": {
-    "criteria": {
-      "has_stone_bricks": "2024-11-13 16:39:18 +1300"
-    },
-    "done": true
-  },
-  "betternether:recipes/transportation/nether_reed_chest_boat": {
-    "criteria": {
-      "has_tag_c_chest": "2024-11-13 16:24:32 +1300"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/tf/biomesoplenty/hollow_mahogany_log": {
     "criteria": {
       "has_planks": "2024-11-13 16:39:58 +1300"
     },
     "done": true
   },
-  "betternether:recipes/transportation/nether_sakura_chest_boat": {
-    "criteria": {
-      "has_tag_c_chest": "2024-11-13 16:24:32 +1300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
-    "criteria": {
-      "has_tag": "2024-11-13 16:35:44 +1300"
-    },
-    "done": true
-  },
-  "adorabuild_structures:nether_structures": {
-    "criteria": {
-      "example": "2024-11-13 17:02:34 +1300"
-    },
-    "done": true
-  },
-  "betternether:recipes/transportation/anchor_tree_chest_boat": {
-    "criteria": {
-      "has_tag_c_chest": "2024-11-13 16:24:32 +1300"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/q/biomesoplenty/mahogany_trapped_chest": {
     "criteria": {
       "has_planks": "2024-11-13 16:39:58 +1300"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/beef_patty_from_smoking": {
-    "criteria": {
-      "beef_patty": "2024-11-13 16:59:18 +1300"
-    },
-    "done": true
-  },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2024-11-13 17:02:34 +1300"
     },
     "done": true
   },
@@ -6157,51 +6292,15 @@
     },
     "done": true
   },
-  "betternether:recipes/transportation/warped_chest_boat": {
-    "criteria": {
-      "has_tag_c_chest": "2024-11-13 16:24:32 +1300"
-    },
-    "done": true
-  },
-  "betternether:recipes/transportation/mushroom_fir_chest_boat": {
-    "criteria": {
-      "has_tag_c_chest": "2024-11-13 16:24:32 +1300"
-    },
-    "done": true
-  },
-  "bclib:recipes/decorations/tag_shulker_box": {
-    "criteria": {
-      "has_tag_c_chest": "2024-11-13 16:24:32 +1300"
-    },
-    "done": true
-  },
-  "minecraft:story/deflect_arrow": {
-    "criteria": {
-      "deflected_projectile": "2024-11-13 17:00:48 +1300"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/af/biomesoplenty/mahogany_table": {
     "criteria": {
       "has_planks": "2024-11-13 16:39:58 +1300"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/beef_patty_from_campfire_cooking": {
-    "criteria": {
-      "beef_patty": "2024-11-13 16:59:18 +1300"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/hc/biomesoplenty/mahogany_chair": {
     "criteria": {
       "has_planks": "2024-11-13 16:39:58 +1300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2024-11-13 16:27:02 +1300"
     },
     "done": true
   },
@@ -6223,12 +6322,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
-    "criteria": {
-      "has_mossy_cobblestone": "2024-11-13 16:27:02 +1300"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/hc/biomesoplenty/mahogany_pillar_trim": {
     "criteria": {
       "has_planks": "2024-11-13 16:39:58 +1300"
@@ -6247,45 +6340,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2024-11-13 16:39:18 +1300"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/iron_helmet_repairing": {
-    "criteria": {
-      "has_iron_helmet": "2024-11-13 16:12:08 +1300"
-    },
-    "done": true
-  },
-  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_slab_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_item": "2024-11-13 16:27:02 +1300"
-    },
-    "done": true
-  },
-  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_from_mossy_cobblestone": {
-    "criteria": {
-      "has_item": "2024-11-13 16:27:02 +1300"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2024-11-13 17:02:34 +1300"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/redstone/mahogany_fence_gate": {
     "criteria": {
       "has_planks": "2024-11-13 16:39:58 +1300"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/misc/red_dye_from_waterlily": {
-    "criteria": {
-      "has_waterlily": "2024-11-13 16:47:55 +1300"
     },
     "done": true
   },
@@ -6307,33 +6364,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2024-11-13 16:39:18 +1300"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/q/biomesoplenty/mahogany_chest": {
     "criteria": {
       "has_planks": "2024-11-13 16:39:58 +1300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2024-11-13 16:27:02 +1300"
-    },
-    "done": true
-  },
-  "mowziesmobs:kill_foliaath": {
-    "criteria": {
-      "foliaath": "2024-11-13 16:47:00 +1300"
-    },
-    "done": true
-  },
-  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_wall_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_item": "2024-11-13 16:27:02 +1300"
     },
     "done": true
   },
@@ -6343,39 +6376,9 @@
     },
     "done": true
   },
-  "aether:recipes/combat/iron_boots_repairing": {
-    "criteria": {
-      "has_iron_boots": "2024-11-13 16:12:07 +1300"
-    },
-    "done": true
-  },
-  "betternether:recipes/transportation/rubeus_chest_boat": {
-    "criteria": {
-      "has_tag_c_chest": "2024-11-13 16:24:32 +1300"
-    },
-    "done": true
-  },
-  "betternether:recipes/transportation/stalagnate_chest_boat": {
-    "criteria": {
-      "has_tag_c_chest": "2024-11-13 16:24:32 +1300"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/q/biomesoplenty/mahogany_bookshelf": {
     "criteria": {
       "has_planks": "2024-11-13 16:39:58 +1300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs": {
-    "criteria": {
-      "has_stone_bricks": "2024-11-13 16:35:44 +1300"
-    },
-    "done": true
-  },
-  "twigs:recipes/compacted_dripstone": {
-    "criteria": {
-      "has_pointed_dripstone": "2024-11-13 16:37:03 +1300"
     },
     "done": true
   },
@@ -6385,51 +6388,15 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/orange_sandstone": {
-    "criteria": {
-      "has_orange_sand": "2024-11-13 16:26:41 +1300"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/redstone/mahogany_pressure_plate": {
     "criteria": {
       "has_planks": "2024-11-13 16:39:58 +1300"
     },
     "done": true
   },
-  "supplementaries:adventure/way_sign": {
-    "criteria": {
-      "bastion": "2024-11-13 16:55:40 +1300"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/tw/biomesoplenty/mahogany_table": {
     "criteria": {
       "has_planks": "2024-11-13 16:39:58 +1300"
-    },
-    "done": true
-  },
-  "betternether:enter_nether": {
-    "criteria": {
-      "entered_nether": "2024-11-13 17:02:34 +1300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_slab": {
-    "criteria": {
-      "has_stone_bricks": "2024-11-13 16:35:44 +1300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2024-11-13 16:27:02 +1300"
-    },
-    "done": true
-  },
-  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_cobblestone": {
-    "criteria": {
-      "has_item": "2024-11-13 16:27:02 +1300"
     },
     "done": true
   },
@@ -6445,39 +6412,9 @@
     },
     "done": true
   },
-  "supplementaries:recipes/stone_tile": {
-    "criteria": {
-      "has_stone_bricks": "2024-11-13 16:39:18 +1300"
-    },
-    "done": true
-  },
-  "betternether:recipes/transportation/wart_chest_boat": {
-    "criteria": {
-      "has_tag_c_chest": "2024-11-13 16:24:32 +1300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
-    "criteria": {
-      "has_stone_bricks": "2024-11-13 16:39:18 +1300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2024-11-13 16:39:18 +1300"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/hc/biomesoplenty/mahogany_dining_bench": {
     "criteria": {
       "has_planks": "2024-11-13 16:39:58 +1300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/glass": {
-    "criteria": {
-      "has_smelts_to_glass": "2024-11-13 16:26:41 +1300"
     },
     "done": true
   },
@@ -6505,12 +6442,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2024-11-13 16:39:18 +1300"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/hnhome/biomesoplenty/mahogany_trim_1": {
     "criteria": {
       "has_planks": "2024-11-13 16:39:58 +1300"
@@ -6523,9 +6454,129 @@
     },
     "done": true
   },
-  "supplementaries:recipes/stonecutting/stone_tile": {
+  "mowziesmobs:kill_foliaath": {
     "criteria": {
-      "has_stone_bricks": "2024-11-13 16:39:18 +1300"
+      "foliaath": "2024-11-13 16:47:00 +1300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/red_dye_from_waterlily": {
+    "criteria": {
+      "has_waterlily": "2024-11-13 16:47:55 +1300"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2024-11-13 16:55:40 +1300"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty": {
+    "criteria": {
+      "beef_patty": "2024-11-13 16:59:18 +1300"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty_from_smoking": {
+    "criteria": {
+      "beef_patty": "2024-11-13 16:59:18 +1300"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty_from_campfire_cooking": {
+    "criteria": {
+      "beef_patty": "2024-11-13 16:59:18 +1300"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-11-13 17:00:48 +1300"
+    },
+    "done": true
+  },
+  "bygonenether:root": {
+    "criteria": {
+      "entered_nether": "2024-11-13 17:02:34 +1300"
+    },
+    "done": true
+  },
+  "adorabuild_structures:nether_structures": {
+    "criteria": {
+      "example": "2024-11-13 17:02:34 +1300"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-11-13 17:02:34 +1300"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-11-13 17:02:34 +1300"
+    },
+    "done": true
+  },
+  "betternether:enter_nether": {
+    "criteria": {
+      "entered_nether": "2024-11-13 17:02:34 +1300"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2024-11-13 17:02:54 +1300"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-11-13 17:42:04 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_pickaxe_repairing": {
+    "criteria": {
+      "has_diamond_pickaxe": "2024-11-13 17:59:06 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-11-13 17:38:26 +1300"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-11-13 17:38:26 +1300"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-11-13 17:38:26 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2024-11-13 17:56:40 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-11-13 17:38:26 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-11-13 17:38:26 +1300"
     },
     "done": true
   },

@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "a0ca20b0cbaf4a1fae79a59b3d99663a"
+	name: "nnicholas_c#a0ca20b0"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		0470194500CBE26C: 1
+	}
+	started: {
+		1D4E5CDD59FFB7A0: 1731472080436L
+		2574E7CF699D5B45: 1731472080436L
+		0470194500CBE26C: 1731472080436L
+		0000000000000001: 1731472080436L
+	}
+	completed: {
+		2574E7CF699D5B45: 1731472080437L
+		0470194500CBE26C: 1731472080437L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}

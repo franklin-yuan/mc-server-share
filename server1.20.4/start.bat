@@ -13,6 +13,10 @@ echo Getting files for world: %currrent_world%
 
 cd ..
 
+
+git branch -M %current_world%
+git checkout -f %current_world%
+
 git fetch --all
 git reset --hard origin/%currrent_world%
 

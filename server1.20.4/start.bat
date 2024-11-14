@@ -19,6 +19,7 @@ git checkout -f %current_world%
 
 git fetch --all
 git reset --hard origin/%currrent_world%
+if errorlevel 1 echo ERROR: CHANCE FOR WORLD TO NOT BE AT LATEST, LOCAL CHANGES WERE NOT COMMITED
 
 echo Type 'stop' into this terminal when you want to end the server!
 
@@ -50,6 +51,7 @@ git commit . -m "Update from %upload_name%"
 echo Wait until this terminal says 'complete'
 
 git push -u origin HEAD:%currrent_world%
+if errorlevel 1 echo ERROR: NOT PROPERLY PUSHED. IF LOCAL CHANGES NEED TO BE SAVED, DO NOT RUN THIS SCRIPT (START.BAT) AGAIN AND MANUALLY PUSH TO THE REPOSITORY.
 
 echo Complete
 

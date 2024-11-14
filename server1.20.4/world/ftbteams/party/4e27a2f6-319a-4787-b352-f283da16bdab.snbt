@@ -1,0 +1,21 @@
+{
+	id: "4e27a2f6-319a-4787-b352-f283da16bdab"
+	type: "party"
+	owner: "0b7d95b9-a3bc-4fe3-bc49-e1b0ed8eeeeb"
+	ranks: {
+		0b7d95b9-a3bc-4fe3-bc49-e1b0ed8eeeeb: "owner"
+		02fd7487-0ceb-4fc4-9b5e-2b1ba918ab42: "invited"
+	}
+	properties: {
+		"ftbteams:display_name": "USSR"
+		"ftbteams:description": "communism"
+		"ftbteams:color": "#59FF5D"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1731567227117L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Averygoogplayer\"}]}" }
+		{ from: "0b7d95b9-a3bc-4fe3-bc49-e1b0ed8eeeeb", date: 1731567235409L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Lymph\"}]}" }
+	]
+	extra: { }
+}

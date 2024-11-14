@@ -1,175 +1,420 @@
-[14Nov2024 00:02:03.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <2CS> thunderball do you have any spare books in ur base
-[14Nov2024 00:02:17.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <thunderball> i have 10 books
-[14Nov2024 00:03:21.210] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Daryl'/225181, l='ServerLevel[world]', x=881.30, y=67.00, z=350.59] died, message: 'Daryl was slain by Zombie'
-[14Nov2024 00:03:21.210] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Daryl'/225181, l='ServerLevel[world]', x=881.30, y=67.00, z=350.59] died: Daryl was slain by Zombie
-[14Nov2024 00:03:51.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <2CS> i had hella books where tf did they go
-[14Nov2024 00:03:52.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Averygoogplayer has made the advancement [Isn't It Iron Pick]
-[14Nov2024 00:03:59.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <thunderball> i didnt take any
-[14Nov2024 00:04:04.856] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Carmelia'/225185, l='ServerLevel[world]', x=793.21, y=70.00, z=319.95] died, message: 'Carmelia was slain by Zombie'
-[14Nov2024 00:04:04.857] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Carmelia'/225185, l='ServerLevel[world]', x=793.21, y=70.00, z=319.95] died: Carmelia was slain by Zombie
-[14Nov2024 00:04:42.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <nnicholas_c> how do i open backpack nty
-[14Nov2024 00:04:44.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Averygoogplayer has made the advancement [Jennifer Dumped Me]
-[14Nov2024 00:05:04.970] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Alena'/223333, l='ServerLevel[world]', x=790.70, y=84.00, z=280.18] died: Alena was slain by Foliaath
-[14Nov2024 00:05:11.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <2CS> wtf i didnt realise how rare enchanting table is
-[14Nov2024 00:05:14.211] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Elmo'/225180, l='ServerLevel[world]', x=807.87, y=68.00, z=323.50] died, message: 'Elmo was slain by Zombie'
-[14Nov2024 00:05:14.212] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Elmo'/225180, l='ServerLevel[world]', x=807.87, y=68.00, z=323.50] died: Elmo was slain by Zombie
-[14Nov2024 00:05:14.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nnicholas_c has made the advancement [This Must be a Sign!]
-[14Nov2024 00:05:16.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <2CS> im gonn have to yoink it back
-[14Nov2024 00:05:19.566] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Efren'/223214, l='ServerLevel[world]', x=787.50, y=83.00, z=279.59] died: Efren was slain by Foliaath
-[14Nov2024 00:05:19.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <2CS> press b
-[14Nov2024 00:05:55.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <nnicholas_c> sweet
-[14Nov2024 00:06:12.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Averygoogplayer has made the advancement [This Must be a Sign!]
-[14Nov2024 00:06:13.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nnicholas_c was slain by Enderman
-[14Nov2024 00:06:46.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <nnicholas_c> 1640 63
-[14Nov2024 00:06:55.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
-[14Nov2024 00:06:55.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tp n/tp nnicholas_c thunderball<--[HERE]
-[14Nov2024 00:07:01.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported nnicholas_c to thunderball
-[14Nov2024 00:09:48.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Averygoogplayer has made the advancement [Diamonds!]
-[14Nov2024 00:11:03.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <thunderball> where did u put my
-[14Nov2024 00:11:06.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <thunderball> uhh
-[14Nov2024 00:11:07.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <thunderball> spore
-[14Nov2024 00:11:09.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Averygoogplayer has made the advancement [Suit Up]
-[14Nov2024 00:11:11.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <2CS> its in a chest
-[14Nov2024 00:11:38.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <2CS> not here
-[14Nov2024 00:11:41.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <2CS> its in your chest
-[14Nov2024 00:12:02.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <2CS> here
-[14Nov2024 00:12:06.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <2CS> illcone
-[14Nov2024 00:12:08.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <thunderball> found it
-[14Nov2024 00:13:49.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2CS has made the advancement [Red Nether]
-[14Nov2024 00:14:08.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <2CS> wow nice
-[14Nov2024 00:15:39.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2CS has made the advancement [Harder than Diamond]
-[14Nov2024 00:15:47.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <thunderball> yo
-[14Nov2024 00:15:49.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Averygoogplayer has made the advancement [Not Today, Thank You]
-[14Nov2024 00:15:50.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <thunderball> u can craft waystones
-[14Nov2024 00:15:53.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <2CS> yes
-[14Nov2024 00:15:54.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <thunderball> and its not even that hard
-[14Nov2024 00:15:58.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <2CS> that's why i said mine anythest
-[14Nov2024 00:16:08.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <2CS> amythest is annoying to find
-[14Nov2024 00:16:13.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <2CS> are you in overworld
-[14Nov2024 00:16:16.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <thunderball> ur minimap tells you
-[14Nov2024 00:16:16.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <2CS> lemme come with
-[14Nov2024 00:17:43.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2CS has made the advancement [Gone Bananas!]
-[14Nov2024 00:17:45.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <2CS> nice
-[14Nov2024 00:18:20.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <2CS> are you at ur house
-[14Nov2024 00:18:24.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <2CS> thunderblud
-[14Nov2024 00:18:38.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <thunderball> yeah
-[14Nov2024 00:18:45.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <2CS> can you tp me to you
-[14Nov2024 00:19:08.010] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Lenny'/250453, l='ServerLevel[world]', x=7113.61, y=66.00, z=249.50] died: Lenny was slain by Foliaath
-[14Nov2024 00:19:10.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported 2CS to thunderball
-[14Nov2024 00:19:14.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <2CS> rip
-[14Nov2024 00:19:17.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <2CS> my horse didnt come
-[14Nov2024 00:20:35.409] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Normand'/254470, l='ServerLevel[world]', x=876.60, y=62.94, z=330.54] died, message: 'Normand was slain by Zombie'
-[14Nov2024 00:20:35.410] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Normand'/254470, l='ServerLevel[world]', x=876.60, y=62.94, z=330.54] died: Normand was slain by Zombie
-[14Nov2024 00:20:39.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nnicholas_c has made the advancement [Diamonds!]
-[14Nov2024 00:23:52.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nnicholas_c was slain by Zombie
-[14Nov2024 00:25:16.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
-[14Nov2024 00:25:16.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...icholas_c 339 -18 C:\Users\frank\OneDrive\Documents\Minecraft\mc-server-share-main<--[HERE]
-[14Nov2024 00:25:36.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported nnicholas_c to 339.500000, -18.000000, 500.500000
-[14Nov2024 00:25:42.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nnicholas_c suffocated in a wall
-[14Nov2024 00:25:43.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported nnicholas_c to 339.500000, -18.000000, 400.500000
-[14Nov2024 00:25:51.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported nnicholas_c to 339.500000, -18.000000, 400.500000
-[14Nov2024 00:25:58.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported nnicholas_c to 339.500000, -18.000000, 300.500000
-[14Nov2024 00:26:10.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nnicholas_c suffocated in a wall
-[14Nov2024 00:26:15.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <2CS> gg
-[14Nov2024 00:26:18.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported nnicholas_c to 339.500000, -18.000000, 100.500000
-[14Nov2024 00:26:25.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported nnicholas_c to 339.500000, -18.000000, 150.500000
-[14Nov2024 00:26:30.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nnicholas_c suffocated in a wall
-[14Nov2024 00:26:34.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <2CS> manw
-[14Nov2024 00:26:40.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported nnicholas_c to 339.500000, -18.000000, 300.500000
-[14Nov2024 00:26:47.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported nnicholas_c to 339.500000, -18.000000, 400.500000
-[14Nov2024 00:26:55.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nnicholas_c suffocated in a wall
-[14Nov2024 00:27:01.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported nnicholas_c to 339.500000, -18.000000, 400.500000
-[14Nov2024 00:27:04.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Averygoogplayer has reached the goal [This Belongs in a Museum]
-[14Nov2024 00:27:14.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nnicholas_c suffocated in a wall
-[14Nov2024 00:27:14.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported nnicholas_c to 339.500000, -18.000000, 250.500000
-[14Nov2024 00:27:18.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <2CS> blu
-[14Nov2024 00:27:24.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[14Nov2024 00:27:24.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <--[HERE]
-[14Nov2024 00:27:26.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported nnicholas_c to 339.500000, -18.000000, 400.500000
-[14Nov2024 00:27:30.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported nnicholas_c to 339.500000, -18.000000, 250.500000
-[14Nov2024 00:29:42.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <2CS> what yall doing
-[14Nov2024 00:29:50.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <thunderball> setting up base
-[14Nov2024 00:29:50.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Averygoogplayer> miniung
-[14Nov2024 00:29:56.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <2CS> aight
-[14Nov2024 00:30:14.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[14Nov2024 00:30:14.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <--[HERE]
-[14Nov2024 00:30:22.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Averygoogplayer to thunderball
-[14Nov2024 00:32:18.559] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=574, y=87, z=455} BlockPos{x=575, y=86, z=456}
-[14Nov2024 00:32:39.266] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=572, y=75, z=463} BlockPos{x=572, y=75, z=461}
-[14Nov2024 00:32:51.275] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=570, y=76, z=458} BlockPos{x=571, y=75, z=459}
-[14Nov2024 00:32:51.320] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=570, y=76, z=458} BlockPos{x=571, y=75, z=459}
-[14Nov2024 00:35:43.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported nnicholas_c to Averygoogplayer
-[14Nov2024 00:40:11.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <thunderball> antony did u go south before
-[14Nov2024 00:40:15.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <2CS> yes
-[14Nov2024 00:40:17.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <2CS> kind of
-[14Nov2024 00:40:23.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
-[14Nov2024 00:40:23.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tp nnicholas_c/tp t/tp nnicholas_c thunderball<--[HERE]
-[14Nov2024 00:40:27.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <2CS> actually not really
-[14Nov2024 00:40:33.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported nnicholas_c to thunderball
-[14Nov2024 00:40:44.919] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Delmer'/270796, l='ServerLevel[world]', x=509.28, y=64.00, z=1060.75] died: Delmer was slain by Zombie
-[14Nov2024 00:40:51.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <2CS> 2020 is basically the most south ive been
-[14Nov2024 00:40:56.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <2CS> unless you count nether
-[14Nov2024 00:42:04.443] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Lonnie'/270940, l='ServerLevel[world]', x=458.66, y=65.00, z=1080.69] died, message: 'Lonnie was slain by Foliaath'
-[14Nov2024 00:42:04.444] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Lonnie'/270940, l='ServerLevel[world]', x=458.66, y=65.00, z=1080.69] died: Lonnie was slain by Foliaath
-[14Nov2024 00:42:49.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Averygoogplayer fell from a high place
-[14Nov2024 00:43:30.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nnicholas_c has made the advancement [We Just Want our Hat Back]
-[14Nov2024 00:43:38.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thunderball has made the advancement [We Just Want our Hat Back]
-[14Nov2024 00:43:57.200] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/277207, l='ServerLevel[world]', x=144.50, y=56.00, z=1033.50]
-[14Nov2024 00:44:36.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thunderball has made the advancement [Jaws]
-[14Nov2024 00:44:36.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nnicholas_c has made the advancement [Jaws]
-[14Nov2024 00:44:41.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <2CS> ayo
-[14Nov2024 00:44:41.985] [Worker-Main-732/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
-[14Nov2024 00:45:39.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[14Nov2024 00:45:39.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]:  /tp averygoogplayer nnicholas_c<--[HERE]
-[14Nov2024 00:45:46.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Averygoogplayer to nnicholas_c
-[14Nov2024 00:45:46.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Averygoogplayer has made the advancement [Jaws]
-[14Nov2024 00:48:06.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Averygoogplayer has made the advancement [A Small Price to Pay...]
-[14Nov2024 00:48:06.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nnicholas_c has made the advancement [A Small Price to Pay...]
-[14Nov2024 00:51:56.810] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=332, y=127, z=1357} BlockPos{x=332, y=128, z=1357}
-[14Nov2024 00:53:37.225] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of thunderball) moved wrongly! 0.46658406816521847
-[14Nov2024 00:55:42.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <2CS> o7
-[14Nov2024 00:55:43.776] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2CS lost connection: Disconnected
-[14Nov2024 00:55:43.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2CS left the game
-[14Nov2024 00:55:43.776] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 3e22209e-686b-4f50-a45e-07d656f935ac
-[14Nov2024 00:59:13.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Averygoogplayer has made the advancement [Cover Me with Diamonds]
-[14Nov2024 01:02:28.028] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Averygoogplayer) moved wrongly! 0.3328766395416096
-[14Nov2024 01:04:03.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Averygoogplayer has made the advancement [Masquerade]
-[14Nov2024 01:05:36.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thunderball has made the advancement [A Small Price to Pay...]
-[14Nov2024 01:06:53.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thunderball has made the advancement [Mine? Mine? Mine?]
-[14Nov2024 01:06:53.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Averygoogplayer has made the advancement [Mine? Mine? Mine?]
-[14Nov2024 01:09:33.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nnicholas_c has reached the goal [Flowers of the Savanna]
-[14Nov2024 01:10:30.756] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thunderball lost connection: Disconnected
-[14Nov2024 01:10:30.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thunderball left the game
-[14Nov2024 01:10:30.756] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 51663a42-2b1d-46a3-8338-adb5a6225ee0
-[14Nov2024 01:10:33.266] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nnicholas_c lost connection: Disconnected
-[14Nov2024 01:10:33.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nnicholas_c left the game
-[14Nov2024 01:10:33.266] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for a0ca20b0-cbaf-4a1f-ae79-a59b3d99663a
-[14Nov2024 01:10:33.364] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Averygoogplayer lost connection: Disconnected
-[14Nov2024 01:10:33.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Averygoogplayer left the game
-[14Nov2024 01:10:33.364] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 0b7d95b9-a3bc-4fe3-bc49-e1b0ed8eeeeb
-[14Nov2024 01:11:05.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[14Nov2024 01:11:05.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[14Nov2024 01:11:05.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[14Nov2024 01:11:05.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[14Nov2024 01:11:05.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[14Nov2024 01:11:06.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
-[14Nov2024 01:11:06.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
-[14Nov2024 01:11:06.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
-[14Nov2024 01:11:06.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
-[14Nov2024 01:11:06.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[14Nov2024 01:11:06.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
-[14Nov2024 01:11:06.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[14Nov2024 01:11:06.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[14Nov2024 01:11:06.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
-[14Nov2024 01:11:06.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
-[14Nov2024 01:11:06.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
-[14Nov2024 01:11:06.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
-[14Nov2024 01:11:06.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[14Nov2024 01:11:06.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
-[14Nov2024 01:11:06.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[14Nov2024 01:11:06.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[14Nov2024 01:11:08.060] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopping IO worker...
-[14Nov2024 01:11:08.069] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopped IO worker!
-[14Nov2024 01:11:08.079] [Server thread/INFO] [Framework/]: Unloading server configs...
-[14Nov2024 01:11:08.084] [Server thread/INFO] [Framework/]: Sending config unload event for backpacked.server.toml
-[14Nov2024 01:11:08.085] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[14Nov2024 20:48:48.286] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[14Nov2024 20:48:48.294] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 23.0.1 by Oracle Corporation; OS Windows 11 arch amd64 version 10.0
+[14Nov2024 20:48:49.576] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[14Nov2024 20:48:49.588] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirector CoreMod initialized successfully!
+[14Nov2024 20:48:49.591] [main/INFO] [mixin-transmog/]: Mixin Transmogrifier is definitely up to no good...
+[14Nov2024 20:48:49.607] [main/INFO] [mixin-transmog/]: crimes against java were committed
+[14Nov2024 20:48:49.622] [main/INFO] [mixin-transmog/]: Original mixin transformation service successfully crobbed by mixin-transmogrifier!
+[14Nov2024 20:48:49.654] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/frank/OneDrive/Documents/Minecraft/mc-server-share-main/server1.20.4/mods/Connector-1.0.0-beta.46+1.20.1.jar%23359%23363!/ Service=ModLauncher Env=SERVER
+[14Nov2024 20:48:50.409] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\frank\OneDrive\Documents\Minecraft\mc-server-share-main\server1.20.4\libraries\net\minecraftforge\fmlcore\1.20.1-47.3.0\fmlcore-1.20.1-47.3.0.jar is missing mods.toml file
+[14Nov2024 20:48:50.409] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\frank\OneDrive\Documents\Minecraft\mc-server-share-main\server1.20.4\libraries\net\minecraftforge\javafmllanguage\1.20.1-47.3.0\javafmllanguage-1.20.1-47.3.0.jar is missing mods.toml file
+[14Nov2024 20:48:50.409] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\frank\OneDrive\Documents\Minecraft\mc-server-share-main\server1.20.4\libraries\net\minecraftforge\lowcodelanguage\1.20.1-47.3.0\lowcodelanguage-1.20.1-47.3.0.jar is missing mods.toml file
+[14Nov2024 20:48:50.409] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\frank\OneDrive\Documents\Minecraft\mc-server-share-main\server1.20.4\libraries\net\minecraftforge\mclanguage\1.20.1-47.3.0\mclanguage-1.20.1-47.3.0.jar is missing mods.toml file
+[14Nov2024 20:48:50.975] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[14Nov2024 20:48:50.975] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[14Nov2024 20:48:50.975] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: terrablender. Using Mod File: C:\Users\frank\OneDrive\Documents\Minecraft\mc-server-share-main\server1.20.4\mods\TerraBlender-forge-1.20.1-3.0.1.7.jar
+[14Nov2024 20:48:50.975] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: aeroblender. Using Mod File: C:\Users\frank\OneDrive\Documents\Minecraft\mc-server-share-main\server1.20.4\mods\aeroblender-1.20.1-1.0.1-neoforge.jar
+[14Nov2024 20:48:50.975] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: curios. Using Mod File: C:\Users\frank\OneDrive\Documents\Minecraft\mc-server-share-main\server1.20.4\mods\curios-forge-5.11.0+1.20.1.jar
+[14Nov2024 20:48:50.975] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: architectury. Using Mod File: C:\Users\frank\OneDrive\Documents\Minecraft\mc-server-share-main\server1.20.4\mods\architectury-9.2.14-forge.jar
+[14Nov2024 20:48:50.975] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 89 dependencies adding them to mods collection
+[14Nov2024 20:48:52.168] [main/INFO] [org.sinytra.connector.locator.DependencyResolver/]: Dependency resolution found 10 candidates to load
+[14Nov2024 20:48:53.096] [main/INFO] [Configured Defaults/]: Applying default files...
+[14Nov2024 20:48:53.409] [main/INFO] [org.sinytra.connector.service.hacks.ModuleLayerMigrator/]: Successfully made module authlib transformable
+[14Nov2024 20:48:54.709] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[14Nov2024 20:48:55.093] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
+[14Nov2024 20:48:55.099] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[14Nov2024 20:48:55.188] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.19.4+mc1.20.1: 84 options available, 2 override(s) found
+[14Nov2024 20:48:55.191] [main/WARN] [ModernFix/]: Option 'mixin.perf.faster_item_rendering' overriden (by user configuration) to 'true'
+[14Nov2024 20:48:55.191] [main/WARN] [ModernFix/]: Option 'mixin.perf.dynamic_resources' overriden (by user configuration) to 'true'
+[14Nov2024 20:48:55.191] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[14Nov2024 20:48:55.193] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[14Nov2024 20:48:55.244] [main/WARN] [mixin/]: Reference map 'lmft-common-refmap.json' for lmft-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[14Nov2024 20:48:55.247] [main/WARN] [mixin/]: Reference map 'handcrafted-forge-1.20.1-forge-refmap.json' for handcrafted.mixins.json could not be read. If this is a development environment you can ignore this message
+[14Nov2024 20:48:55.386] [main/WARN] [mixin/]: Reference map 'nitrogen_internals.refmap.json' for nitrogen_internals.mixins.json could not be read. If this is a development environment you can ignore this message
+[14Nov2024 20:48:55.418] [main/INFO] [Radium Config/]: Loaded configuration file for Radium: 125 options available, 14 override(s) found
+[14Nov2024 20:48:55.447] [main/WARN] [mixin/]: Reference map 'EpheroLib-refmap.json' for epherolib.mixins.json could not be read. If this is a development environment you can ignore this message
+[14Nov2024 20:48:55.452] [main/WARN] [mixin/]: Reference map 'aaa_particles-forge-refmap.json' for aaa_particles.mixins.json could not be read. If this is a development environment you can ignore this message
+[14Nov2024 20:48:55.523] [main/WARN] [mixin/]: Reference map 'LongerChatHistory-forge-refmap.json' for longerchathistory.mixins.json could not be read. If this is a development environment you can ignore this message
+[14Nov2024 20:48:55.545] [main/WARN] [mixin/]: Reference map 'fastpaintings-forge-refmap.json' for fastpaintings-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[14Nov2024 20:48:55.598] [main/INFO] [Puzzles Lib/]: Loading 326 mods:
+	- aaa_particles 1.20.1-1.4.7
+	- adorabuild_structures 2.8.0
+	- advancednetherite 2.1.3
+	- aeroblender 1.20.1-1.0.1-neoforge
+	- aether 1.20.1-1.4.2-neoforge
+		\-- cumulus_menus 1.20.1-1.0.0-neoforge
+	- aether_enhanced_extinguishing 1.20.1-1.0.0-neoforge
+	- aether_protect_your_moa 1.20.1-1.0.0-neoforge
+		|-- mixinextras 0.2.0-beta.9
+		\-- nitrogen_internals 1.20.1-1.0.9-neoforge
+	- aether_redux 2.0.17
+	- aether_villages 1.0.7
+	- alexsmobs 1.22.9
+	- alternate_current 1.7.0
+	- amendments 1.20-1.2.12
+	- another_furniture 1.20.1-3.0.1
+	- architectury 9.2.14
+	- ascended_quark 1.0.2
+	- ash_api 3.0.2+1.20.1
+	- athena 3.1.2
+	- autochefsdelight 1.0.5+forge
+	- azurelib 2.0.39
+	- backpacked 3.0.0-beta.9
+	- balm 7.3.9
+		\-- kuma_api 20.1.8
+	- barteringstation 8.0.0
+	- bcc 4.0.8
+	- bclib 3.0.14
+	- betterdungeons 1.20-Forge-4.0.4
+	- betterend 4.0.11
+	- betterend_crashed_ships 1.0.0
+	- betterendisland 1.20-Forge-2.0.6
+	- betterfortresses 1.20-Forge-2.0.6
+	- betterfpsdist 1.20.1-6.0
+	- betterjungletemples 1.20-Forge-2.0.5
+	- bettermineshafts 1.20-Forge-4.0.4
+	- betternether 9.0.10
+	- betteroceanmonuments 1.20-Forge-3.0.4
+	- betterstrongholds 1.20-Forge-4.0.3
+	- betterwitchhuts 1.20-Forge-3.0.3
+	- biomemusic 1.20.1-2.5
+	- biomesoplenty 19.0.0.91
+	- blue_skies 1.3.31
+	- blueprint 7.1.0
+	- blueprintfix 1.0.0
+	- boatbreakfix 1.0.2
+	- boatload 5.0.1
+	- bookshelf 20.2.13
+	- bountiful 6.0.3+1.20.1
+	- bygonenether 1.3.2
+	- caelus 3.2.0+1.20.1
+	- carryon 2.1.2.7
+	- cataclysm 2.16
+	- charmofundying 6.5.0+1.20.1
+		\-- spectrelib 0.13.15+1.20.1
+	- chefsdelight 1.0.3-forge-1.20.1
+	- chipped 3.0.7
+	- chunksending 1.20.1-2.8
+	- citadel 2.6.0
+	- clientcrafting 1.20.1-1.8
+	- cloth_config 11.1.136
+	- clumps 12.0.0.4
+	- collective 7.87
+	- comforts 6.4.0+1.20.1
+	- conjurer_illager 1.1.6
+	- connectivity 1.20.1-5.6
+	- connectorextras 1.11.2+1.20.1
+		|-- amecsapi 1.5.3+mc1.20-pre1
+		|-- connectorextras_architectury_bridge 1.11.2+1.20.1
+		|-- connectorextras_emi_bridge 1.11.2+1.20.1
+		|-- connectorextras_energy_bridge 1.11.2+1.20.1
+		|-- connectorextras_geckolib_fabric_compat 1.11.2+1.20.1
+		|-- connectorextras_jei_bridge 1.11.2+1.20.1
+		|-- connectorextras_kubejs_bridge 1.11.2+1.20.1
+		|-- connectorextras_modmenu_bridge 1.11.2+1.20.1
+			\-- modmenu 7.2.2
+		|-- connectorextras_pehkui_bridge 1.11.2+1.20.1
+		|-- connectorextras_rei_bridge 1.11.2+1.20.1
+		|-- connectorextras_terrablender_bridge 1.11.2+1.20.1
+		|-- forgeconfigapiport 8.0.0
+		\-- reach_entity_attributes 2.4.0
+	- connectormod 1.0.0-beta.46+1.20.1
+	- coroutil 1.20.1-1.3.7
+	- corpse 1.20.1-1.0.17
+	- crabbersdelight 1.1.7c
+	- crashexploitfixer 1.1.0
+	- crawlondemand 1.20.x-1.0.0
+	- cristellib 1.1.5
+	- cupboard 1.20.1-2.7
+	- curios 5.11.0+1.20.1
+	- cutthrough 8.0.2
+	- decorative_blocks 4.1.3
+	- deep_aether 1.20.1-1.0.4
+	- deeperdarker 1.3.2
+	- delightful 3.6
+	- despawn_tweaker 1.20.1-1.0.0
+	- deuf 1.20.1-1.3
+	- diagonalfences 8.1.4
+		\-- diagonalblocks 8.0.5
+	- dimensionalsycnfixes 1.20.1-0.0.1
+	- dragon_mounts_patches 1.0.0
+	- dragonmounts 1.2.3-beta
+	- dtkupd 1.3
+	- dungeons_arise 2.1.58-1.20.x
+	- easyanvils 8.0.2
+	- easymagic 8.0.1
+	- eldritch_end 0.3.2
+	- elevatorid 1.20.1-lex-1.9
+	- elytraslot 6.4.4+1.20.1
+		\-- mixinsquared 0.1.2-beta.6
+	- endersdelight 1.0.3
+	- epherolib 0.1.2
+	- everycomp 1.20-2.6.87
+	- explorations 1.20.1-1.6.1
+	- extra_compat 1.5.22
+	- fabric_api 0.92.2+1.11.8+1.20.1
+		|-- fabric_api_lookup_api_v1 1.6.36+67f9824077
+		|-- fabric_biome_api_v1 13.0.13+dc36698e77
+		|-- fabric_block_api_v1 1.0.11+0e6cb7f777
+		|-- fabric_block_view_api_v2 1.0.1+0767707077
+		|-- fabric_blockrenderlayer_v1 1.1.41+1d0da21e77
+		|-- fabric_client_tags_api_v1 1.1.2+5d6761b877
+		|-- fabric_command_api_v1 1.2.34+f71b366f77
+		|-- fabric_command_api_v2 2.2.13+561530ec77
+		|-- fabric_content_registries_v0 4.0.11+a670df1e77
+		|-- fabric_convention_tags_v1 1.5.5+fa3d1c0177
+		|-- fabric_data_attachment_api_v1 1.0.0+30ef839e77
+		|-- fabric_data_generation_api_v1 12.3.4+369cb3a477
+		|-- fabric_dimensions_v1 2.1.54+8005d10d77
+		|-- fabric_entity_events_v1 1.6.0+6274ab9d77
+		|-- fabric_events_interaction_v0 0.6.2+0d0bd5a777
+		|-- fabric_game_rule_api_v1 1.0.40+683d4da877
+		|-- fabric_item_api_v1 2.1.28+4d0bbcfa77
+		|-- fabric_item_group_api_v1 4.0.12+c9161c2d77
+		|-- fabric_key_binding_api_v1 1.0.37+561530ec77
+		|-- fabric_lifecycle_events_v1 2.2.22+afab492177
+		|-- fabric_loot_api_v2 1.2.1+eb28f93e77
+		|-- fabric_message_api_v1 5.1.9+52cc178c77
+		|-- fabric_mining_level_api_v1 2.1.50+561530ec77
+		|-- fabric_model_loading_api_v1 1.0.3+6274ab9d77
+		|-- fabric_models_v0 0.4.2+7c3892a477
+		|-- fabric_networking_api_v1 1.3.11+503a202477
+		|-- fabric_object_builder_api_v1 11.1.3+2174fc8477
+		|-- fabric_particles_v1 1.1.2+78e1ecb877
+		|-- fabric_recipe_api_v1 1.0.21+514a076577
+		|-- fabric_registry_sync_v0 2.3.3+1c0ea72177
+		|-- fabric_renderer_api_v1 3.2.1+1d29b44577
+		|-- fabric_rendering_data_attachment_v1 0.3.37+a6081afc77
+		|-- fabric_rendering_fluids_v1 3.0.28+4ac5e37a77
+		|-- fabric_rendering_v1 3.0.8+66e9a48f77
+		|-- fabric_resource_conditions_api_v1 2.3.8+9ad825cd77
+		|-- fabric_resource_loader_v0 0.11.10+bcd08ed377
+		|-- fabric_screen_api_v1 2.0.8+45a670a577
+		|-- fabric_screen_handler_api_v1 1.3.30+561530ec77
+		|-- fabric_sound_api_v1 1.0.13+4f23bd8477
+		|-- fabric_transfer_api_v1 3.3.5+631c9cd677
+		\-- fabric_transitive_access_wideners_v1 4.3.1+1880499877
+	- fallingtree 4.3.4
+	- farmers_structures 1.0.0
+	- farmersdelight 1.20.1-1.2.4
+	- fastasyncworldsave 1.20.1-2.0
+	- faster_random 5.1.0
+	- fastpaintings 1.20-1.2.7
+	- featurerecycler 1.0.1
+	- ferritecore 6.0.1
+	- flib 0.0.14
+	- forge 47.3.0
+	- forgeconfigscreens 8.0.2
+	- formations 1.0.2+a
+	- formationsnether 1.0.5
+	- formationsoverworld 1.0.4
+	- framework 0.7.11
+	- friendsandfoes 3.0.5
+	- ftblibrary 2001.2.4
+	- ftbquests 2001.4.9
+	- ftbquestsfreezefix 1.0.0
+	- ftbteams 2001.3.0
+	- ftbxmodcompat 2.1.1
+	- galosphere 1.20.1-1.4.1
+	- gardens_of_the_dead 4.0.1
+	- geckoanimfix 1.0.0
+	- geckolib 4.4.9
+	- geophilic 3.1.4
+	- geophilic_reforged 1.2.0
+	- glitchcore 0.0.1.1
+	- goblintraders 1.9.3
+	- grassoverhaul 23.10.10
+	- guardvillagers 1.20.1-1.6.7
+	- handcrafted 3.0.6
+	- hearth_and_home 1.20.1-2.0.3
+	- hearths 1.0.1
+	- highlighter 1.1.9
+	- iceberg 1.1.25
+	- illagerinvasion 8.0.6
+	- incubation 4.0.2
+	- inventorymanagement 1.3.1
+	- itemfilters 2001.1.0-build.59
+	- jade 11.11.1+forge
+	- jei 15.20.0.105
+	- jeresources 1.4.0.247
+	- justenoughbreeding 1.4.1
+	- kambrik 6.1.1+1.20.1
+	- kiwi 11.8.20+forge
+	- kleeslabs 15.0.0
+	- konkrete 1.8.0
+	- kotlinforforge 4.11.0
+	- krypton 0.2.3
+	- leavesbegone 8.0.0
+	- libertyvillagers 2.0.0+forge+1.20.1
+	- lionfishapi 1.9
+	- lithostitched 1.3.3
+	- lmft 1.0.4+1.20.1
+	- logbegone 1.0.8
+	- longerchathistory 1.3
+	- longnbtkiller 1.0.0
+	- lootintegrations 1.20.1-3.7
+	- lootintegrations_yungs 1
+	- lost_aether_content 1.2.3
+	- luna 1.0.0
+	- magnumtorch 8.0.2
+	- mediumcore 1.0.0
+	- melody 1.0.2
+	- memoryleakfix 1.1.1
+	- memorysettings 1.20.1-5.5
+	- mes 1.3.4-1.20-forge
+	- mindfuldarkness 8.0.3
+	- minecraft 1.20.1
+	- mns 1.0.3-1.20-forge
+	- modernfix 5.19.4+mc1.20.1
+	- modpackupdatechecker 0.15.2
+		\-- mpuc_lavendermd 0.1.2
+	- moonlight 1.20-2.13.17
+	- mowziesmobs 1.6.4
+	- mr_blossom_blade 1.2
+	- mvs 4.1.4-1.20-forge
+	- naturescompass 1.20.1-1.11.2-forge
+	- necronomicon 1.6.0
+	- neruina 2.1.2
+	- netherchested 8.0.4
+		|-- puzzlesaccessapi 8.0.9
+		\-- puzzlesapi 8.1.7
+	- netherexp 2.1.0
+	- netherportalfix 13.0.1
+	- nethersdelight 1.20.1-4.0
+	- nochatreports 1.20.1-v2.2.2
+	- noisium 2.3.0+mc1.20-1.20.1
+	- oceansdelight 1.0.2-1.20
+	- openpartiesandclaims 0.23.2
+	- packetfixer 1.4.2
+	- paintings 11.0.0.2
+	- palegarden 1.0.0
+	- patchouli 1.20.1-84-FORGE
+	- paxi 1.20-Forge-4.0
+	- pet_cemetery 2.0.0
+	- philipsruins 4.6
+	- pingwheel 1.9.1
+	- polymorph 0.49.5+1.20.1
+	- puzzleslib 8.1.24
+	- quark 4.0-460
+	- radium 0.12.4+git.26c9d8e
+	- raided 0.1.4
+	- recipeessentials 1.20.1-3.6
+	- repurposed_structures 7.1.15+1.20.1-forge
+	- resourcefullib 2.1.29
+	- resourcepackoverrides 8.0.3
+	- revampedwolf 1.20.1-5.0.0
+	- sawmill 1.20-1.4.3
+	- searchables 1.0.3
+	- sereneseasons 9.1.0.0
+	- sereneseasonsfix 1.1.0.1
+	- serverbrowser 1.0.0
+	- servercore 1.5.1+1.20.1
+	- shieldexp 1.1.7a
+	- smarterfarmers 1.20-2.1.0
+	- smoothchunk 1.20.1-3.6
+	- snowrealmagic 10.5.2
+		|-- fabric_api_base 0.4.31+ef105b4977
+		\-- fabric_renderer_indigo 1.5.2+b5b2da4177
+	- snowundertrees 1.4.5
+	- sound_physics_remastered 1.20.1-1.4.5
+	- spark 1.10.53
+	- sparsestructuresreforged 1.20.1-0.0.1
+	- spawners_plus 4.0-1.20.1
+	- stalwart_dungeons 1.2.8
+	- stoneworks 8.0.0
+	- stonycliffs 1.1.2
+	- storagenetwork 1.11.3
+	- structory 1.3.5
+	- structory_towers 1.0.7
+	- structure_gel 2.16.2
+	- structureessentials 1.20.1-3.4
+	- supplementaries 1.20-2.8.17
+	- suppsquared 1.20-1.1.15
+	- t_and_t 0.0NONE
+	- takesapillage 1.0.3
+	- temporalapi 1.6.7
+	- terrablender 3.0.1.7
+	- toofast 0.4.3.5
+	- tradingpost 8.0.2
+	- transparent 8.0.1+1.20.1
+	- twigs 1.20.1-3.1.1
+	- twilightdelight 2.0.13
+		\-- l2library 2.4.16
+	- twilightforest 4.3.2508
+	- ucrashedlol 0.0.31.20.1
+	- umbral_skies 1.3
+	- v_slab_compat 1.20-2.4
+	- veinmining 1.5.0+1.20.1
+	- villagernames 8.1
+	- villagersplus 3.1
+	- villagesandpillages 1.0.1
+	- visuality 2.0.2
+	- visualworkbench 8.0.0
+	- voidtotem 3.0.1
+	- watut 1.20.1-1.1.3
+	- waystones 14.1.6
+	- whatareyouvotingfor 1.2.5
+	- wither_spawn_fix 1.0.0
+	- wunderlib 1.1.5
+	- xaerominimap 24.5.0
+	- xaeroworldmap 1.39.0
+	- xpbook 2.2.1
+	- ysns 2.0.2
+	- yungsapi 1.20-Forge-4.0.6
+	- yungsbridges 1.20-Forge-4.0.3
+	- yungscavebiomes 1.20.1-Forge-2.0.1
+	- zeta 1.0-24
+[14Nov2024 20:48:55.604] [main/WARN] [mixin/]: Reference map 'mns-forge-refmap.json' for mns-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[14Nov2024 20:48:55.612] [main/WARN] [mixin/]: Reference map 'cristellib-forge-refmap.json' for cristellib.mixins.json could not be read. If this is a development environment you can ignore this message
+[14Nov2024 20:48:55.625] [main/WARN] [mixin/]: Reference map 'v_slab_compat-common-refmap.json' for v_slab_compat-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[14Nov2024 20:48:55.672] [main/WARN] [mixin/]: Reference map '' for mixins.blueprintfix.json could not be read. If this is a development environment you can ignore this message
+[14Nov2024 20:48:55.811] [main/WARN] [mixin/]: Reference map 'mes-forge-refmap.json' for mes-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[14Nov2024 20:48:55.811] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
+[14Nov2024 20:48:55.827] [main/WARN] [mixin/]: Reference map 'mvs-forge-refmap.json' for mvs-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[14Nov2024 20:48:55.858] [main/WARN] [mixin/]: Reference map 'packetfixer-forge-forge-refmap.json' for packetfixer-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[14Nov2024 20:48:55.858] [main/WARN] [mixin/]: Reference map 'mpuc_lavendermc.refmap.json' for mpuc_lavendermd.mixins.json could not be read. If this is a development environment you can ignore this message
+[14Nov2024 20:48:55.874] [main/WARN] [mixin/]: Reference map '' for adapter.init.mixins.json could not be read. If this is a development environment you can ignore this message
+[14Nov2024 20:48:56.645] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/MouseHandler for invalid dist DEDICATED_SERVER
+[14Nov2024 20:48:56.645] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/MouseHandler (java.lang.RuntimeException: Attempted to load class net/minecraft/client/MouseHandler for invalid dist DEDICATED_SERVER)
+[14Nov2024 20:48:56.645] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.MouseHandler was not found fabric-screen-api-v1.mixins.json:MouseMixin from mod fabric_screen_api_v1
+[14Nov2024 20:48:56.645] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
+[14Nov2024 20:48:56.645] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/Screen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
+[14Nov2024 20:48:56.645] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.Screen was not found fabric-screen-api-v1.mixins.json:ScreenAccessor from mod fabric_screen_api_v1
+[14Nov2024 20:48:56.834] [main/WARN] [Radium Config/]: Force-disabling mixin 'alloc.blockstate.StateMixin' as option 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
+[14Nov2024 20:48:56.865] [main/WARN] [Radium Config/]: Force-disabling mixin 'entity.collisions.fluid.EntityMixin' as option 'mixin.entity.collisions' (added by user configuration) disables it and children
+[14Nov2024 20:48:56.865] [main/WARN] [Radium Config/]: Force-disabling mixin 'entity.collisions.intersection.WorldMixin' as option 'mixin.entity.collisions' (added by user configuration) disables it and children
+[14Nov2024 20:48:56.865] [main/WARN] [Radium Config/]: Force-disabling mixin 'entity.collisions.movement.EntityMixin' as option 'mixin.entity.collisions' (added by user configuration) disables it and children
+[14Nov2024 20:48:56.865] [main/WARN] [Radium Config/]: Force-disabling mixin 'entity.collisions.unpushable_cramming.AbstractMinecartEntityMixin' as option 'mixin.entity.collisions' (added by user configuration) disables it and children
+[14Nov2024 20:48:56.865] [main/WARN] [Radium Config/]: Force-disabling mixin 'entity.collisions.unpushable_cramming.BoatEntityMixin' as option 'mixin.entity.collisions' (added by user configuration) disables it and children
+[14Nov2024 20:48:56.865] [main/WARN] [Radium Config/]: Force-disabling mixin 'entity.collisions.unpushable_cramming.EntityMixin' as option 'mixin.entity.collisions' (added by user configuration) disables it and children
+[14Nov2024 20:48:56.865] [main/WARN] [Radium Config/]: Force-disabling mixin 'entity.collisions.unpushable_cramming.EntityPredicatesMixin' as option 'mixin.entity.collisions' (added by user configuration) disables it and children
+[14Nov2024 20:48:56.865] [main/WARN] [Radium Config/]: Force-disabling mixin 'entity.collisions.unpushable_cramming.EntityTrackingSectionMixin' as option 'mixin.entity.collisions' (added by user configuration) disables it and children
+[14Nov2024 20:48:56.865] [main/WARN] [Radium Config/]: Force-disabling mixin 'entity.collisions.unpushable_cramming.LivingEntityMixin' as option 'mixin.entity.collisions' (added by user configuration) disables it and children
+[14Nov2024 20:48:56.865] [main/WARN] [Radium Config/]: Force-disabling mixin 'world.block_entity_ticking.sleeping.ServerWorldMixin' as option 'mixin.world.block_entity_ticking.sleeping' (added by user configuration) disables it and children
+[14Nov2024 20:48:56.865] [main/WARN] [Radium Config/]: Force-disabling mixin 'world.block_entity_ticking.sleeping.WorldChunkMixin' as option 'mixin.world.block_entity_ticking.sleeping' (added by user configuration) disables it and children
+[14Nov2024 20:48:56.865] [main/WARN] [Radium Config/]: Force-disabling mixin 'world.block_entity_ticking.sleeping.WorldMixin' as option 'mixin.world.block_entity_ticking.sleeping' (added by user configuration) disables it and children
+[14Nov2024 20:48:56.881] [main/WARN] [Radium Config/]: Force-disabling mixin 'world.block_entity_ticking.sleeping.WrappedBlockEntityTickInvokerAccessor' as option 'mixin.world.block_entity_ticking.sleeping' (added by user configuration) disables it and children
+[14Nov2024 20:48:56.881] [main/WARN] [Radium Config/]: Force-disabling mixin 'world.block_entity_ticking.sleeping.brewing_stand.BrewingStandBlockEntityMixin' as option 'mixin.world.block_entity_ticking.sleeping' (added by user configuration) disables it and children
+[14Nov2024 20:48:56.881] [main/WARN] [Radium Config/]: Force-disabling mixin 'world.block_entity_ticking.sleeping.campfire.CampfireBlockEntityMixin' as option 'mixin.world.block_entity_ticking.sleeping' (added by user configuration) disables it and children
+[14Nov2024 20:48:56.881] [main/WARN] [Radium Config/]: Force-disabling mixin 'world.block_entity_ticking.sleeping.campfire.lit.CampfireBlockEntityMixin' as option 'mixin.world.block_entity_ticking.sleeping' (added by user configuration) disables it and children
+[14Nov2024 20:48:56.881] [main/WARN] [Radium Config/]: Force-disabling mixin 'world.block_entity_ticking.sleeping.campfire.unlit.CampfireBlockEntityMixin' as option 'mixin.world.block_entity_ticking.sleeping' (added by user configuration) disables it and children
+[14Nov2024 20:48:56.881] [main/WARN] [Radium Config/]: Force-disabling mixin 'world.block_entity_ticking.sleeping.furnace.AbstractFurnaceBlockEntityMixin' as option 'mixin.world.block_entity_ticking.sleeping' (added by user configuration) disables it and children
+[14Nov2024 20:48:56.881] [main/WARN] [Radium Config/]: Force-disabling mixin 'world.block_entity_ticking.sleeping.hopper.HopperBlockEntityMixin' as option 'mixin.world.block_entity_ticking.sleeping' (added by user configuration) disables it and children
+[14Nov2024 20:48:56.881] [main/WARN] [Radium Config/]: Force-disabling mixin 'world.block_entity_ticking.sleeping.shulker_box.ShulkerBoxBlockEntityMixin' as option 'mixin.world.block_entity_ticking.sleeping' (added by user configuration) disables it and children
+[14Nov2024 20:48:57.022] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/ShareToLanScreen (java.lang.ClassNotFoundException: net.minecraft.client.gui.screens.ShareToLanScreen)
+[14Nov2024 20:48:57.022] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.ShareToLanScreen was not found luna.mixins.json:LANMixin from mod luna
+[14Nov2024 20:48:57.097] [main/INFO] [faster-random/]: Loading Faster Random.
+[14Nov2024 20:48:57.128] [main/INFO] [com.cupboard.Cupboard/]: Loaded config for: recipeessentials.json
+[14Nov2024 20:48:57.193] [main/INFO] [com.cupboard.Cupboard/]: Loaded config for: structureessentials.json
+[14Nov2024 20:48:57.207] [main/WARN] [mixin/]: Error loading class: sereneseasons/handler/season/SeasonHandler (java.lang.ClassNotFoundException: sereneseasons.handler.season.SeasonHandler)
+[14Nov2024 20:48:57.207] [main/WARN] [mixin/]: @Mixin target sereneseasons.handler.season.SeasonHandler was not found sereneseasonsfix.mixins.json:MixinSeasonHandler from mod sereneseasonsfix
+[14Nov2024 20:48:57.207] [main/WARN] [mixin/]: Error loading class: sereneseasons/handler/season/TimeSkipHandler (java.lang.ClassNotFoundException: sereneseasons.handler.season.TimeSkipHandler)
+[14Nov2024 20:48:57.207] [main/WARN] [mixin/]: @Mixin target sereneseasons.handler.season.TimeSkipHandler was not found sereneseasonsfix.mixins.json:MixinTimeSkipHandler from mod sereneseasonsfix
+[14Nov2024 20:48:57.333] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/geom/builders/LayerDefinition (java.lang.ClassNotFoundException: net.minecraft.client.model.geom.builders.LayerDefinition)
+[14Nov2024 20:48:57.333] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.geom.builders.LayerDefinition was not found aether_protect_your_moa.mixins.json:client.accessor.LayerDefinitionAccessor from mod aether_protect_your_moa
+[14Nov2024 20:48:57.343] [main/WARN] [mixin/]: Error loading class: com/aetherteam/aether_genesis/block/natural/GreenAercloudBlock (java.lang.ClassNotFoundException: com.aetherteam.aether_genesis.block.natural.GreenAercloudBlock)
+[14Nov2024 20:48:57.343] [main/WARN] [mixin/]: @Mixin target com.aetherteam.aether_genesis.block.natural.GreenAercloudBlock was not found aether_redux.mixins.json:common.block.GreenAercloudBlockMixin from mod aether_redux
+[14Nov2024 20:48:57.349] [main/WARN] [mixin/]: Error loading class: com/aetherteam/aether_genesis/block/natural/OrangeTreeBlock (java.lang.ClassNotFoundException: com.aetherteam.aether_genesis.block.natural.OrangeTreeBlock)
+[14Nov2024 20:48:57.349] [main/WARN] [mixin/]: @Mixin target com.aetherteam.aether_genesis.block.natural.OrangeTreeBlock was not found aether_redux.mixins.json:common.block.OrangeTreeMixin from mod aether_redux
+[14Nov2024 20:48:57.349] [main/WARN] [mixin/]: Error loading class: com/aetherteam/aether_genesis/block/natural/PurpleAercloudBlock (java.lang.ClassNotFoundException: com.aetherteam.aether_genesis.block.natural.PurpleAercloudBlock)
+[14Nov2024 20:48:57.349] [main/WARN] [mixin/]: @Mixin target com.aetherteam.aether_genesis.block.natural.PurpleAercloudBlock was not found aether_redux.mixins.json:common.block.PurpleAercloudBlockMixin from mod aether_redux

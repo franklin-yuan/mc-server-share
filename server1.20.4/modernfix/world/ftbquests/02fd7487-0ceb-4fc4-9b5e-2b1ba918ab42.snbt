@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "02fd74870ceb4fc49b5e2b1ba918ab42"
+	name: "Lymph#02fd7487"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

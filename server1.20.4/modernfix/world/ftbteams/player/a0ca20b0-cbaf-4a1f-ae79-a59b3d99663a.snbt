@@ -1,0 +1,17 @@
+{
+	id: "a0ca20b0-cbaf-4a1f-ae79-a59b3d99663a"
+	type: "player"
+	player_name: "nnicholas_c"
+	ranks: {
+		a0ca20b0-cbaf-4a1f-ae79-a59b3d99663a: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "nnicholas_c"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF9859"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

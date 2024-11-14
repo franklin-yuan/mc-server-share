@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "4b5c28c9a4554dfaa6ad8ef814c51c48"
+	name: "osymanthoos#4b5c28c9"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

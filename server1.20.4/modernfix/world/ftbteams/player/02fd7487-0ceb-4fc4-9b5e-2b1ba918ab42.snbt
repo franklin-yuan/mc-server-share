@@ -1,0 +1,17 @@
+{
+	id: "02fd7487-0ceb-4fc4-9b5e-2b1ba918ab42"
+	type: "player"
+	player_name: "Lymph"
+	ranks: {
+		02fd7487-0ceb-4fc4-9b5e-2b1ba918ab42: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Lymph"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF8159"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

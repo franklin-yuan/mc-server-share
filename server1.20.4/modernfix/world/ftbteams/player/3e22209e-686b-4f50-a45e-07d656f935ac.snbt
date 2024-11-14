@@ -1,0 +1,17 @@
+{
+	id: "3e22209e-686b-4f50-a45e-07d656f935ac"
+	type: "player"
+	player_name: "2CS"
+	ranks: {
+		3e22209e-686b-4f50-a45e-07d656f935ac: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "2CS"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFA1"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,17 @@
+{
+	id: "4b5c28c9-a455-4dfa-a6ad-8ef814c51c48"
+	type: "player"
+	player_name: "osymanthoos"
+	ranks: {
+		4b5c28c9-a455-4dfa-a6ad-8ef814c51c48: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "osymanthoos"
+		"ftbteams:description": ""
+		"ftbteams:color": "#5989FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

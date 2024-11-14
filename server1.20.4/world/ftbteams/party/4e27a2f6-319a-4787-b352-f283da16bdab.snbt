@@ -4,7 +4,7 @@
 	owner: "0b7d95b9-a3bc-4fe3-bc49-e1b0ed8eeeeb"
 	ranks: {
 		0b7d95b9-a3bc-4fe3-bc49-e1b0ed8eeeeb: "owner"
-		02fd7487-0ceb-4fc4-9b5e-2b1ba918ab42: "invited"
+		02fd7487-0ceb-4fc4-9b5e-2b1ba918ab42: "member"
 	}
 	properties: {
 		"ftbteams:display_name": "USSR"
@@ -16,6 +16,8 @@
 	message_history: [
 		{ from: "00000000-0000-0000-0000-000000000000", date: 1731567227117L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Averygoogplayer\"}]}" }
 		{ from: "0b7d95b9-a3bc-4fe3-bc49-e1b0ed8eeeeb", date: 1731567235409L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Lymph\"}]}" }
+		{ from: "0b7d95b9-a3bc-4fe3-bc49-e1b0ed8eeeeb", date: 1731578299690L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Lymph\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1731578302581L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Lymph\"}]}" }
 	]
 	extra: { }
 }

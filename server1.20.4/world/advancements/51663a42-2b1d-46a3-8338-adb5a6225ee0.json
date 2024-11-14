@@ -10095,24 +10095,6 @@
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/cobbled_granite_wall_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-11-14 17:04:17 +1300"
-    },
-    "done": true
-  },
-  "betternether:recipes/transportation/crimson_boat": {
-    "criteria": {
-      "has_crimson_planks": "2024-11-14 15:29:50 +1300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/crimson_side_table": {
-    "criteria": {
-      "has_crimson_side_table": "2024-11-14 15:29:50 +1300"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/hc/biomesoplenty/umbran_nightstand": {
     "criteria": {
       "has_planks": "2024-11-14 15:29:49 +1300"
@@ -10122,18 +10104,6 @@
   "everycomp:recipes/decorations/hc/biomesoplenty/umbran_desk": {
     "criteria": {
       "has_planks": "2024-11-14 15:29:49 +1300"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/cobbled_granite_slab_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-11-14 17:04:17 +1300"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_granite_brick_stairs_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-11-14 17:04:17 +1300"
     },
     "done": true
   },
@@ -10149,30 +10119,6 @@
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/mossy_cobbled_granite_stairs_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-11-14 17:04:17 +1300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-11-14 17:04:17 +1300"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/decorations/sign_post_crimson": {
-    "criteria": {
-      "has_planks": "2024-11-14 15:29:50 +1300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_stairs": {
-    "criteria": {
-      "has_planks": "2024-11-14 17:19:43 +1300"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/q/biomesoplenty/umbran_ladder": {
     "criteria": {
       "has_planks": "2024-11-14 15:29:49 +1300"
@@ -10185,63 +10131,9 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/crimson_corner_trim": {
-    "criteria": {
-      "has_crimson_corner_trim": "2024-11-14 15:29:50 +1300"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/crimson_chair": {
-    "criteria": {
-      "has_planks": "2024-11-14 15:29:50 +1300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/crimson_cupboard": {
-    "criteria": {
-      "has_crimson_cupboard": "2024-11-14 15:29:50 +1300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/jungle_dining_bench": {
-    "criteria": {
-      "has_jungle_dining_bench": "2024-11-14 17:19:43 +1300"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/sign_post_jungle": {
-    "criteria": {
-      "has_the_recipe": "2024-11-14 17:19:43 +1300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_trapdoor": {
-    "criteria": {
-      "has_planks": "2024-11-14 17:19:43 +1300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/granite_corner_trim": {
-    "criteria": {
-      "has_granite_corner_trim": "2024-11-14 17:04:17 +1300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/jungle_sign": {
-    "criteria": {
-      "has_planks": "2024-11-14 17:19:43 +1300"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/hc/biomesoplenty/umbran_counter": {
     "criteria": {
       "has_planks": "2024-11-14 15:29:49 +1300"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/granite_tiles_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-11-14 17:04:17 +1300"
     },
     "done": true
   },
@@ -10257,51 +10149,9 @@
     },
     "done": true
   },
-  "mowziesmobs:sneak_grove": {
-    "criteria": {
-      "steal_crystal": "2024-11-14 16:19:32 +1300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-11-14 17:04:17 +1300"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_granite_bricks_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-11-14 17:04:17 +1300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/crimson_dining_bench": {
-    "criteria": {
-      "has_crimson_dining_bench": "2024-11-14 15:29:50 +1300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/black_cushion": {
-    "criteria": {
-      "has_black_cushion": "2024-11-14 16:06:05 +1300"
-    },
-    "done": true
-  },
-  "twigs:recipes/tables/jungle_table": {
-    "criteria": {
-      "has_jungle": "2024-11-14 17:19:43 +1300"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/building_blocks/umbran_stairs": {
     "criteria": {
       "has_planks": "2024-11-14 15:29:49 +1300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/crimson_slab": {
-    "criteria": {
-      "has_planks": "2024-11-14 15:29:50 +1300"
     },
     "done": true
   },
@@ -10311,27 +10161,9 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/jungle_table": {
-    "criteria": {
-      "has_jungle_table": "2024-11-14 17:19:43 +1300"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/af/biomesoplenty/umbran_chair": {
     "criteria": {
       "has_planks": "2024-11-14 15:29:49 +1300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/glow_item_frame": {
-    "criteria": {
-      "has_item_frame": "2024-11-14 16:25:41 +1300"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/cabbage_rolls": {
-    "criteria": {
-      "has_any_ingredient": "2024-11-14 16:25:47 +1300"
     },
     "done": true
   },
@@ -10347,51 +10179,9 @@
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/granite_paver_slab_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-11-14 17:04:17 +1300"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/cobbled_granite_stairs_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-11-14 17:04:17 +1300"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/black_stool": {
-    "criteria": {
-      "has_wool": "2024-11-14 16:06:05 +1300"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/af/biomesoplenty/umbran_shelf": {
     "criteria": {
       "has_planks": "2024-11-14 15:29:49 +1300"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/misc/pumpkin_seeds_from_slice": {
-    "criteria": {
-      "has_pumpkin_slice": "2024-11-14 16:26:13 +1300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite": {
-    "criteria": {
-      "has_granite": "2024-11-14 17:04:17 +1300"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/netherite_door": {
-    "criteria": {
-      "has_gold_door": "2024-11-14 16:45:43 +1300"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/black_sofa": {
-    "criteria": {
-      "has_wool": "2024-11-14 16:06:05 +1300"
     },
     "done": true
   },
@@ -10401,63 +10191,9 @@
     },
     "done": true
   },
-  "another_furniture:recipes/crimson_shelf": {
-    "criteria": {
-      "has_planks": "2024-11-14 15:29:50 +1300"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/crimson_chest": {
-    "criteria": {
-      "has_crimson_planks": "2024-11-14 15:29:50 +1300"
-    },
-    "done": true
-  },
-  "mowziesmobs:kill_umvuthi": {
-    "criteria": {
-      "barako": "2024-11-14 16:21:28 +1300"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/building_blocks/cabbage_crate": {
-    "criteria": {
-      "has_cabbage": "2024-11-14 16:25:47 +1300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/jungle_counter": {
-    "criteria": {
-      "has_jungle_counter": "2024-11-14 17:19:43 +1300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/crimson_nightstand": {
-    "criteria": {
-      "has_crimson_nightstand": "2024-11-14 15:29:50 +1300"
-    },
-    "done": true
-  },
   "everycomp:recipes/building_blocks/db/biomesoplenty/umbran_seat": {
     "criteria": {
       "has_planks": "2024-11-14 15:29:49 +1300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_carpet": {
-    "criteria": {
-      "has_black_wool": "2024-11-14 16:06:05 +1300"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/cracked_granite_tiles_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-11-14 17:04:17 +1300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/crimson_couch": {
-    "criteria": {
-      "has_crimson_couch": "2024-11-14 15:29:50 +1300"
     },
     "done": true
   },
@@ -10473,99 +10209,9 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/crimson_pillar_trim": {
-    "criteria": {
-      "has_crimson_pillar_trim": "2024-11-14 15:29:50 +1300"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/hc/biomesoplenty/umbran_dining_bench": {
     "criteria": {
       "has_planks": "2024-11-14 15:29:49 +1300"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/granite_brick_slab_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-11-14 17:04:17 +1300"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_cobbled_granite_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-11-14 17:04:17 +1300"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_granite_brick_slab_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-11-14 17:04:17 +1300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-11-14 17:04:17 +1300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/jungle_nightstand": {
-    "criteria": {
-      "has_jungle_nightstand": "2024-11-14 17:19:43 +1300"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/sign_post_crimson": {
-    "criteria": {
-      "has_the_recipe": "2024-11-14 15:29:50 +1300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_door": {
-    "criteria": {
-      "has_planks": "2024-11-14 17:19:43 +1300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/crimson_fancy_bed": {
-    "criteria": {
-      "has_crimson_fancy_bed": "2024-11-14 15:29:50 +1300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/crimson_counter": {
-    "criteria": {
-      "has_crimson_counter": "2024-11-14 15:29:50 +1300"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/granite_shingle_slab_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-11-14 17:04:17 +1300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/crimson_drawer": {
-    "criteria": {
-      "has_crimson_drawer": "2024-11-14 15:29:50 +1300"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/jungle_table": {
-    "criteria": {
-      "has_planks": "2024-11-14 17:19:43 +1300"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/granite_tile_wall_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-11-14 17:04:17 +1300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/jungle_cupboard": {
-    "criteria": {
-      "has_jungle_cupboard": "2024-11-14 17:19:43 +1300"
     },
     "done": true
   },
@@ -10578,12 +10224,6 @@
   "everycomp:recipes/decorations/q/biomesoplenty/vertical_umbran_planks": {
     "criteria": {
       "has_planks": "2024-11-14 15:29:49 +1300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_slab": {
-    "criteria": {
-      "has_planks": "2024-11-14 17:19:43 +1300"
     },
     "done": true
   },
@@ -10605,87 +10245,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_chicken": {
-    "criteria": {
-      "has_chicken": "2024-11-14 17:10:23 +1300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/crimson_shelf": {
-    "criteria": {
-      "has_crimson_shelf": "2024-11-14 15:29:50 +1300"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/granite_paver_wall_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-11-14 17:04:17 +1300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/crimson_trapdoor": {
-    "criteria": {
-      "has_planks": "2024-11-14 15:29:50 +1300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
-    "criteria": {
-      "has_vex_armor_trim_smithing_template": "2024-11-14 15:53:16 +1300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_fence_gate": {
-    "criteria": {
-      "has_planks": "2024-11-14 17:19:43 +1300"
-    },
-    "done": true
-  },
-  "twigs:recipes/tables/crimson_table": {
-    "criteria": {
-      "has_bamboo": "2024-11-14 15:29:50 +1300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/crimson_chair": {
-    "criteria": {
-      "has_crimson_chair": "2024-11-14 15:29:50 +1300"
-    },
-    "done": true
-  },
-  "suppsquared:recipes/decorations/item_shelf_jungle": {
-    "criteria": {
-      "has_planks": "2024-11-14 17:19:43 +1300"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/granite_plate_stairs_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-11-14 17:04:17 +1300"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/hnhome/biomesoplenty/umbran_trim": {
     "criteria": {
       "has_planks": "2024-11-14 15:29:49 +1300"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/banana": {
-    "criteria": {
-      "banana": "2024-11-14 16:59:51 +1300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/jungle_bench": {
-    "criteria": {
-      "has_jungle_bench": "2024-11-14 17:19:43 +1300"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/granite_paver_stairs_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-11-14 17:04:17 +1300"
     },
     "done": true
   },
@@ -10695,57 +10257,9 @@
     },
     "done": true
   },
-  "another_furniture:recipes/black_lamp": {
-    "criteria": {
-      "has_wool": "2024-11-14 16:06:05 +1300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2024-11-14 16:25:50 +1300"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/granite_pillar_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-11-14 17:04:17 +1300"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/black_curtain": {
-    "criteria": {
-      "has_wool": "2024-11-14 16:06:05 +1300"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/vp/biomesoplenty/umbran_horticulturist_table": {
     "criteria": {
       "has_planks": "2024-11-14 15:29:49 +1300"
-    },
-    "done": true
-  },
-  "aether:recipes/decorations/skyroot_grindstone": {
-    "criteria": {
-      "has_stone_slab": "2024-11-14 16:47:28 +1300"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/granite_plates_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-11-14 17:04:17 +1300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
-    "criteria": {
-      "has_chicken": "2024-11-14 17:10:23 +1300"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/building_blocks/crimson_support": {
-    "criteria": {
-      "has_plank": "2024-11-14 15:29:50 +1300"
     },
     "done": true
   },
@@ -10755,63 +10269,9 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/black_sheet": {
-    "criteria": {
-      "has_black_sheet": "2024-11-14 16:06:05 +1300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-11-14 17:04:17 +1300"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/chicken_soup": {
-    "criteria": {
-      "has_any_ingredient": "2024-11-14 16:25:50 +1300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/crimson_pressure_plate": {
-    "criteria": {
-      "has_planks": "2024-11-14 15:29:50 +1300"
-    },
-    "done": true
-  },
   "suppsquared:recipes/decorations/biomesoplenty/item_shelf_umbran": {
     "criteria": {
       "has_planks": "2024-11-14 15:29:49 +1300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/jungle_side_table": {
-    "criteria": {
-      "has_jungle_side_table": "2024-11-14 17:19:43 +1300"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/jungle_chair": {
-    "criteria": {
-      "has_planks": "2024-11-14 17:19:43 +1300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite_slab": {
-    "criteria": {
-      "has_granite": "2024-11-14 17:04:17 +1300"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/granite_pavers_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-11-14 17:04:17 +1300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/granite_pillar_trim": {
-    "criteria": {
-      "has_granite_pillar_trim": "2024-11-14 17:04:17 +1300"
     },
     "done": true
   },
@@ -10827,18 +10287,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_chicken_from_smoking": {
-    "criteria": {
-      "has_chicken": "2024-11-14 17:10:23 +1300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/jungle_drawer": {
-    "criteria": {
-      "has_jungle_drawer": "2024-11-14 17:19:43 +1300"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/hc/biomesoplenty/umbran_chair": {
     "criteria": {
       "has_planks": "2024-11-14 15:29:49 +1300"
@@ -10848,42 +10296,6 @@
   "everycomp:recipes/decorations/hc/biomesoplenty/umbran_couch": {
     "criteria": {
       "has_planks": "2024-11-14 15:29:49 +1300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/jungle_fence": {
-    "criteria": {
-      "has_planks": "2024-11-14 17:19:43 +1300"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/granite_tile_stairs_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-11-14 17:04:17 +1300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/grindstone": {
-    "criteria": {
-      "has_stone_slab": "2024-11-14 16:47:28 +1300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/jungle_corner_trim": {
-    "criteria": {
-      "has_jungle_corner_trim": "2024-11-14 17:19:43 +1300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/jungle_shelf": {
-    "criteria": {
-      "has_jungle_shelf": "2024-11-14 17:19:43 +1300"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/jungle_shelf": {
-    "criteria": {
-      "has_planks": "2024-11-14 17:19:43 +1300"
     },
     "done": true
   },
@@ -10911,21 +10323,9 @@
     },
     "done": true
   },
-  "galosphere:recipes/tools/glow_flare": {
-    "criteria": {
-      "has_glow_ink_sac": "2024-11-14 16:55:44 +1300"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/hc/biomesoplenty/umbran_shelf": {
     "criteria": {
       "has_planks": "2024-11-14 15:29:49 +1300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/crimson_table": {
-    "criteria": {
-      "has_crimson_table": "2024-11-14 15:29:50 +1300"
     },
     "done": true
   },
@@ -10953,117 +10353,9 @@
     },
     "done": true
   },
-  "supplementaries:recipes/decorations/sign_post_jungle": {
-    "criteria": {
-      "has_planks": "2024-11-14 17:19:43 +1300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/crimson_desk": {
-    "criteria": {
-      "has_crimson_desk": "2024-11-14 15:29:50 +1300"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/crimson_crafting_table": {
-    "criteria": {
-      "has_crimson_planks": "2024-11-14 15:29:50 +1300"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/granite_tile_slab_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-11-14 17:04:17 +1300"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/hc/biomesoplenty/umbran_corner_trim": {
     "criteria": {
       "has_planks": "2024-11-14 15:29:49 +1300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_pressure_plate": {
-    "criteria": {
-      "has_planks": "2024-11-14 17:19:43 +1300"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/granite_brick_stairs_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-11-14 17:04:17 +1300"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/granite_shingle_stairs_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-11-14 17:04:17 +1300"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_cobbled_granite_wall_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-11-14 17:04:17 +1300"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/black_tall_stool": {
-    "criteria": {
-      "has_wool": "2024-11-14 16:06:05 +1300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/jungle_pillar_trim": {
-    "criteria": {
-      "has_jungle_pillar_trim": "2024-11-14 17:19:43 +1300"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/building_blocks/jungle_seat": {
-    "criteria": {
-      "has_plank": "2024-11-14 17:19:43 +1300"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/roast_chicken_block": {
-    "criteria": {
-      "has_cooked_chicken": "2024-11-14 17:12:10 +1300"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/cobbled_granite_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-11-14 17:04:17 +1300"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/building_blocks/jungle_support": {
-    "criteria": {
-      "has_plank": "2024-11-14 17:19:43 +1300"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/cracked_granite_bricks_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-11-14 17:04:17 +1300"
-    },
-    "done": true
-  },
-  "suppsquared:recipes/decorations/item_shelf_crimson": {
-    "criteria": {
-      "has_planks": "2024-11-14 15:29:50 +1300"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/granite_plate_wall_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-11-14 17:04:17 +1300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/crimson_sign": {
-    "criteria": {
-      "has_planks": "2024-11-14 15:29:50 +1300"
     },
     "done": true
   },
@@ -11079,18 +10371,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-11-14 17:04:17 +1300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/crimson_door": {
-    "criteria": {
-      "has_planks": "2024-11-14 15:29:50 +1300"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/redstone/umbran_pressure_plate": {
     "criteria": {
       "has_planks": "2024-11-14 15:29:49 +1300"
@@ -11100,12 +10380,6 @@
   "biomesoplenty:recipes/decorations/umbran_fence": {
     "criteria": {
       "has_planks": "2024-11-14 15:29:49 +1300"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/crimson_barrel": {
-    "criteria": {
-      "has_crimson_planks": "2024-11-14 15:29:50 +1300"
     },
     "done": true
   },
@@ -11127,9 +10401,687 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/hc/biomesoplenty/umbran_table": {
+    "criteria": {
+      "has_planks": "2024-11-14 15:29:49 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/umbran_drawer": {
+    "criteria": {
+      "has_planks": "2024-11-14 15:29:49 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/umbran_drawer": {
+    "criteria": {
+      "has_planks": "2024-11-14 15:29:49 +1300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/umbran_sign": {
+    "criteria": {
+      "has_planks": "2024-11-14 15:29:49 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/bp/biomesoplenty/umbran_backpack_shelf": {
+    "criteria": {
+      "has_planks": "2024-11-14 15:29:49 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tw/biomesoplenty/umbran_table": {
+    "criteria": {
+      "has_planks": "2024-11-14 15:29:49 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/abnbl/biomesoplenty/large_umbran_boat": {
+    "criteria": {
+      "has_planks": "2024-11-14 15:29:49 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/umbran_table": {
+    "criteria": {
+      "has_planks": "2024-11-14 15:29:49 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/biomesoplenty/hollow_umbran_log": {
+    "criteria": {
+      "has_planks": "2024-11-14 15:29:49 +1300"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/crimson_boat": {
+    "criteria": {
+      "has_crimson_planks": "2024-11-14 15:29:50 +1300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_side_table": {
+    "criteria": {
+      "has_crimson_side_table": "2024-11-14 15:29:50 +1300"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_crimson": {
+    "criteria": {
+      "has_planks": "2024-11-14 15:29:50 +1300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_corner_trim": {
+    "criteria": {
+      "has_crimson_corner_trim": "2024-11-14 15:29:50 +1300"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/crimson_chair": {
+    "criteria": {
+      "has_planks": "2024-11-14 15:29:50 +1300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_cupboard": {
+    "criteria": {
+      "has_crimson_cupboard": "2024-11-14 15:29:50 +1300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_dining_bench": {
+    "criteria": {
+      "has_crimson_dining_bench": "2024-11-14 15:29:50 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2024-11-14 15:29:50 +1300"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/crimson_shelf": {
+    "criteria": {
+      "has_planks": "2024-11-14 15:29:50 +1300"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/crimson_chest": {
+    "criteria": {
+      "has_crimson_planks": "2024-11-14 15:29:50 +1300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_nightstand": {
+    "criteria": {
+      "has_crimson_nightstand": "2024-11-14 15:29:50 +1300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_couch": {
+    "criteria": {
+      "has_crimson_couch": "2024-11-14 15:29:50 +1300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_pillar_trim": {
+    "criteria": {
+      "has_crimson_pillar_trim": "2024-11-14 15:29:50 +1300"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_crimson": {
+    "criteria": {
+      "has_the_recipe": "2024-11-14 15:29:50 +1300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_fancy_bed": {
+    "criteria": {
+      "has_crimson_fancy_bed": "2024-11-14 15:29:50 +1300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_counter": {
+    "criteria": {
+      "has_crimson_counter": "2024-11-14 15:29:50 +1300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_drawer": {
+    "criteria": {
+      "has_crimson_drawer": "2024-11-14 15:29:50 +1300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_shelf": {
+    "criteria": {
+      "has_crimson_shelf": "2024-11-14 15:29:50 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-11-14 15:29:50 +1300"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/crimson_table": {
+    "criteria": {
+      "has_bamboo": "2024-11-14 15:29:50 +1300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_chair": {
+    "criteria": {
+      "has_crimson_chair": "2024-11-14 15:29:50 +1300"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/crimson_support": {
+    "criteria": {
+      "has_plank": "2024-11-14 15:29:50 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-11-14 15:29:50 +1300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_table": {
+    "criteria": {
+      "has_crimson_table": "2024-11-14 15:29:50 +1300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_desk": {
+    "criteria": {
+      "has_crimson_desk": "2024-11-14 15:29:50 +1300"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/crimson_crafting_table": {
+    "criteria": {
+      "has_crimson_planks": "2024-11-14 15:29:50 +1300"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/item_shelf_crimson": {
+    "criteria": {
+      "has_planks": "2024-11-14 15:29:50 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2024-11-14 15:29:50 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2024-11-14 15:29:50 +1300"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/crimson_barrel": {
+    "criteria": {
+      "has_crimson_planks": "2024-11-14 15:29:50 +1300"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/crimson_seat": {
+    "criteria": {
+      "has_plank": "2024-11-14 15:29:50 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2024-11-14 15:29:50 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2024-11-14 15:29:50 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2024-11-14 15:29:50 +1300"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/crimson_table": {
+    "criteria": {
+      "has_planks": "2024-11-14 15:29:50 +1300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_bench": {
+    "criteria": {
+      "has_crimson_bench": "2024-11-14 15:29:50 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-11-14 15:29:50 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
+    "criteria": {
+      "has_vex_armor_trim_smithing_template": "2024-11-14 15:53:16 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-11-14 15:53:16 +1300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/black_cushion": {
+    "criteria": {
+      "has_black_cushion": "2024-11-14 16:06:05 +1300"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/black_stool": {
+    "criteria": {
+      "has_wool": "2024-11-14 16:06:05 +1300"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/black_sofa": {
+    "criteria": {
+      "has_wool": "2024-11-14 16:06:05 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2024-11-14 16:06:05 +1300"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/black_lamp": {
+    "criteria": {
+      "has_wool": "2024-11-14 16:06:05 +1300"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/black_curtain": {
+    "criteria": {
+      "has_wool": "2024-11-14 16:06:05 +1300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/black_sheet": {
+    "criteria": {
+      "has_black_sheet": "2024-11-14 16:06:05 +1300"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/black_tall_stool": {
+    "criteria": {
+      "has_wool": "2024-11-14 16:06:05 +1300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2024-11-14 16:06:05 +1300"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_black": {
+    "criteria": {
+      "has_black_wool": "2024-11-14 16:06:05 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2024-11-14 16:06:05 +1300"
+    },
+    "done": true
+  },
+  "comforts:hammock_black": {
+    "criteria": {
+      "has_black_wool": "2024-11-14 16:06:05 +1300"
+    },
+    "done": true
+  },
+  "mowziesmobs:sneak_grove": {
+    "criteria": {
+      "steal_crystal": "2024-11-14 16:19:32 +1300"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthi": {
+    "criteria": {
+      "barako": "2024-11-14 16:21:28 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2024-11-14 16:25:41 +1300"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cabbage_rolls": {
+    "criteria": {
+      "has_any_ingredient": "2024-11-14 16:25:47 +1300"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/cabbage_crate": {
+    "criteria": {
+      "has_cabbage": "2024-11-14 16:25:47 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-11-14 16:25:50 +1300"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-11-14 16:25:50 +1300"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/pumpkin_seeds_from_slice": {
+    "criteria": {
+      "has_pumpkin_slice": "2024-11-14 16:26:13 +1300"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/pumpkin_from_slices": {
+    "criteria": {
+      "has_pumpkin_slice": "2024-11-14 16:26:13 +1300"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2024-11-14 16:41:18 +1300"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2024-11-14 16:41:18 +1300"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/netherite_door": {
+    "criteria": {
+      "has_gold_door": "2024-11-14 16:45:43 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_grindstone": {
+    "criteria": {
+      "has_stone_slab": "2024-11-14 16:47:28 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2024-11-14 16:47:28 +1300"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/acacia_cabinet": {
+    "criteria": {
+      "has_acacia_trapdoor": "2024-11-14 16:51:57 +1300"
+    },
+    "done": true
+  },
+  "galosphere:recipes/tools/glow_flare": {
+    "criteria": {
+      "has_glow_ink_sac": "2024-11-14 16:55:44 +1300"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana": {
+    "criteria": {
+      "banana": "2024-11-14 16:59:51 +1300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-11-14 17:04:17 +1300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-11-14 17:04:17 +1300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_granite_brick_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-11-14 17:04:17 +1300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-11-14 17:04:17 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-11-14 17:04:17 +1300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/granite_corner_trim": {
+    "criteria": {
+      "has_granite_corner_trim": "2024-11-14 17:04:17 +1300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_tiles_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-11-14 17:04:17 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-11-14 17:04:17 +1300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_granite_bricks_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-11-14 17:04:17 +1300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_paver_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-11-14 17:04:17 +1300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-11-14 17:04:17 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2024-11-14 17:04:17 +1300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_granite_tiles_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-11-14 17:04:17 +1300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_brick_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-11-14 17:04:17 +1300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-11-14 17:04:17 +1300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_granite_brick_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-11-14 17:04:17 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-11-14 17:04:17 +1300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_shingle_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-11-14 17:04:17 +1300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_tile_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-11-14 17:04:17 +1300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_paver_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-11-14 17:04:17 +1300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_plate_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-11-14 17:04:17 +1300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_paver_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-11-14 17:04:17 +1300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_pillar_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-11-14 17:04:17 +1300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_plates_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-11-14 17:04:17 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-11-14 17:04:17 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2024-11-14 17:04:17 +1300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_pavers_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-11-14 17:04:17 +1300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/granite_pillar_trim": {
+    "criteria": {
+      "has_granite_pillar_trim": "2024-11-14 17:04:17 +1300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_tile_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-11-14 17:04:17 +1300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_tile_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-11-14 17:04:17 +1300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_brick_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-11-14 17:04:17 +1300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_shingle_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-11-14 17:04:17 +1300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-11-14 17:04:17 +1300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-11-14 17:04:17 +1300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_granite_bricks_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-11-14 17:04:17 +1300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_plate_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-11-14 17:04:17 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-11-14 17:04:17 +1300"
     },
     "done": true
   },
@@ -11163,18 +11115,6 @@
     },
     "done": true
   },
-  "decorative_blocks:recipes/building_blocks/crimson_seat": {
-    "criteria": {
-      "has_plank": "2024-11-14 15:29:50 +1300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/crimson_fence": {
-    "criteria": {
-      "has_planks": "2024-11-14 15:29:50 +1300"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/mossy_granite_brick_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-11-14 17:04:17 +1300"
@@ -11193,93 +11133,9 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/hc/biomesoplenty/umbran_table": {
-    "criteria": {
-      "has_planks": "2024-11-14 15:29:49 +1300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/crimson_button": {
-    "criteria": {
-      "has_planks": "2024-11-14 15:29:50 +1300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/crimson_stairs": {
-    "criteria": {
-      "has_planks": "2024-11-14 15:29:50 +1300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2024-11-14 15:53:16 +1300"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hc/biomesoplenty/umbran_drawer": {
-    "criteria": {
-      "has_planks": "2024-11-14 15:29:49 +1300"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_black": {
-    "criteria": {
-      "has_black_wool": "2024-11-14 16:06:05 +1300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/jungle_chair": {
-    "criteria": {
-      "has_jungle_chair": "2024-11-14 17:19:43 +1300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_banner": {
-    "criteria": {
-      "has_black_wool": "2024-11-14 16:06:05 +1300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/jungle_desk": {
-    "criteria": {
-      "has_jungle_desk": "2024-11-14 17:19:43 +1300"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/granite_shingles_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-11-14 17:04:17 +1300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_button": {
-    "criteria": {
-      "has_planks": "2024-11-14 17:19:43 +1300"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/cooked_rice": {
-    "criteria": {
-      "has_rice": "2024-11-14 16:41:18 +1300"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/af/biomesoplenty/umbran_drawer": {
-    "criteria": {
-      "has_planks": "2024-11-14 15:29:49 +1300"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/decorations/umbran_sign": {
-    "criteria": {
-      "has_planks": "2024-11-14 15:29:49 +1300"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/bp/biomesoplenty/umbran_backpack_shelf": {
-    "criteria": {
-      "has_planks": "2024-11-14 15:29:49 +1300"
     },
     "done": true
   },
@@ -11289,69 +11145,33 @@
     },
     "done": true
   },
-  "comforts:hammock_black": {
+  "stoneworks:recipes/building_blocks/chiseled_granite_from_granite_stonecutting": {
     "criteria": {
-      "has_black_wool": "2024-11-14 16:06:05 +1300"
+      "has_granite": "2024-11-14 17:04:17 +1300"
     },
     "done": true
   },
-  "everycomp:recipes/decorations/tw/biomesoplenty/umbran_table": {
+  "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
-      "has_planks": "2024-11-14 15:29:49 +1300"
+      "has_chicken": "2024-11-14 17:10:23 +1300"
     },
     "done": true
   },
-  "everycomp:recipes/decorations/abnbl/biomesoplenty/large_umbran_boat": {
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
-      "has_planks": "2024-11-14 15:29:49 +1300"
+      "has_chicken": "2024-11-14 17:10:23 +1300"
     },
     "done": true
   },
-  "another_furniture:recipes/crimson_table": {
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
-      "has_planks": "2024-11-14 15:29:50 +1300"
+      "has_chicken": "2024-11-14 17:10:23 +1300"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/jungle_couch": {
+  "farmersdelight:recipes/food/roast_chicken_block": {
     "criteria": {
-      "has_jungle_couch": "2024-11-14 17:19:43 +1300"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/acacia_cabinet": {
-    "criteria": {
-      "has_acacia_trapdoor": "2024-11-14 16:51:57 +1300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/jungle_fancy_bed": {
-    "criteria": {
-      "has_jungle_fancy_bed": "2024-11-14 17:19:43 +1300"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/crimson_bench": {
-    "criteria": {
-      "has_crimson_bench": "2024-11-14 15:29:50 +1300"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/building_blocks/rice_bag": {
-    "criteria": {
-      "has_rice": "2024-11-14 16:41:18 +1300"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/af/biomesoplenty/umbran_table": {
-    "criteria": {
-      "has_planks": "2024-11-14 15:29:49 +1300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/crimson_fence_gate": {
-    "criteria": {
-      "has_planks": "2024-11-14 15:29:50 +1300"
+      "has_cooked_chicken": "2024-11-14 17:12:10 +1300"
     },
     "done": true
   },
@@ -11361,21 +11181,1300 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/building_blocks/pumpkin_from_slices": {
+  "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
-      "has_pumpkin_slice": "2024-11-14 16:26:13 +1300"
+      "has_planks": "2024-11-14 17:19:43 +1300"
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/chiseled_granite_from_granite_stonecutting": {
+  "handcrafted:recipes/misc/jungle_dining_bench": {
     "criteria": {
-      "has_granite": "2024-11-14 17:04:17 +1300"
+      "has_jungle_dining_bench": "2024-11-14 17:19:43 +1300"
     },
     "done": true
   },
-  "everycomp:recipes/decorations/q/biomesoplenty/hollow_umbran_log": {
+  "supplementaries:recipes/sign_post_jungle": {
     "criteria": {
-      "has_planks": "2024-11-14 15:29:49 +1300"
+      "has_the_recipe": "2024-11-14 17:19:43 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-11-14 17:19:43 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2024-11-14 17:19:43 +1300"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/jungle_table": {
+    "criteria": {
+      "has_jungle": "2024-11-14 17:19:43 +1300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_table": {
+    "criteria": {
+      "has_jungle_table": "2024-11-14 17:19:43 +1300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_counter": {
+    "criteria": {
+      "has_jungle_counter": "2024-11-14 17:19:43 +1300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_nightstand": {
+    "criteria": {
+      "has_jungle_nightstand": "2024-11-14 17:19:43 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2024-11-14 17:19:43 +1300"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/jungle_table": {
+    "criteria": {
+      "has_planks": "2024-11-14 17:19:43 +1300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_cupboard": {
+    "criteria": {
+      "has_jungle_cupboard": "2024-11-14 17:19:43 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2024-11-14 17:19:43 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-11-14 17:19:43 +1300"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/item_shelf_jungle": {
+    "criteria": {
+      "has_planks": "2024-11-14 17:19:43 +1300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_bench": {
+    "criteria": {
+      "has_jungle_bench": "2024-11-14 17:19:43 +1300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_side_table": {
+    "criteria": {
+      "has_jungle_side_table": "2024-11-14 17:19:43 +1300"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/jungle_chair": {
+    "criteria": {
+      "has_planks": "2024-11-14 17:19:43 +1300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_drawer": {
+    "criteria": {
+      "has_jungle_drawer": "2024-11-14 17:19:43 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2024-11-14 17:19:43 +1300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_corner_trim": {
+    "criteria": {
+      "has_jungle_corner_trim": "2024-11-14 17:19:43 +1300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_shelf": {
+    "criteria": {
+      "has_jungle_shelf": "2024-11-14 17:19:43 +1300"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/jungle_shelf": {
+    "criteria": {
+      "has_planks": "2024-11-14 17:19:43 +1300"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_jungle": {
+    "criteria": {
+      "has_planks": "2024-11-14 17:19:43 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-11-14 17:19:43 +1300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_pillar_trim": {
+    "criteria": {
+      "has_jungle_pillar_trim": "2024-11-14 17:19:43 +1300"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/jungle_seat": {
+    "criteria": {
+      "has_plank": "2024-11-14 17:19:43 +1300"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/jungle_support": {
+    "criteria": {
+      "has_plank": "2024-11-14 17:19:43 +1300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_chair": {
+    "criteria": {
+      "has_jungle_chair": "2024-11-14 17:19:43 +1300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_desk": {
+    "criteria": {
+      "has_jungle_desk": "2024-11-14 17:19:43 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2024-11-14 17:19:43 +1300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_couch": {
+    "criteria": {
+      "has_jungle_couch": "2024-11-14 17:19:43 +1300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_fancy_bed": {
+    "criteria": {
+      "has_jungle_fancy_bed": "2024-11-14 17:19:43 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tf/aether/skyroot_banister": {
+    "criteria": {
+      "has_planks": "2024-11-15 01:00:07 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_fence": {
+    "criteria": {
+      "has_skyroot_planks": "2024-11-15 01:00:07 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/holystone_wall_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2024-11-15 01:04:40 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/aether/skyroot_nightstand": {
+    "criteria": {
+      "has_planks": "2024-11-15 01:00:07 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/aether/vertical_skyroot_planks": {
+    "criteria": {
+      "has_planks": "2024-11-15 01:00:07 +1300"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/building_blocks/holystone_pillar_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2024-11-15 01:04:40 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_leggings": {
+    "criteria": {
+      "has_zanite": "2024-11-15 01:05:19 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/icestone_slab": {
+    "criteria": {
+      "has_icestone": "2024-11-15 01:06:06 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/ambrosium_torch": {
+    "criteria": {
+      "has_holystone_pickaxe": "2024-11-15 01:05:05 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/cold_parachute": {
+    "criteria": {
+      "has_cold_aercloud": "2024-11-15 00:56:53 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/aether/stripped_skyroot_post": {
+    "criteria": {
+      "has_planks": "2024-11-15 01:00:07 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/holystone_stairs": {
+    "criteria": {
+      "has_holystone": "2024-11-15 01:04:40 +1300"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/decorations/mossy_holystone_from_aether_moss": {
+    "criteria": {
+      "has_holystone": "2024-11-15 01:04:40 +1300"
+    },
+    "done": true
+  },
+  "lost_aether_content:recipes/combat/zanite_shield": {
+    "criteria": {
+      "has_zanite_gemstone": "2024-11-15 01:05:19 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/aether/skyroot_corner_trim": {
+    "criteria": {
+      "has_planks": "2024-11-15 01:00:07 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/aether/skyroot_sanded_wood": {
+    "criteria": {
+      "has_planks": "2024-11-15 01:00:07 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2024-11-15 00:53:28 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/aether/skyroot_parquet": {
+    "criteria": {
+      "has_planks": "2024-11-15 01:00:07 +1300"
+    },
+    "done": true
+  },
+  "aether:zanite": {
+    "criteria": {
+      "zanite": "2024-11-15 01:05:19 +1300"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/building_blocks/driftshale": {
+    "criteria": {
+      "has_quicksoil": "2024-11-15 01:03:48 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_fence_gate": {
+    "criteria": {
+      "has_skyroot_planks": "2024-11-15 01:00:07 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/aether/skyroot_drawer": {
+    "criteria": {
+      "has_planks": "2024-11-15 01:00:07 +1300"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/building_blocks/sentrite_brick_wall": {
+    "criteria": {
+      "has_sentrite_bricks": "2024-11-15 01:26:50 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_boots": {
+    "criteria": {
+      "has_zanite": "2024-11-15 01:05:19 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/flower_to_white_dye": {
+    "criteria": {
+      "has_white_flower": "2024-11-15 01:23:58 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/aether/skyroot_seat": {
+    "criteria": {
+      "has_planks": "2024-11-15 01:00:07 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/aether/skyroot_support": {
+    "criteria": {
+      "has_planks": "2024-11-15 01:00:07 +1300"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/building_blocks/holystone_pillar_down_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2024-11-15 01:04:40 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/abnbl/aether/skyroot_furnace_boat": {
+    "criteria": {
+      "has_planks": "2024-11-15 01:00:07 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/swet_sticky_piston": {
+    "criteria": {
+      "has_swet_balls": "2024-11-15 01:04:46 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/aether/skyroot_chest": {
+    "criteria": {
+      "has_planks": "2024-11-15 01:00:07 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/aether/skyroot_vertical_trim": {
+    "criteria": {
+      "has_planks": "2024-11-15 01:00:07 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fd/aether/skyroot_cabinet": {
+    "criteria": {
+      "has_planks": "2024-11-15 01:00:07 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/aether/skyroot_cupboard": {
+    "criteria": {
+      "has_planks": "2024-11-15 01:00:07 +1300"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/decorations/skyroot_crafting_table": {
+    "criteria": {
+      "has_skyroot_planks": "2024-11-15 01:00:07 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/aether/skyroot_bench": {
+    "criteria": {
+      "has_planks": "2024-11-15 01:00:07 +1300"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/golden_gummy_swet": {
+    "criteria": {
+      "has_golden_swet_ball": "2024-11-15 01:04:46 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/holystone_pickaxe_repairing": {
+    "criteria": {
+      "has_holystone_pickaxe": "2024-11-15 01:05:05 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/skyroot_axe": {
+    "criteria": {
+      "has_planks": "2024-11-15 01:00:07 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/skyroot_bucket": {
+    "criteria": {
+      "has_planks": "2024-11-15 01:00:07 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_trapdoor": {
+    "criteria": {
+      "has_skyroot_planks": "2024-11-15 01:00:07 +1300"
+    },
+    "done": true
+  },
+  "aether:enter_aether": {
+    "criteria": {
+      "enter_aether": "2024-11-15 00:56:00 +1300"
+    },
+    "done": true
+  },
+  "deep_aether:explore_aether": {
+    "criteria": {
+      "aether:skyroot_meadow": "2024-11-15 00:56:00 +1300",
+      "deep_aether:aerlavender_fields": "2024-11-15 01:25:56 +1300"
+    },
+    "done": false
+  },
+  "deep_aether:recipes/building_blocks/big_holystone_bricks_slab_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2024-11-15 01:04:40 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/aether/skyroot_bench": {
+    "criteria": {
+      "has_planks": "2024-11-15 01:00:07 +1300"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_blinding_stone": {
+    "criteria": {
+      "has_item": "2024-11-15 00:53:03 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/holystone_axe": {
+    "criteria": {
+      "has_holystone": "2024-11-15 01:04:40 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/holystone_button": {
+    "criteria": {
+      "has_holystone": "2024-11-15 01:04:40 +1300"
+    },
+    "done": true
+  },
+  "aether:icestone": {
+    "criteria": {
+      "icestone": "2024-11-15 01:06:06 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/aether/skyroot_flower_box": {
+    "criteria": {
+      "has_planks": "2024-11-15 01:00:07 +1300"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/allurite_lamp": {
+    "criteria": {
+      "has_glowstone": "2024-11-15 00:53:28 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_crafting_table": {
+    "criteria": {
+      "has_planks": "2024-11-15 01:00:07 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/skyroot_shovel": {
+    "criteria": {
+      "has_planks": "2024-11-15 01:00:07 +1300"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/building_blocks/sentrite_brick_slab_stonecutting": {
+    "criteria": {
+      "has_sentrite_bricks": "2024-11-15 01:26:50 +1300"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/building_blocks/big_holystone_bricks_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2024-11-15 01:04:40 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_chestplate": {
+    "criteria": {
+      "has_zanite": "2024-11-15 01:05:19 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/zanite_block": {
+    "criteria": {
+      "has_zanite_gemstone": "2024-11-15 01:05:19 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/skyroot_pickaxe": {
+    "criteria": {
+      "has_planks": "2024-11-15 01:00:07 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/holystone_wall": {
+    "criteria": {
+      "has_holystone": "2024-11-15 01:04:40 +1300"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/building_blocks/big_holystone_bricks_wall_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2024-11-15 01:04:40 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/swet_slime_block": {
+    "criteria": {
+      "has_swet_balls": "2024-11-15 01:04:46 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_helmet": {
+    "criteria": {
+      "has_zanite": "2024-11-15 01:05:19 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_dart_shooter": {
+    "criteria": {
+      "has_skyroot_planks": "2024-11-15 01:00:07 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-11-15 00:53:03 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/skyroot_axe_repairing": {
+    "criteria": {
+      "has_skyroot_axe": "2024-11-15 01:21:14 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/abnbl/aether/large_skyroot_boat": {
+    "criteria": {
+      "has_planks": "2024-11-15 01:00:07 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tf/aether/hollow_skyroot_log": {
+    "criteria": {
+      "has_planks": "2024-11-15 01:00:07 +1300"
+    },
+    "done": true
+  },
+  "delightful:recipes/knives/zanite_knife": {
+    "criteria": {
+      "has_gems/zanite": "2024-11-15 01:05:19 +1300"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/lumiere_lamp": {
+    "criteria": {
+      "has_glowstone": "2024-11-15 00:53:28 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/skyroot_pickaxe_repairing": {
+    "criteria": {
+      "has_skyroot_pickaxe": "2024-11-15 01:04:31 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/incubator": {
+    "criteria": {
+      "has_holystone": "2024-11-15 01:04:40 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/skyroot_zanite_vanilla_shield": {
+    "criteria": {
+      "has_zanite_gemstone": "2024-11-15 01:05:19 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/holystone_slab": {
+    "criteria": {
+      "has_holystone": "2024-11-15 01:04:40 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/icestone_wall": {
+    "criteria": {
+      "has_icestone": "2024-11-15 01:06:06 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/holystone_slab_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2024-11-15 01:04:40 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_pendant": {
+    "criteria": {
+      "has_zanite": "2024-11-15 01:05:19 +1300"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/combat/enchanted_ring": {
+    "criteria": {
+      "has_ambrosium_shard": "2024-11-15 00:59:47 +1300"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/misc/sentrite_lantern": {
+    "criteria": {
+      "has_ambrosium_shard": "2024-11-15 00:59:47 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/skyroot_planks": {
+    "criteria": {
+      "has_logs": "2024-11-15 00:58:56 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/zanite_shovel": {
+    "criteria": {
+      "has_zanite": "2024-11-15 01:05:19 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/aether/skyroot_desk": {
+    "criteria": {
+      "has_planks": "2024-11-15 01:00:07 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/aether/hollow_skyroot_log": {
+    "criteria": {
+      "has_planks": "2024-11-15 01:00:07 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/mossy_holystone_with_vine": {
+    "criteria": {
+      "has_holystone": "2024-11-15 01:04:40 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-11-15 00:53:03 +1300"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_nature_stone": {
+    "criteria": {
+      "has_item": "2024-11-15 00:53:03 +1300"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/building_blocks/aether_coarse_dirt": {
+    "criteria": {
+      "has_aether_dirt": "2024-11-15 01:25:49 +1300"
+    },
+    "done": true
+  },
+  "aether:ice_accessory": {
+    "criteria": {
+      "ice_pendant": "2024-11-15 01:28:43 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/mossy_holystone_with_moss": {
+    "criteria": {
+      "has_holystone": "2024-11-15 01:04:40 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/aether/skyroot_shutter": {
+    "criteria": {
+      "has_planks": "2024-11-15 01:00:07 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/holystone_pickaxe": {
+    "criteria": {
+      "has_holystone": "2024-11-15 01:04:40 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/holystone_pressure_plate": {
+    "criteria": {
+      "has_holystone": "2024-11-15 01:04:40 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_barrel": {
+    "criteria": {
+      "has_planks": "2024-11-15 01:00:07 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/aether/skyroot_post": {
+    "criteria": {
+      "has_planks": "2024-11-15 01:00:07 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/holystone_stonecutter": {
+    "criteria": {
+      "has_holystone": "2024-11-15 01:04:40 +1300"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/building_blocks/big_holystone_bricks_stairs_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2024-11-15 01:04:40 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_sword": {
+    "criteria": {
+      "has_zanite": "2024-11-15 01:05:19 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/altar": {
+    "criteria": {
+      "has_holystone": "2024-11-15 01:04:40 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/aether/skyroot_table": {
+    "criteria": {
+      "has_planks": "2024-11-15 01:00:07 +1300"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/building_blocks/sentrite_brick_wall_stonecutting": {
+    "criteria": {
+      "has_sentrite_bricks": "2024-11-15 01:26:50 +1300"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/aether/sign_post_skyroot": {
+    "criteria": {
+      "has_planks": "2024-11-15 01:00:07 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/holystone_brick_slab_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2024-11-15 01:04:40 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/holystone_brick_wall_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2024-11-15 01:04:40 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_sword_repairing": {
+    "criteria": {
+      "has_zanite_sword": "2024-11-15 01:28:34 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/icestone_slab_from_icestone_stonecutting": {
+    "criteria": {
+      "has_icestone": "2024-11-15 01:06:06 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/ambrosium_block": {
+    "criteria": {
+      "has_ambrosium_shard": "2024-11-15 00:59:47 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/zanite_axe": {
+    "criteria": {
+      "has_zanite": "2024-11-15 01:05:19 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/aether/skyroot_lattice": {
+    "criteria": {
+      "has_planks": "2024-11-15 01:00:07 +1300"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/building_blocks/chiseled_holystone_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2024-11-15 01:04:40 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hollow_skyroot_log_from_skyroot_log_stonecutting": {
+    "criteria": {
+      "has_skyroot_log": "2024-11-15 00:58:56 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/aether/skyroot_table": {
+    "criteria": {
+      "has_planks": "2024-11-15 01:00:07 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/holystone_brick_stairs_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2024-11-15 01:04:40 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/aether/skyroot_trapped_chest": {
+    "criteria": {
+      "has_planks": "2024-11-15 01:00:07 +1300"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/misc/veridium_lantern": {
+    "criteria": {
+      "has_ambrosium_shard": "2024-11-15 00:59:47 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/aether/skyroot_counter": {
+    "criteria": {
+      "has_planks": "2024-11-15 01:00:07 +1300"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/bn_glowstone_dust": {
+    "criteria": {
+      "has_glowstone_pile": "2024-11-15 00:55:00 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/aether/skyroot_pillar_trim": {
+    "criteria": {
+      "has_planks": "2024-11-15 01:00:07 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/aether/skyroot_fancy_bed": {
+    "criteria": {
+      "has_planks": "2024-11-15 01:00:07 +1300"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/building_blocks/sentrite_brick_slab": {
+    "criteria": {
+      "has_sentrite_bricks": "2024-11-15 01:26:50 +1300"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_poison_stone": {
+    "criteria": {
+      "has_item": "2024-11-15 00:53:03 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/skyroot_stick": {
+    "criteria": {
+      "has_planks": "2024-11-15 01:00:07 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/vp/aether/skyroot_horticulturist_table": {
+    "criteria": {
+      "has_planks": "2024-11-15 01:00:07 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/aether/skyroot_beam": {
+    "criteria": {
+      "has_planks": "2024-11-15 01:00:07 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/aether/skyroot_trim": {
+    "criteria": {
+      "has_planks": "2024-11-15 01:00:07 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/aether/skyroot_palisade": {
+    "criteria": {
+      "has_planks": "2024-11-15 01:00:07 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/nature_staff": {
+    "criteria": {
+      "has_zanite": "2024-11-15 01:05:19 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/holystone_bricks_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2024-11-15 01:04:40 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/aether/skyroot_couch": {
+    "criteria": {
+      "has_planks": "2024-11-15 01:00:07 +1300"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/golden_swet_jelly": {
+    "criteria": {
+      "has_item": "2024-11-15 01:04:46 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/skyroot_wood": {
+    "criteria": {
+      "has_log": "2024-11-15 00:58:56 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/zanite_pickaxe": {
+    "criteria": {
+      "has_zanite": "2024-11-15 01:05:19 +1300"
+    },
+    "done": true
+  },
+  "delightful:recipes/knives/holystone_knife": {
+    "criteria": {
+      "has_holystone": "2024-11-15 01:04:40 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/aether/skyroot_chair": {
+    "criteria": {
+      "has_planks": "2024-11-15 01:00:07 +1300"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/building_blocks/holystone_tile_slab_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2024-11-15 01:04:40 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/food/healing_stone_enchanting": {
+    "criteria": {
+      "has_holystone": "2024-11-15 01:04:40 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_gloves": {
+    "criteria": {
+      "has_zanite": "2024-11-15 01:05:19 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/aether/skyroot_ladder": {
+    "criteria": {
+      "has_planks": "2024-11-15 01:00:07 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/icestone_wall_from_icestone_stonecutting": {
+    "criteria": {
+      "has_icestone": "2024-11-15 01:06:06 +1300"
+    },
+    "done": true
+  },
+  "betternether:cincinnasite_tools": {
+    "criteria": {
+      "cincinnasite_EquipmentSlot[name\u003daxe, category\u003dTOOLS]": "2024-11-15 01:14:22 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/blue_aercloud_freezing": {
+    "criteria": {
+      "has_cold_aercloud": "2024-11-15 00:56:53 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/swet_lead": {
+    "criteria": {
+      "has_swet_balls": "2024-11-15 01:04:46 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/aether/skyroot_dining_bench": {
+    "criteria": {
+      "has_planks": "2024-11-15 01:00:07 +1300"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/aether/item_shelf_skyroot": {
+    "criteria": {
+      "has_planks": "2024-11-15 01:00:07 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/aether/skyroot_side_table": {
+    "criteria": {
+      "has_planks": "2024-11-15 01:00:07 +1300"
+    },
+    "done": true
+  },
+  "delightful:recipes/knives/skyroot_knife": {
+    "criteria": {
+      "has_skyroot_tool_crafting": "2024-11-15 01:00:07 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/quicksoil_glass_enchanting": {
+    "criteria": {
+      "has_quicksoil": "2024-11-15 01:03:48 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/icestone_stairs_from_icestone_stonecutting": {
+    "criteria": {
+      "has_icestone": "2024-11-15 01:06:06 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/zanite_hoe": {
+    "criteria": {
+      "has_zanite": "2024-11-15 01:05:19 +1300"
+    },
+    "done": true
+  },
+  "aether:the_aether": {
+    "criteria": {
+      "the_aether": "2024-11-15 00:56:00 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/holystone_sword": {
+    "criteria": {
+      "has_holystone": "2024-11-15 01:04:40 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/aether/skyroot_shelf": {
+    "criteria": {
+      "has_planks": "2024-11-15 01:00:07 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/holystone_stairs_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2024-11-15 01:04:40 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/aether/skyroot_shelf": {
+    "criteria": {
+      "has_planks": "2024-11-15 01:00:07 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/aether/skyroot_chair": {
+    "criteria": {
+      "has_planks": "2024-11-15 01:00:07 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/faf/aether/skyroot_beehive": {
+    "criteria": {
+      "has_planks": "2024-11-15 01:00:07 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/aether/skyroot_drawer": {
+    "criteria": {
+      "has_planks": "2024-11-15 01:00:07 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/bp/aether/skyroot_backpack_shelf": {
+    "criteria": {
+      "has_planks": "2024-11-15 01:00:07 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/freezer": {
+    "criteria": {
+      "has_holystone": "2024-11-15 01:04:40 +1300"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/building_blocks/sentrite_brick_stairs_stonecutting": {
+    "criteria": {
+      "has_sentrite_bricks": "2024-11-15 01:26:50 +1300"
+    },
+    "done": true
+  },
+  "aether:read_lore": {
+    "criteria": {
+      "lore_book_entry": "2024-11-15 01:12:07 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/holystone_bricks": {
+    "criteria": {
+      "has_holystone": "2024-11-15 01:04:40 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/wood_zanite_vanilla_shield": {
+    "criteria": {
+      "has_zanite_gemstone": "2024-11-15 01:05:19 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/skyroot_hoe": {
+    "criteria": {
+      "has_planks": "2024-11-15 01:00:07 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/zanite_pickaxe_repairing": {
+    "criteria": {
+      "has_zanite_pickaxe": "2024-11-15 01:28:06 +1300"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_nature_stonebrick_from_glowstone": {
+    "criteria": {
+      "has_item": "2024-11-15 00:53:03 +1300"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/building_blocks/holystone_tile_stairs_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2024-11-15 01:04:40 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_pressure_plate": {
+    "criteria": {
+      "has_skyroot_planks": "2024-11-15 01:00:07 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/aether/skyroot_trim_1": {
+    "criteria": {
+      "has_planks": "2024-11-15 01:00:07 +1300"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/building_blocks/holystone_pillar_up_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2024-11-15 01:04:40 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/holystone_hoe": {
+    "criteria": {
+      "has_holystone": "2024-11-15 01:04:40 +1300"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/building_blocks/sentrite_brick_stairs": {
+    "criteria": {
+      "has_sentrite_bricks": "2024-11-15 01:26:50 +1300"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/building_blocks/holystone_tile_wall_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2024-11-15 01:04:40 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tw/aether/skyroot_table": {
+    "criteria": {
+      "has_planks": "2024-11-15 01:00:07 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/skyroot_sword": {
+    "criteria": {
+      "has_planks": "2024-11-15 01:00:07 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/golden_aercloud_enchanting": {
+    "criteria": {
+      "has_cold_aercloud": "2024-11-15 00:56:53 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_ring": {
+    "criteria": {
+      "has_zanite": "2024-11-15 01:05:19 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_sign": {
+    "criteria": {
+      "has_skyroot_planks": "2024-11-15 01:00:07 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/skyroot_stairs": {
+    "criteria": {
+      "has_skyroot_planks": "2024-11-15 01:00:07 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/icestone_stairs": {
+    "criteria": {
+      "has_icestone": "2024-11-15 01:06:06 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_button": {
+    "criteria": {
+      "has_skyroot_planks": "2024-11-15 01:00:07 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/holystone_shovel": {
+    "criteria": {
+      "has_holystone": "2024-11-15 01:04:40 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_door": {
+    "criteria": {
+      "has_skyroot_planks": "2024-11-15 01:00:07 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/skyroot_slab": {
+    "criteria": {
+      "has_skyroot_planks": "2024-11-15 01:00:07 +1300"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/building_blocks/holystone_tiles_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2024-11-15 01:04:40 +1300"
     },
     "done": true
   },

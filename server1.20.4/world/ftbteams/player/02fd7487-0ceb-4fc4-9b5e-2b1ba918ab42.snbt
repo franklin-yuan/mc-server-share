@@ -2,9 +2,7 @@
 	id: "02fd7487-0ceb-4fc4-9b5e-2b1ba918ab42"
 	type: "player"
 	player_name: "Lymph"
-	ranks: {
-		02fd7487-0ceb-4fc4-9b5e-2b1ba918ab42: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "Lymph"
 		"ftbteams:description": ""

@@ -5,51 +5,9 @@
     },
     "done": true
   },
-  "betternether:root": {
-    "criteria": {
-      "welcome": "2024-11-14 15:06:43 +1300"
-    },
-    "done": true
-  },
-  "betterend:root": {
-    "criteria": {
-      "welcome": "2024-11-14 15:06:43 +1300"
-    },
-    "done": true
-  },
-  "crabbersdelight:main/root": {
-    "criteria": {
-      "seeds": "2024-11-14 15:12:06 +1300"
-    },
-    "done": true
-  },
   "betterdungeons:root": {
     "criteria": {
       "always": "2024-11-14 15:06:42 +1300"
-    },
-    "done": true
-  },
-  "hearth_and_home:recipes/thatch": {
-    "criteria": {
-      "has_item": "2024-11-14 15:12:11 +1300"
-    },
-    "done": true
-  },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_helmet": "2024-11-14 15:12:06 +1300"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/daub": {
-    "criteria": {
-      "supplementaries:straw": "2024-11-14 15:12:11 +1300"
-    },
-    "done": true
-  },
-  "incubation:recipes/decorations/hay_nest": {
-    "criteria": {
-      "has_wheat": "2024-11-14 15:12:11 +1300"
     },
     "done": true
   },
@@ -59,29 +17,11 @@
     },
     "done": true
   },
-  "biomesoplenty:biomesoplenty/all_biomes": {
-    "criteria": {
-      "crag": "2024-11-14 15:11:05 +1300"
-    },
-    "done": false
-  },
-  "farmersdelight:main/root": {
-    "criteria": {
-      "seeds": "2024-11-14 15:12:06 +1300"
-    },
-    "done": true
-  },
   "yungscavebiomes:root": {
     "criteria": {
       "always": "2024-11-14 15:06:42 +1300"
     },
     "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:windswept_hills": "2024-11-14 15:06:43 +1300"
-    },
-    "done": false
   },
   "takesapillage:root": {
     "criteria": {
@@ -101,11 +41,52 @@
     },
     "done": true
   },
-  "betternether:cincinnasite_gear": {
+  "repurposed_structures:root": {
     "criteria": {
-      "cincinnasite_EquipmentSlot[name\u003dboots, category\u003dCOMBAT]": "2024-11-14 15:12:08 +1300",
-      "cincinnasite_EquipmentSlot[name\u003dchestplate, category\u003dCOMBAT]": "2024-11-14 15:12:08 +1300",
-      "cincinnasite_EquipmentSlot[name\u003dleggings, category\u003dCOMBAT]": "2024-11-14 15:12:07 +1300"
+      "always": "2024-11-14 15:06:42 +1300"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-11-14 15:06:42 +1300"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2024-11-14 15:06:42 +1300"
+    },
+    "done": true
+  },
+  "betternether:root": {
+    "criteria": {
+      "welcome": "2024-11-14 15:06:43 +1300"
+    },
+    "done": true
+  },
+  "betterend:root": {
+    "criteria": {
+      "welcome": "2024-11-14 15:06:43 +1300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:windswept_hills": "2024-11-14 15:06:43 +1300",
+      "minecraft:river": "2024-11-15 23:53:00 +1300",
+      "minecraft:forest": "2024-11-15 23:52:57 +1300",
+      "minecraft:deep_cold_ocean": "2024-11-15 23:55:23 +1300",
+      "minecraft:plains": "2024-11-15 23:52:36 +1300"
+    },
+    "done": false
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "rocky_shrubland": "2024-11-15 23:53:45 +1300",
+      "orchard": "2024-11-15 23:53:12 +1300",
+      "visceral_heap": "2024-11-15 23:54:51 +1300",
+      "crag": "2024-11-14 15:11:05 +1300"
     },
     "done": false
   },
@@ -115,15 +96,27 @@
     },
     "done": true
   },
-  "aether:recipes/combat/iron_helmet_repairing": {
+  "crabbersdelight:main/root": {
     "criteria": {
-      "has_iron_helmet": "2024-11-14 15:12:06 +1300"
+      "seeds": "2024-11-14 15:12:06 +1300"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/pie_crust": {
+  "minecraft:story/obtain_armor": {
     "criteria": {
-      "has_wheat": "2024-11-14 15:12:11 +1300"
+      "iron_helmet": "2024-11-14 15:12:06 +1300"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-11-14 15:12:06 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_helmet_repairing": {
+    "criteria": {
+      "has_iron_helmet": "2024-11-14 15:12:06 +1300"
     },
     "done": true
   },
@@ -133,17 +126,19 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
-      "has_wheat": "2024-11-14 15:12:11 +1300"
+      "has_iron_helmet": "2024-11-14 15:12:06 +1300"
     },
     "done": true
   },
-  "minecraft:adventure/kill_a_mob": {
+  "betternether:cincinnasite_gear": {
     "criteria": {
-      "minecraft:enderman": "2024-11-14 15:18:59 +1300"
+      "cincinnasite_EquipmentSlot[name\u003dboots, category\u003dCOMBAT]": "2024-11-14 15:12:08 +1300",
+      "cincinnasite_EquipmentSlot[name\u003dchestplate, category\u003dCOMBAT]": "2024-11-14 15:12:08 +1300",
+      "cincinnasite_EquipmentSlot[name\u003dleggings, category\u003dCOMBAT]": "2024-11-14 15:12:07 +1300"
     },
-    "done": true
+    "done": false
   },
   "betternether:cincinnasite_tools": {
     "criteria": {
@@ -151,17 +146,35 @@
     },
     "done": true
   },
-  "repurposed_structures:root": {
+  "hearth_and_home:recipes/thatch": {
     "criteria": {
-      "always": "2024-11-14 15:06:42 +1300"
+      "has_item": "2024-11-14 15:12:11 +1300"
     },
     "done": true
   },
-  "minecraft:adventure/kill_all_mobs": {
+  "supplementaries:recipes/daub": {
     "criteria": {
-      "minecraft:enderman": "2024-11-14 15:18:59 +1300"
+      "supplementaries:straw": "2024-11-14 15:12:11 +1300"
     },
-    "done": false
+    "done": true
+  },
+  "incubation:recipes/decorations/hay_nest": {
+    "criteria": {
+      "has_wheat": "2024-11-14 15:12:11 +1300"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2024-11-14 15:12:11 +1300"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2024-11-14 15:12:11 +1300"
+    },
+    "done": true
   },
   "minecraft:recipes/food/bread": {
     "criteria": {
@@ -175,9 +188,9 @@
     },
     "done": true
   },
-  "dungeons_arise:wda_root": {
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
     "criteria": {
-      "WDA": "2024-11-14 15:06:42 +1300"
+      "has_wheat": "2024-11-14 15:12:11 +1300"
     },
     "done": true
   },
@@ -187,21 +200,513 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/wheat_dough_from_water": {
+  "minecraft:adventure/kill_a_mob": {
     "criteria": {
-      "has_wheat": "2024-11-14 15:12:11 +1300"
+      "minecraft:enderman": "2024-11-14 15:18:59 +1300"
     },
     "done": true
   },
-  "cataclysm:root": {
+  "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "custom_test_name": "2024-11-14 15:06:42 +1300"
+      "minecraft:enderman": "2024-11-14 15:18:59 +1300"
+    },
+    "done": false
+  },
+  "netherexp:recipes/smooth_netherrack/smooth_netherrack": {
+    "criteria": {
+      "has_item": "2024-11-15 23:54:51 +1300"
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+  "biomesoplenty:recipes/transportation/willow_boat": {
     "criteria": {
-      "has_iron_helmet": "2024-11-14 15:12:06 +1300"
+      "in_water": "2024-11-15 23:52:45 +1300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_netherrack_bricks_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-11-15 23:54:51 +1300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/netherrack_brick_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-11-15 23:54:51 +1300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2024-11-15 23:52:45 +1300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_boat": {
+    "criteria": {
+      "in_water": "2024-11-15 23:52:45 +1300"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_fire_bowl": {
+    "criteria": {
+      "has_netherrack": "2024-11-15 23:54:51 +1300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/pine_boat": {
+    "criteria": {
+      "in_water": "2024-11-15 23:52:45 +1300"
+    },
+    "done": true
+  },
+  "bygonenether:root": {
+    "criteria": {
+      "entered_nether": "2024-11-15 23:54:50 +1300"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/farmland": {
+    "criteria": {
+      "has_netherrack": "2024-11-15 23:54:51 +1300"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-11-15 23:52:45 +1300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_netherrack_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-11-15 23:54:51 +1300"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/fieldsproot_boat": {
+    "criteria": {
+      "in_water": "2024-11-15 23:52:45 +1300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2024-11-15 23:52:45 +1300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_netherrack_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-11-15 23:54:51 +1300"
+    },
+    "done": true
+  },
+  "repurposed_structures:pyramids": {
+    "criteria": {
+      "in_pyramid_nether": "2024-11-15 23:55:15 +1300"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/transportation/canopy_boat": {
+    "criteria": {
+      "in_water": "2024-11-15 23:52:45 +1300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2024-11-15 23:52:45 +1300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/empyreal_boat": {
+    "criteria": {
+      "in_water": "2024-11-15 23:52:45 +1300"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_blinding_stone": {
+    "criteria": {
+      "has_item": "2024-11-15 23:55:01 +1300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-11-15 23:54:51 +1300"
+    },
+    "done": true
+  },
+  "netherexp:recipes/ivy/weeping_ivy": {
+    "criteria": {
+      "has_item": "2024-11-15 23:55:23 +1300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_bricks_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-11-15 23:54:51 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2024-11-15 23:52:45 +1300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_netherrack_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-11-15 23:54:51 +1300"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/warped_boat": {
+    "criteria": {
+      "in_water": "2024-11-15 23:52:45 +1300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-11-15 23:54:51 +1300"
+    },
+    "done": true
+  },
+  "twigs:recipes/decorated_blackstone_bricks/weeping_polished_blackstone_bricks": {
+    "criteria": {
+      "has_item": "2024-11-15 23:55:23 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-11-15 23:55:01 +1300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-11-15 23:54:51 +1300"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/copy_netherite_upgrade": {
+    "criteria": {
+      "has_netherrack": "2024-11-15 23:54:51 +1300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_brick_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-11-15 23:54:51 +1300"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/blightwillow_boat": {
+    "criteria": {
+      "in_water": "2024-11-15 23:52:45 +1300"
+    },
+    "done": true
+  },
+  "adorabuild_structures:nether_structures": {
+    "criteria": {
+      "example": "2024-11-15 23:54:50 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-11-15 23:52:45 +1300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-11-15 23:54:51 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-11-15 23:52:45 +1300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_brick_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-11-15 23:54:51 +1300"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/cloudcap_boat": {
+    "criteria": {
+      "in_water": "2024-11-15 23:52:45 +1300"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-11-15 23:54:50 +1300"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/crimson_boat": {
+    "criteria": {
+      "in_water": "2024-11-15 23:52:45 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-11-15 23:55:01 +1300"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_nature_stone": {
+    "criteria": {
+      "has_item": "2024-11-15 23:55:01 +1300"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/echo_boat": {
+    "criteria": {
+      "in_water": "2024-11-15 23:52:45 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/transportation/skyroot_boat": {
+    "criteria": {
+      "in_water": "2024-11-15 23:52:45 +1300"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/bloom_boat": {
+    "criteria": {
+      "in_water": "2024-11-15 23:52:45 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2024-11-15 23:52:45 +1300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-11-15 23:54:51 +1300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/netherrack_brick_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-11-15 23:54:51 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-11-15 23:52:45 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-11-15 23:54:51 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-11-15 23:52:45 +1300"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mining_boat": {
+    "criteria": {
+      "in_water": "2024-11-15 23:52:45 +1300"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_poison_stone": {
+    "criteria": {
+      "has_item": "2024-11-15 23:55:01 +1300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/netherrack_brick_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-11-15 23:54:51 +1300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-11-15 23:54:51 +1300"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-11-15 23:54:50 +1300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2024-11-15 23:52:45 +1300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/maple_boat": {
+    "criteria": {
+      "in_water": "2024-11-15 23:52:45 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-11-15 23:52:45 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-11-15 23:52:45 +1300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_boat": {
+    "criteria": {
+      "in_water": "2024-11-15 23:52:45 +1300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2024-11-15 23:52:45 +1300"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/sorting_boat": {
+    "criteria": {
+      "in_water": "2024-11-15 23:52:45 +1300"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/glacia_boat": {
+    "criteria": {
+      "in_water": "2024-11-15 23:52:45 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-11-15 23:52:45 +1300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/umbran_boat": {
+    "criteria": {
+      "in_water": "2024-11-15 23:52:45 +1300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_netherrack_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-11-15 23:54:51 +1300"
+    },
+    "done": true
+  },
+  "betternether:enter_nether": {
+    "criteria": {
+      "entered_nether": "2024-11-15 23:54:50 +1300"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/netherrack_furnace": {
+    "criteria": {
+      "has_netherrack": "2024-11-15 23:54:51 +1300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_brick_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-11-15 23:54:51 +1300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-11-15 23:54:51 +1300"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/bricks_fire_bowl": {
+    "criteria": {
+      "has_netherrack": "2024-11-15 23:54:51 +1300"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/twilight_oak_boat": {
+    "criteria": {
+      "in_water": "2024-11-15 23:52:45 +1300"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/time_boat": {
+    "criteria": {
+      "in_water": "2024-11-15 23:52:45 +1300"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/crystal_boat": {
+    "criteria": {
+      "in_water": "2024-11-15 23:52:45 +1300"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/transformation_boat": {
+    "criteria": {
+      "in_water": "2024-11-15 23:52:45 +1300"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_nature_stonebrick_from_glowstone": {
+    "criteria": {
+      "has_item": "2024-11-15 23:55:01 +1300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2024-11-15 23:52:45 +1300"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/dark_boat": {
+    "criteria": {
+      "in_water": "2024-11-15 23:52:45 +1300"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/jellyshroom_boat": {
+    "criteria": {
+      "in_water": "2024-11-15 23:52:45 +1300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-11-15 23:54:51 +1300"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/netherrack_bricks_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-11-15 23:54:51 +1300"
     },
     "done": true
   },

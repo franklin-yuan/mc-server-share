@@ -4,9 +4,19 @@
 	name: "osymanthoos#4b5c28c9"
 	lock: false
 	rewards_blocked: false
-	task_progress: { }
-	started: { }
-	completed: { }
+	task_progress: {
+		7FC5892104C0744C: 1
+	}
+	started: {
+		0D7FF8F037EFF568: 1731668090716L
+		7FC5892104C0744C: 1731668090716L
+		0000000000000001: 1731668090716L
+		46D0AAEEB69E28B3: 1731668090716L
+	}
+	completed: {
+		7FC5892104C0744C: 1731668090716L
+		46D0AAEEB69E28B3: 1731668090716L
+	}
 	claimed_rewards: { }
 	player_data: { }
 }

@@ -37,6 +37,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2024-11-15 23:53:09 +1300",
+      "minecraft:sunflower_plains": "2024-11-15 23:51:16 +1300",
       "minecraft:birch_forest": "2024-11-13 23:48:58 +1300",
       "minecraft:windswept_hills": "2024-11-12 23:22:00 +1300",
       "minecraft:beach": "2024-11-13 22:34:13 +1300",
@@ -53,6 +55,8 @@
       "minecraft:ocean": "2024-11-13 22:51:30 +1300",
       "minecraft:windswept_savanna": "2024-11-14 01:09:45 +1300",
       "minecraft:deep_lukewarm_ocean": "2024-11-13 23:04:18 +1300",
+      "minecraft:flower_forest": "2024-11-15 23:51:43 +1300",
+      "minecraft:old_growth_birch_forest": "2024-11-15 23:52:29 +1300",
       "minecraft:savanna": "2024-11-13 00:01:03 +1300",
       "minecraft:plains": "2024-11-12 23:48:31 +1300"
     },
@@ -5211,7 +5215,9 @@
       "jacaranda_glade": "2024-11-13 22:51:43 +1300",
       "old_growth_woodland": "2024-11-13 17:50:46 +1300",
       "crystalline_chasm": "2024-11-13 20:37:12 +1300",
+      "withered_abyss": "2024-11-15 22:46:40 +1300",
       "orchard": "2024-11-13 00:34:48 +1300",
+      "field": "2024-11-15 23:52:46 +1300",
       "overgrown_greens": "2024-11-13 23:58:43 +1300",
       "mediterranean_forest": "2024-11-14 16:02:42 +1300",
       "coniferous_forest": "2024-11-13 22:27:11 +1300",
@@ -6741,6 +6747,8 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "cabbage": "2024-11-13 19:23:02 +1300",
+      "tomato": "2024-11-15 22:25:51 +1300",
+      "kelp": "2024-11-15 22:03:51 +1300",
       "sugar_cane": "2024-11-13 19:01:08 +1300"
     },
     "done": false
@@ -12480,12 +12488,6 @@
     },
     "done": true
   },
-  "quark:get_forgotten_hat": {
-    "criteria": {
-      "get_forgotten_hat": "2024-11-15 16:47:29 +1300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2024-11-15 16:29:33 +1300"
@@ -12501,6 +12503,258 @@
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_logs": "2024-11-15 16:29:33 +1300"
+    },
+    "done": true
+  },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2024-11-15 16:47:29 +1300"
+    },
+    "done": true
+  },
+  "twigs:recipes/paper_lanterns/torchflower_paper_lantern": {
+    "criteria": {
+      "has_item": "2024-11-15 21:55:07 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_torchflower": {
+    "criteria": {
+      "has_torchflower": "2024-11-15 21:55:07 +1300"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/food/skyroot_milk_bucket_cake": {
+    "criteria": {
+      "has_quail_egg": "2024-11-15 22:01:37 +1300"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2024-11-15 22:01:37 +1300"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/food/cake": {
+    "criteria": {
+      "has_quail_egg": "2024-11-15 22:01:37 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/food/skyroot_milk_bucket_cake": {
+    "criteria": {
+      "has_egg": "2024-11-15 22:01:37 +1300"
+    },
+    "done": true
+  },
+  "incubation:recipes/building_blocks/chicken_egg_crate": {
+    "criteria": {
+      "has_egg": "2024-11-15 22:01:37 +1300"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_quail_egg": "2024-11-15 22:01:37 +1300"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2024-11-15 22:01:37 +1300"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2024-11-15 22:01:37 +1300"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/food/cake_compat": {
+    "criteria": {
+      "has_item": "2024-11-15 22:01:37 +1300"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/soul_skeleton_skull_candle": {
+    "criteria": {
+      "has_item": "2024-11-15 22:05:51 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-11-15 22:05:51 +1300"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/wither/soul_burning_skull_block": {
+    "criteria": {
+      "has_item": "2024-11-15 22:05:51 +1300"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/soul_magma_block": {
+    "criteria": {
+      "has_item2": "2024-11-15 22:05:51 +1300"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/soul_sand_soul_sandstone": {
+    "criteria": {
+      "has_soul_sand": "2024-11-15 22:05:51 +1300"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/soul_torch_from_fossil_fuel": {
+    "criteria": {
+      "has_item": "2024-11-15 22:05:51 +1300"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/soul_burning_skull_block": {
+    "criteria": {
+      "has_item": "2024-11-15 22:05:51 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2024-11-15 22:05:51 +1300"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/soul_jack_o_lantern": {
+    "criteria": {
+      "has_item": "2024-11-15 22:05:51 +1300"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/soul_candle": {
+    "criteria": {
+      "has_planks": "2024-11-15 22:05:51 +1300"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/jar": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2024-11-15 22:31:31 +1300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_bowl": {
+    "criteria": {
+      "has_wood_bowl": "2024-11-15 22:31:31 +1300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_plate": {
+    "criteria": {
+      "has_wood_plate": "2024-11-15 22:31:31 +1300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_cup": {
+    "criteria": {
+      "has_wood_cup": "2024-11-15 22:31:31 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-11-15 22:31:31 +1300"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/item_shelf": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2024-11-15 22:31:31 +1300"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/trough": {
+    "criteria": {
+      "has_item": "2024-11-15 22:31:31 +1300"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap/piston": {
+    "criteria": {
+      "has_sticky_piston": "2024-11-15 22:53:36 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2024-11-15 23:37:06 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2024-11-15 23:34:20 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2024-11-15 23:34:20 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2024-11-15 23:37:06 +1300"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2024-11-15 23:37:06 +1300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2024-11-15 23:34:20 +1300"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/building_blocks/cod_barrel": {
+    "criteria": {
+      "has_cod": "2024-11-15 23:34:20 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2024-11-15 23:37:06 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2024-11-15 23:34:20 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/fishing_rod_repairing": {
+    "criteria": {
+      "has_fishing_rod": "2024-11-15 23:33:38 +1300"
+    },
+    "done": true
+  },
+  "oceansdelight:recipes/oceansdelight/stuffed_cod": {
+    "criteria": {
+      "has_cod": "2024-11-15 23:34:20 +1300"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/building_blocks/salmon_barrel": {
+    "criteria": {
+      "has_salmon": "2024-11-15 23:37:06 +1300"
     },
     "done": true
   },

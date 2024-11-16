@@ -2999,6 +2999,7 @@
       "cooked_mutton": "2024-11-13 00:33:33 +1300",
       "cooked_beef": "2024-11-13 16:16:40 +1300",
       "baked_potato": "2024-11-13 23:13:48 +1300",
+      "tropical_fish": "2024-11-16 15:11:27 +1300",
       "apple": "2024-11-13 23:25:24 +1300",
       "golden_apple": "2024-11-13 00:03:57 +1300",
       "bread": "2024-11-13 17:32:32 +1300",
@@ -5212,8 +5213,10 @@
       "rocky_shrubland": "2024-11-13 00:35:10 +1300",
       "scrubland": "2024-11-13 18:51:46 +1300",
       "floodplain": "2024-11-13 16:47:59 +1300",
+      "highland": "2024-11-16 15:12:01 +1300",
       "jacaranda_glade": "2024-11-13 22:51:43 +1300",
       "old_growth_woodland": "2024-11-13 17:50:46 +1300",
+      "maple_woods": "2024-11-16 15:11:47 +1300",
       "crystalline_chasm": "2024-11-13 20:37:12 +1300",
       "withered_abyss": "2024-11-15 22:46:40 +1300",
       "orchard": "2024-11-13 00:34:48 +1300",
@@ -5221,6 +5224,7 @@
       "overgrown_greens": "2024-11-13 23:58:43 +1300",
       "mediterranean_forest": "2024-11-14 16:02:42 +1300",
       "coniferous_forest": "2024-11-13 22:27:11 +1300",
+      "forested_field": "2024-11-16 15:12:08 +1300",
       "redwood_forest": "2024-11-13 00:34:42 +1300",
       "aspen_glade": "2024-11-13 22:42:00 +1300",
       "dune_beach": "2024-11-13 22:51:29 +1300",
@@ -12686,9 +12690,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+  "aether:recipes/tools/fishing_rod_repairing": {
     "criteria": {
-      "has_salmon": "2024-11-15 23:37:06 +1300"
+      "has_fishing_rod": "2024-11-15 23:33:38 +1300"
     },
     "done": true
   },
@@ -12704,18 +12708,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_salmon": {
-    "criteria": {
-      "has_salmon": "2024-11-15 23:37:06 +1300"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/grilled_salmon": {
-    "criteria": {
-      "has_salmon": "2024-11-15 23:37:06 +1300"
-    },
-    "done": true
-  },
   "minecraft:husbandry/fishy_business": {
     "criteria": {
       "cod": "2024-11-15 23:34:20 +1300"
@@ -12728,21 +12720,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_salmon_from_smoking": {
-    "criteria": {
-      "has_salmon": "2024-11-15 23:37:06 +1300"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2024-11-15 23:34:20 +1300"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/fishing_rod_repairing": {
-    "criteria": {
-      "has_fishing_rod": "2024-11-15 23:33:38 +1300"
     },
     "done": true
   },
@@ -12752,9 +12732,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2024-11-15 23:37:06 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2024-11-15 23:37:06 +1300"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2024-11-15 23:37:06 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2024-11-15 23:37:06 +1300"
+    },
+    "done": true
+  },
   "crabbersdelight:recipes/building_blocks/salmon_barrel": {
     "criteria": {
       "has_salmon": "2024-11-15 23:37:06 +1300"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/building_blocks/tropical_fish_barrel": {
+    "criteria": {
+      "has_tropical_fish": "2024-11-16 15:11:17 +1300"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/food/cooked_tropical_fish": {
+    "criteria": {
+      "cooked_tropical_fish": "2024-11-16 15:11:17 +1300"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/food/cooked_tropical_fish_from_campfire_cooking": {
+    "criteria": {
+      "cooked_tropical_fish": "2024-11-16 15:11:17 +1300"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/food/cooked_tropical_fish_from_smoking": {
+    "criteria": {
+      "cooked_tropical_fish": "2024-11-16 15:11:17 +1300"
     },
     "done": true
   },

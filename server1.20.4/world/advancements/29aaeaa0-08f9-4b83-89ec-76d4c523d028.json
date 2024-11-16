@@ -15727,9 +15727,9 @@
     },
     "done": true
   },
-  "aether:recipes/combat/zanite_boots_repairing": {
+  "aether_redux:recipes/golden_swet_jelly": {
     "criteria": {
-      "has_zanite_boots": "2024-11-16 12:08:46 +1300"
+      "has_item": "2024-11-16 11:58:50 +1300"
     },
     "done": true
   },
@@ -15745,9 +15745,9 @@
     },
     "done": true
   },
-  "aether_redux:recipes/golden_swet_jelly": {
+  "aether:recipes/combat/zanite_boots_repairing": {
     "criteria": {
-      "has_item": "2024-11-16 11:58:50 +1300"
+      "has_zanite_boots": "2024-11-16 12:08:46 +1300"
     },
     "done": true
   },

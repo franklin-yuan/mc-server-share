@@ -76,8 +76,10 @@
       "minecraft:old_growth_pine_taiga": "2024-11-14 12:02:06 +1300",
       "minecraft:taiga": "2024-11-14 12:03:29 +1300",
       "minecraft:sunflower_plains": "2024-11-13 15:43:56 +1300",
+      "minecraft:birch_forest": "2024-11-16 19:45:14 +1300",
       "minecraft:windswept_hills": "2024-11-12 23:07:41 +1300",
       "minecraft:beach": "2024-11-14 15:14:31 +1300",
+      "minecraft:dark_forest": "2024-11-16 19:22:47 +1300",
       "minecraft:river": "2024-11-13 15:43:16 +1300",
       "minecraft:lukewarm_ocean": "2024-11-14 15:13:36 +1300",
       "minecraft:stony_shore": "2024-11-14 15:11:46 +1300",
@@ -7111,7 +7113,9 @@
       "fir_clearing": "2024-11-14 11:58:37 +1300",
       "pumpkin_patch": "2024-11-14 15:53:42 +1300",
       "prairie": "2024-11-13 18:24:52 +1300",
+      "grassland": "2024-11-16 19:42:45 +1300",
       "glowing_grotto": "2024-11-15 16:46:28 +1300",
+      "gravel_beach": "2024-11-16 19:45:36 +1300",
       "undergrowth": "2024-11-13 16:34:11 +1300",
       "rainforest": "2024-11-15 16:38:43 +1300",
       "crag": "2024-11-14 16:11:31 +1300",
@@ -9970,6 +9974,7 @@
       "spruce_house_medium_1": "2024-11-14 12:08:03 +1300",
       "prison_large_1": "2024-11-14 14:04:50 +1300",
       "birch_house_medium_2": "2024-11-14 13:58:38 +1300",
+      "dark_oak_house_small_1": "2024-11-16 19:43:46 +1300",
       "spruce_house_large_1": "2024-11-14 17:48:09 +1300",
       "oak_house_large_1": "2024-11-14 11:53:47 +1300",
       "oak_house_small_2": "2024-11-15 17:00:17 +1300"
@@ -15754,6 +15759,180 @@
   "betterend:recipes/misc/charcoal_block": {
     "criteria": {
       "has_charcoal": "2024-11-16 12:10:12 +1300"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/stratus_shield_stratus_smithing": {
+    "criteria": {
+      "has_stratus_ingot": "2024-11-16 18:38:14 +1300"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/decorations/stratus_block": {
+    "criteria": {
+      "has_stratus_ingot": "2024-11-16 18:38:14 +1300"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/combat/stratus_chestplate_smithing": {
+    "criteria": {
+      "has_stratus_ingot": "2024-11-16 18:38:14 +1300"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/combat/stratus_axe_smithing": {
+    "criteria": {
+      "has_stratus_ingot": "2024-11-16 18:38:14 +1300"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/combat/stratus_gloves_smithing": {
+    "criteria": {
+      "has_stratus_ingot": "2024-11-16 18:38:14 +1300"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/combat/stratus_helmet_smithing": {
+    "criteria": {
+      "has_stratus_ingot": "2024-11-16 18:38:14 +1300"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/decorations/stratus_ingot_from_stratus_block": {
+    "criteria": {
+      "has_stratus_ingot": "2024-11-16 18:38:14 +1300"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/combat/stratus_boots_smithing": {
+    "criteria": {
+      "has_stratus_ingot": "2024-11-16 18:38:14 +1300"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/combat/stratus_hoe_smithing": {
+    "criteria": {
+      "has_stratus_ingot": "2024-11-16 18:38:14 +1300"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/combat/stratus_ring_smithing": {
+    "criteria": {
+      "has_stratus_ingot": "2024-11-16 18:38:14 +1300"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/combat/stratus_leggings_smithing": {
+    "criteria": {
+      "has_stratus_ingot": "2024-11-16 18:38:14 +1300"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/combat/stratus_sword_smithing": {
+    "criteria": {
+      "has_stratus_ingot": "2024-11-16 18:38:14 +1300"
+    },
+    "done": true
+  },
+  "delightful:recipes/knives/smithing/stratus_knife": {
+    "criteria": {
+      "has_ingots/stratus": "2024-11-16 18:38:14 +1300"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/combat/stratus_shovel_smithing": {
+    "criteria": {
+      "has_stratus_ingot": "2024-11-16 18:38:14 +1300"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/combat/stratus_pickaxe_smithing": {
+    "criteria": {
+      "has_stratus_ingot": "2024-11-16 18:38:14 +1300"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/silt_from_clay": {
+    "criteria": {
+      "has_item": "2024-11-16 18:46:25 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2024-11-16 18:46:25 +1300"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/statue": {
+    "criteria": {
+      "has_clay": "2024-11-16 18:46:25 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_flareblossom": {
+    "criteria": {
+      "has_flareblossom": "2024-11-16 18:52:12 +1300"
+    },
+    "done": true
+  },
+  "aether:gold_dungeon": {
+    "criteria": {
+      "kill_sun_spirit": "2024-11-16 19:03:47 +1300"
+    },
+    "done": true
+  },
+  "aether:phoenix_armor": {
+    "criteria": {
+      "phoenix_leggings": "2024-11-16 19:04:10 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/gravitite_axe_repairing": {
+    "criteria": {
+      "has_gravitite_axe": "2024-11-16 19:04:17 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/gravitite_sword_repairing": {
+    "criteria": {
+      "has_gravitite_sword": "2024-11-16 19:04:39 +1300"
+    },
+    "done": true
+  },
+  "aether:gravitite_armor": {
+    "criteria": {
+      "gravitite_boots": "2024-11-16 19:04:40 +1300"
+    },
+    "done": false
+  },
+  "aether:recipes/combat/gravitite_boots_repairing": {
+    "criteria": {
+      "has_gravitite_boots": "2024-11-16 19:04:40 +1300"
+    },
+    "done": true
+  },
+  "aether:ice_accessory": {
+    "criteria": {
+      "ice_pendant": "2024-11-16 19:04:46 +1300"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/building_blocks/crystal_planks": {
+    "criteria": {
+      "has_log": "2024-11-16 19:38:14 +1300"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/building_blocks/crystal_wood": {
+    "criteria": {
+      "has_log": "2024-11-16 19:38:14 +1300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/white_dye_from_tall_white_lavender": {
+    "criteria": {
+      "has_tall_white_lavender": "2024-11-16 19:44:20 +1300"
     },
     "done": true
   },

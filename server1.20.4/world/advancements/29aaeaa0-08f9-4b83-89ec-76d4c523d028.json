@@ -6186,6 +6186,7 @@
   },
   "repurposed_structures:mineshafts": {
     "criteria": {
+      "in_mineshaft_warped": "2024-11-17 23:00:47 +1300",
       "in_mineshaft_nether": "2024-11-14 17:01:30 +1300",
       "in_mineshaft_stone": "2024-11-13 15:55:53 +1300"
     },
@@ -7090,6 +7091,7 @@
       "shrubland": "2024-11-13 18:28:29 +1300",
       "rocky_shrubland": "2024-11-13 18:28:07 +1300",
       "scrubland": "2024-11-14 14:48:25 +1300",
+      "erupting_inferno": "2024-11-17 23:06:54 +1300",
       "floodplain": "2024-11-15 16:54:11 +1300",
       "highland": "2024-11-13 18:27:55 +1300",
       "jacaranda_glade": "2024-11-14 14:47:35 +1300",
@@ -9555,7 +9557,10 @@
   },
   "adorabuild_structures:fireproof": {
     "criteria": {
-      "nether_portal_small_1": "2024-11-14 10:27:02 +1300"
+      "nether_fortress_large_1": "2024-11-17 23:25:22 +1300",
+      "nether_portal_small_1": "2024-11-14 10:27:02 +1300",
+      "blackstone_bastion_small_1": "2024-11-18 00:07:19 +1300",
+      "blackstone_bastion_medium_2": "2024-11-17 23:35:06 +1300"
     },
     "done": false
   },
@@ -12891,13 +12896,15 @@
       "deep_aether:blue_aerglow_forest": "2024-11-15 14:18:32 +1300",
       "aether:skyroot_grove": "2024-11-16 10:57:19 +1300",
       "aether:skyroot_woodland": "2024-11-16 11:35:18 +1300",
+      "deep_aether:aerglow_forest": "2024-11-17 21:51:48 +1300",
       "deep_aether:mystic_aerglow_forest": "2024-11-16 11:34:55 +1300",
       "aether:skyroot_meadow": "2024-11-15 01:02:25 +1300",
       "aether:skyroot_forest": "2024-11-16 00:34:16 +1300",
       "deep_aether:aerlavender_fields": "2024-11-15 01:04:00 +1300",
+      "deep_aether:yagroot_swamp": "2024-11-17 21:50:55 +1300",
       "deep_aether:golden_heights": "2024-11-15 01:08:25 +1300"
     },
-    "done": false
+    "done": true
   },
   "aether:the_aether": {
     "criteria": {
@@ -15902,6 +15909,7 @@
   },
   "aether:gravitite_armor": {
     "criteria": {
+      "gravitite_gloves": "2024-11-17 22:40:12 +1300",
       "gravitite_boots": "2024-11-16 19:04:40 +1300"
     },
     "done": false
@@ -15933,6 +15941,612 @@
   "biomesoplenty:recipes/misc/white_dye_from_tall_white_lavender": {
     "criteria": {
       "has_tall_white_lavender": "2024-11-16 19:44:20 +1300"
+    },
+    "done": true
+  },
+  "aether:craft_altar": {
+    "criteria": {
+      "craft_altar": "2024-11-17 22:25:26 +1300"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/building_blocks/crystal_slab": {
+    "criteria": {
+      "has_crystal_planks": "2024-11-17 22:21:30 +1300"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/building_blocks/blightwillow_planks": {
+    "criteria": {
+      "has_log": "2024-11-17 21:44:42 +1300"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/building_blocks/crystal_stairs": {
+    "criteria": {
+      "has_crystal_planks": "2024-11-17 22:21:30 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/aether_redux/crystal_shutter": {
+    "criteria": {
+      "has_planks": "2024-11-17 22:21:30 +1300"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/building_blocks/cobbled_aseterite_wall_from_cobbled_aseterite_stonecutting": {
+    "criteria": {
+      "has_cobbled_aseterite": "2024-11-17 22:32:13 +1300"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/vanilla_gummy_swet": {
+    "criteria": {
+      "has_vanilla_swet_ball": "2024-11-17 21:43:49 +1300"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/redstone/crystal_door": {
+    "criteria": {
+      "has_crystal_planks": "2024-11-17 22:21:30 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/aether_redux/crystal_corner_trim": {
+    "criteria": {
+      "has_planks": "2024-11-17 22:21:30 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/bp/aether_redux/crystal_backpack_shelf": {
+    "criteria": {
+      "has_planks": "2024-11-17 22:21:30 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/aether_redux/crystal_table": {
+    "criteria": {
+      "has_planks": "2024-11-17 22:21:30 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_chestplate_repairing": {
+    "criteria": {
+      "has_zanite_chestplate": "2024-11-17 22:33:58 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/aether_redux/crystal_parquet": {
+    "criteria": {
+      "has_planks": "2024-11-17 22:21:30 +1300"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/decorations/crystal_fence": {
+    "criteria": {
+      "has_crystal_planks": "2024-11-17 22:21:30 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/hellfire_wall_from_hellfire_stone_stonecutting": {
+    "criteria": {
+      "has_hellfire_stone": "2024-11-17 22:25:48 +1300"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/food/vanilla_swet_jelly": {
+    "criteria": {
+      "has_vanilla_swet_ball": "2024-11-17 21:43:49 +1300"
+    },
+    "done": true
+  },
+  "repurposed_structures:pyramids": {
+    "criteria": {
+      "in_pyramid_nether": "2024-11-17 23:42:57 +1300"
+    },
+    "done": false
+  },
+  "deep_aether:recipes/building_blocks/cobbled_aseterite_stairs_from_cobbled_aseterite_stonecutting": {
+    "criteria": {
+      "has_cobbled_aseterite": "2024-11-17 22:32:13 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tw/aether_redux/crystal_table": {
+    "criteria": {
+      "has_planks": "2024-11-17 22:21:30 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/aether_redux/crystal_dining_bench": {
+    "criteria": {
+      "has_planks": "2024-11-17 22:21:30 +1300"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/combat/ring_of_wisdom": {
+    "criteria": {
+      "has_enchanted_ring": "2024-11-17 22:21:39 +1300"
+    },
+    "done": true
+  },
+  "adorabuild_structures:the_lethal_towers": {
+    "criteria": {
+      "nether_fortress_large_1": "2024-11-17 23:25:22 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/aether_redux/vertical_crystal_planks": {
+    "criteria": {
+      "has_planks": "2024-11-17 22:21:30 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/light_hellfire_stone_from_hellfire_stone_stonecutting": {
+    "criteria": {
+      "has_hellfire_stone": "2024-11-17 22:25:47 +1300"
+    },
+    "done": true
+  },
+  "twigs:recipes/decorated_blackstone_bricks/twisting_polished_blackstone_bricks": {
+    "criteria": {
+      "has_item": "2024-11-17 23:06:09 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/aether_redux/crystal_flower_box": {
+    "criteria": {
+      "has_planks": "2024-11-17 22:21:30 +1300"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/decorations/cobbled_aseterite_wall": {
+    "criteria": {
+      "has_cobbled_aseterite": "2024-11-17 22:32:13 +1300"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/building_blocks/blightwillow_wood": {
+    "criteria": {
+      "has_log": "2024-11-17 21:44:42 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/aether_redux/crystal_chair": {
+    "criteria": {
+      "has_planks": "2024-11-17 22:21:30 +1300"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2024-11-17 23:13:41 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/aether_redux/crystal_couch": {
+    "criteria": {
+      "has_planks": "2024-11-17 22:21:30 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/hellfire_stairs": {
+    "criteria": {
+      "has_hellfire_stone": "2024-11-17 22:25:47 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/aether_redux/crystal_trapped_chest": {
+    "criteria": {
+      "has_planks": "2024-11-17 22:21:30 +1300"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/decorations/crystal_sign": {
+    "criteria": {
+      "has_crystal_planks": "2024-11-17 22:21:30 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/hellfire_slab": {
+    "criteria": {
+      "has_hellfire_stone": "2024-11-17 22:25:48 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/aether_redux/crystal_palisade": {
+    "criteria": {
+      "has_planks": "2024-11-17 22:21:30 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2024-11-17 23:36:09 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/aether_redux/crystal_vertical_trim": {
+    "criteria": {
+      "has_planks": "2024-11-17 22:21:30 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/aether_redux/crystal_shelf": {
+    "criteria": {
+      "has_planks": "2024-11-17 22:21:30 +1300"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/building_blocks/blightwillow_log_wall": {
+    "criteria": {
+      "has_blightwillow_log": "2024-11-17 21:44:42 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/aether_redux/crystal_chair": {
+    "criteria": {
+      "has_planks": "2024-11-17 22:21:30 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/gravitite_gloves_repairing": {
+    "criteria": {
+      "has_gravitite_gloves": "2024-11-17 22:40:12 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/aether_redux/crystal_support": {
+    "criteria": {
+      "has_planks": "2024-11-17 22:21:30 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/aether_redux/crystal_beam": {
+    "criteria": {
+      "has_planks": "2024-11-17 22:21:30 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/aether_redux/crystal_shelf": {
+    "criteria": {
+      "has_planks": "2024-11-17 22:21:30 +1300"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/building_blocks/cobbled_aseterite_slab_from_cobbled_aseterite_stonecutting": {
+    "criteria": {
+      "has_cobbled_aseterite": "2024-11-17 22:32:13 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/aether_redux/crystal_drawer": {
+    "criteria": {
+      "has_planks": "2024-11-17 22:21:30 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/abnbl/aether_redux/large_crystal_boat": {
+    "criteria": {
+      "has_planks": "2024-11-17 22:21:30 +1300"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/building_blocks/cobbled_aseterite_slab": {
+    "criteria": {
+      "has_cobbled_aseterite": "2024-11-17 22:32:13 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/hellfire_stairs_from_hellfire_stone_stonecutting": {
+    "criteria": {
+      "has_hellfire_stone": "2024-11-17 22:25:48 +1300"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/aether_redux/item_shelf_crystal": {
+    "criteria": {
+      "has_planks": "2024-11-17 22:21:30 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/aether_redux/crystal_cupboard": {
+    "criteria": {
+      "has_planks": "2024-11-17 22:21:30 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/aether_redux/crystal_drawer": {
+    "criteria": {
+      "has_planks": "2024-11-17 22:21:30 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tf/aether_redux/hollow_crystal_log": {
+    "criteria": {
+      "has_planks": "2024-11-17 22:21:30 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/angelic_stone_from_light_angelic_stone_stonecutting": {
+    "criteria": {
+      "has_light_angelic_stone": "2024-11-17 22:44:50 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/aether_redux/crystal_pillar_trim": {
+    "criteria": {
+      "has_planks": "2024-11-17 22:21:30 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
+    "criteria": {
+      "has_snout_armor_trim_smithing_template": "2024-11-17 23:35:25 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/aether_redux/crystal_side_table": {
+    "criteria": {
+      "has_planks": "2024-11-17 22:21:30 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/aether_redux/crystal_chest": {
+    "criteria": {
+      "has_planks": "2024-11-17 22:21:30 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tf/aether_redux/crystal_banister": {
+    "criteria": {
+      "has_planks": "2024-11-17 22:21:30 +1300"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-11-17 23:17:54 +1300"
+    },
+    "done": true
+  },
+  "netherexp:recipes/ivy/twisting_ivy": {
+    "criteria": {
+      "has_item": "2024-11-17 23:06:09 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/aether_redux/crystal_fancy_bed": {
+    "criteria": {
+      "has_planks": "2024-11-17 22:21:30 +1300"
+    },
+    "done": true
+  },
+  "minecraft:nether/ride_strider": {
+    "criteria": {
+      "used_warped_fungus_on_a_stick": "2024-11-17 23:50:50 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/aether_redux/crystal_desk": {
+    "criteria": {
+      "has_planks": "2024-11-17 22:21:30 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/aether_redux/crystal_sanded_wood": {
+    "criteria": {
+      "has_planks": "2024-11-17 22:21:30 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye_from_blightshade": {
+    "criteria": {
+      "has_blightshade": "2024-11-17 21:44:58 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
+    "criteria": {
+      "has_dune_armor_trim_smithing_template": "2024-11-17 23:40:27 +1300"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/aether_redux/sign_post_crystal": {
+    "criteria": {
+      "has_planks": "2024-11-17 22:21:30 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2024-11-17 23:17:54 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-11-17 23:35:25 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/aether_redux/hollow_crystal_log": {
+    "criteria": {
+      "has_planks": "2024-11-17 22:21:30 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/aether_redux/crystal_table": {
+    "criteria": {
+      "has_planks": "2024-11-17 22:21:30 +1300"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/redstone/crystal_trapdoor": {
+    "criteria": {
+      "has_crystal_planks": "2024-11-17 22:21:30 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/aether_redux/crystal_counter": {
+    "criteria": {
+      "has_planks": "2024-11-17 22:21:30 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/hellfire_slab_from_hellfire_stone_stonecutting": {
+    "criteria": {
+      "has_hellfire_stone": "2024-11-17 22:25:48 +1300"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/redstone/crystal_fence_gate": {
+    "criteria": {
+      "has_crystal_planks": "2024-11-17 22:21:30 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/aether_redux/crystal_nightstand": {
+    "criteria": {
+      "has_planks": "2024-11-17 22:21:30 +1300"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/building_blocks/aseterite": {
+    "criteria": {
+      "has_cobbled_aseterite": "2024-11-17 22:32:13 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/aether_redux/crystal_trim_1": {
+    "criteria": {
+      "has_planks": "2024-11-17 22:21:30 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/aether_redux/crystal_post": {
+    "criteria": {
+      "has_planks": "2024-11-17 22:21:30 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/hellfire_wall": {
+    "criteria": {
+      "has_hellfire_stone": "2024-11-17 22:25:48 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/aether_redux/crystal_bench": {
+    "criteria": {
+      "has_planks": "2024-11-17 22:21:30 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2024-11-17 23:03:54 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-11-17 23:40:27 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/aether_redux/crystal_bench": {
+    "criteria": {
+      "has_planks": "2024-11-17 22:21:30 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/abnbl/aether_redux/crystal_furnace_boat": {
+    "criteria": {
+      "has_planks": "2024-11-17 22:21:30 +1300"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/building_blocks/cobbled_aseterite_stairs": {
+    "criteria": {
+      "has_cobbled_aseterite": "2024-11-17 22:32:13 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/aether_redux/crystal_lattice": {
+    "criteria": {
+      "has_planks": "2024-11-17 22:21:30 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_ring_repairing": {
+    "criteria": {
+      "has_zanite_ring": "2024-11-17 22:00:54 +1300"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/redstone/crystal_pressure_plate": {
+    "criteria": {
+      "has_crystal_planks": "2024-11-17 22:21:30 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/aether_redux/crystal_ladder": {
+    "criteria": {
+      "has_planks": "2024-11-17 22:21:30 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/faf/aether_redux/crystal_beehive": {
+    "criteria": {
+      "has_planks": "2024-11-17 22:21:30 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/aether_redux/stripped_crystal_post": {
+    "criteria": {
+      "has_planks": "2024-11-17 22:21:30 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/aether_redux/crystal_trim": {
+    "criteria": {
+      "has_planks": "2024-11-17 22:21:30 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fd/aether_redux/crystal_cabinet": {
+    "criteria": {
+      "has_planks": "2024-11-17 22:21:30 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/vp/aether_redux/crystal_horticulturist_table": {
+    "criteria": {
+      "has_planks": "2024-11-17 22:21:30 +1300"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-11-17 23:12:01 +1300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/aether_redux/crystal_seat": {
+    "criteria": {
+      "has_planks": "2024-11-17 22:21:30 +1300"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/redstone/crystal_button": {
+    "criteria": {
+      "has_crystal_planks": "2024-11-17 22:21:30 +1300"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_leggings_repairing": {
+    "criteria": {
+      "has_chainmail_leggings": "2024-11-17 23:01:24 +1300"
     },
     "done": true
   },

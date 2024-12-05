@@ -4,7 +4,7 @@
   "bytebinUrl": "https://spark-usercontent.lucko.me/",
   "disableResponseBroadcast": false,
   "loadingProfiler_ENABLED": false,
-  "backgroundProfiler": false,
+  "backgroundProfiler": true,
   "backgroundProfilerThreadGrouper": "by-pool",
   "backgroundProfilerThreadDumper": "default",
   "backgroundProfilerInterval": 10

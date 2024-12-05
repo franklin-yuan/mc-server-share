@@ -17,8 +17,8 @@ cd ..
 git branch -M %current_world%
 git checkout -f %current_world%
 
-git fetch --all
 git reset --hard origin/%currrent_world%
+git clean -fd
 if errorlevel 1 echo ERROR: CHANCE FOR WORLD TO NOT BE AT LATEST, LOCAL CHANGES WERE NOT COMMITED
 
 echo Type 'stop' into this terminal when you want to end the server!

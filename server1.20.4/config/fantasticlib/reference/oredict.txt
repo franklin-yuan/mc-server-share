@@ -365,8 +365,6 @@ ingotBronze
 ingotSteel
 ingotDemonic
 ingotMithril
-stonePolished
-plankStained
 trapdoorWood
 bookshelf
 bookshelfOak
@@ -378,6 +376,8 @@ bookshelfDarkOak
 blockCandle
 pressurePlateWood
 blockCharcoal
+stonePolished
+plankStained
 stoneBasaltPolished
 stoneMarblePolished
 stoneLimestonePolished

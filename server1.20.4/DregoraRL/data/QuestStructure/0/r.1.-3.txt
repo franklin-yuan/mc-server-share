@@ -1,0 +1,16 @@
+SmallWoodenCottage,508,516,-1925,-1914
+RLCraft_SmallUndergroundSkeleton,862,870,-1911,-1903
+P_Village2Story,756,769,-1814,-1808
+RLCraft_Vineyard,818,846,-1786,-1766
+VillageTriplets,776,790,-1756,-1742
+VillageWoodMill,806,822,-1765,-1752
+AbandonedWoodTower,959,989,-1764,-1728
+RLCraft_SmallUndergroundSkeleton,1006,1014,-1748,-1740
+RLCraft_DecentCaveSpider,817,817,-1643,-1643
+RLCraft_UndergroundRuin3,812,820,-1645,-1637
+RLCraft_DecentCaveSpider,721,721,-1635,-1635
+RLCraft_UndergroundRuin3,718,726,-1641,-1633
+DinosaurSkull,835,846,-1591,-1572
+RLCraft_BasicSkeleton,757,757,-1546,-1546
+RLCraft_UndergroundRuin1,754,763,-1549,-1540
+PeacefulCrypt,843,859,-1555,-1531

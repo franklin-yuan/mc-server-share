@@ -1,5 +1,7 @@
 ##[general]
 
+[Stop vanilla world music when in a customizable menu.]
+B:stopworldmusicwhencustomizable = 'false';
 [If menu background sounds added by FancyMenu should be played when a world is loaded.]
 B:playbackgroundsoundsinworld = 'false';
 B:forcefullscreen = 'false';
@@ -20,6 +22,12 @@ B:advancedmode = 'false';
 B:showcustomizationbuttons = 'false';
 
 
+##[mainmenu]
+
+S:copyrightposition = 'bottom-right';
+S:copyrightcolor = '#ffffff';
+
+
 ##[loading]
 
 B:allowgameintroskip = 'true';
@@ -32,15 +40,9 @@ S:customgameintroskiptext = '';
 ##[minecraftwindow]
 
 [A minecraft restart is required after changing this value.]
-S:customwindowtitle = 'Better MC [FORGE] 1.20.1';
+S:customwindowtitle = 'RLCraft Dregora';
 [A minecraft restart is required after changing this value.]
-B:customwindowicon = 'true';
-
-
-##[world_loading_screen]
-
-B:showloadingscreenanimation = 'true';
-B:showloadingscreenpercent = 'true';
+B:customwindowicon = 'false';
 
 
 ##[multiplayer_screen]

@@ -1,0 +1,8 @@
+P_VillageFarmhouse,1179,1191,-892,-880
+SeasonsGreenhouse,1126,1136,-842,-830
+P_Village2Story,1171,1184,-842,-836
+SeasonsGreenhouse,1158,1170,-828,-818
+VillageMarketplace,1158,1172,-812,-798
+VillageWoodMill,1175,1188,-812,-796
+RLCraft_Vineyard,1127,1155,-812,-792
+UndergroundTreeoid,1281,1304,-799,-773

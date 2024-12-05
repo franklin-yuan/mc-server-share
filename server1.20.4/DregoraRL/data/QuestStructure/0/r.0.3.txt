@@ -1,0 +1,14 @@
+UndergroundTreeoid,189,215,1558,1581
+WoodWallRemains,293,321,1566,1574
+RLCraft_BasicSpider,292,292,1587,1587
+RLCraft_UndergroundRuin1,289,298,1584,1593
+StonePlantMound,308,313,1578,1583
+RLCraft_SmallUndergroundSkeleton,105,113,1590,1598
+StonePlantMound3,183,194,1627,1636
+StonePlantBoulder,205,215,1645,1655
+RLCraft_SmallUndergroundSkeleton,209,217,1664,1672
+StonePlantMound4,306,313,1676,1683
+StoneBoulder,367,376,1672,1681
+StonePlantMound3,477,486,1752,1763
+DinosaurSkull,-300,-281,1595,1606
+RLCraft_SmallUndergroundSkeleton,-462,-454,1759,1767

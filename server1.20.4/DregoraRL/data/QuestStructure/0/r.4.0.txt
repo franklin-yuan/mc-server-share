@@ -1,0 +1,10 @@
+StoneBoulder,2101,2110,251,260
+RLCraft_SmallUndergroundSkeleton,2046,2054,326,334
+StoneLeafMound,2279,2286,24,33
+StonePlantMound3,2255,2264,64,75
+RLCraft_UndergroundFarm,2515,2558,111,153
+StonePlantMound,2130,2135,274,279
+StoneLeafMound,2145,2152,304,313
+StoneLeafMound,2234,2243,307,314
+StonePlantBoulder,2264,2274,362,372
+FallenPalmTree,2060,2064,371,381

@@ -1,0 +1,15 @@
+RLCraft_DecentSpider,1866,1866,-1506,-1506
+RLCraft_UndergroundRuin2,1861,1868,-1511,-1501
+BlazeSpawnerCrystal,1956,1962,-1509,-1503
+P_SmallShip,1942,1948,-1489,-1469
+P_VillageFarmhouse,1876,1888,-1258,-1246
+VillageMarketplace,1840,1854,-1228,-1214
+P_Village2Story,1892,1898,-1231,-1218
+VillageTriplets,1862,1876,-1222,-1208
+P_VillageHouse,1892,1901,-1214,-1203
+VillageWoodMill,1868,1881,-1194,-1178
+RLCraft_Vineyard,1892,1912,-1193,-1165
+SeasonsGreenhouse,1862,1874,-1176,-1166
+VillageInn,1834,1854,-1157,-1130
+P_VillageLibrary,1866,1885,-1157,-1141
+ShrineSmallFire,1757,1767,-1056,-1046

@@ -1,0 +1,7 @@
+DinosaurSkull,-776,-765,1725,1744
+RLCraft_SmallUndergroundSkeleton,-769,-761,1758,1766
+RLCraft_LargeUndergroundTown,-866,-729,1677,1790
+RLCraft_4Towers,-699,-639,1795,1847
+UndergroundCultChamber,-819,-777,1900,1932
+RLCraft_BasicSkeleton,-946,-946,1943,1943
+RLCraft_UndergroundRuin1,-952,-943,1940,1949

@@ -1,7 +1,5 @@
 @echo off
-REM Forge requires a configured set of both JVM and program arguments.
-REM Add custom JVM arguments to the user_jvm_args.txt
-REM Add custom program arguments {such as nogui} to this file in the next line before the %* or
-REM  pass them to this script directly
-java -Xmx7168M -Xms7168M @libraries/net/minecraftforge/forge/1.20.1-47.3.0/win_args.txt %*
+
+java -Xms6G -Xmx6G -XX:+AlwaysPreTouch -XX:+DisableExplicitGC -XX:+ParallelRefProcEnabled -XX:+PerfDisableSharedMem -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1HeapRegionSize=8M -XX:G1HeapWastePercent=5 -XX:G1MaxNewSizePercent=40 -XX:G1MixedGCCountTarget=4 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1NewSizePercent=30 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:G1ReservePercent=20 -XX:InitiatingHeapOccupancyPercent=15 -XX:MaxGCPauseMillis=200 -XX:MaxTenuringThreshold=1 -XX:SurvivorRatio=32 -Dusing.aikars.flags=https://mcflags.emc.gs -Daikars.new.flags=true -jar forge-1.12.2-14.23.5.2860.jar nogui
+
 pause

@@ -1,3 +1,7 @@
+This project shares allows any compatible windows personal computer with an internet connection to host a minecraft server locally, without the use of port forwarding.
+Any user of the server can host the latest version of the server as file changes are automatically uploaded after every server host. Concurrent hostings of the same world are detected and prevented.
+Removes the need for a third party server host, and also allows anyone to access the server at any time without a host running 24/7, saving electricity costs.
+
 Pre:
 1. Install git
 2. Install Java and Java JDK

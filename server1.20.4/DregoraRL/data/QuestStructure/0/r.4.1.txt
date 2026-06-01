@@ -1,2 +1,0 @@
-WoodThorn,2049,2060,840,851
-StonePlantMound4,2051,2058,947,954

@@ -1,17 +1,13 @@
-Pre:
-1. Install git
-2. Install Java and Java JDK
-https://www.oracle.com/nz/java/technologies/downloads/#jdk23-windows
-https://www.java.com/download/ie_manual.jsp
-https://git-scm.com/downloads
+MC Server Share is now a desktop app plus coordinator API.
 
-Instructions:
-0. Put the contents of this repository in its own folder
-1. use change-world.bat to select your world
-2. use start.bat inside server folder
-3. after you are finished: type 'stop' into the console otherwise the world will not save
-4. enter your name
-5. Wait until the console says COMPLETE!!
+1. Install Node.js 24 LTS, Rust stable, Java, and the playit.gg client.
+2. Run `npm install`.
+3. Configure `apps/coordinator/.env.local` from `apps/coordinator/.env.example`.
+4. Apply `apps/coordinator/db/schema.sql` to Neon Postgres.
+5. Run the coordinator with `npm run dev --workspace @mc-share/coordinator`.
+6. Run the desktop app with `npm run dev --workspace @mc-share/desktop`.
+7. In the desktop app, import a Minecraft Java server folder, create or load a
+   share, claim the host lock, click Host, then Stop and Upload when finished.
 
-Play:
-Run start.bat to open the world 
+The old `server1.20.4` folder is local-only and ignored by Git. Import it from
+the desktop app if you want to publish the current RLCraft/Dregora server.

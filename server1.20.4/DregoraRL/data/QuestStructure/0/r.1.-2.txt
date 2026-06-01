@@ -1,7 +1,0 @@
-ShrineSmallFire,789,799,-1512,-1502
-P_MayanTemple2,897,996,-1146,-1078
-ShrineSmallAir,745,753,-1056,-1048
-StonePlantMound2,750,762,-1046,-1033
-MeteorSite,595,625,-1040,-1025
-RLCraft_DecentZombie,653,653,-1029,-1029
-RLCraft_UndergroundRuin2,648,655,-1034,-1024

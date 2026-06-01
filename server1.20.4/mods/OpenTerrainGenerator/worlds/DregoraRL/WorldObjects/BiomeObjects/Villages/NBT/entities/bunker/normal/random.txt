@@ -1,1 +1,0 @@
-{CustomName:Wastelander,CustomNameVisible:0}

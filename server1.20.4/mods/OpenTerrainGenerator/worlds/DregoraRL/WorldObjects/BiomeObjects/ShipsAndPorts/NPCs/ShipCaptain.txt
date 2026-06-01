@@ -1,1 +1,0 @@
-{PersistenceRequired:1b,CustomName:Captain,CustomNameVisible:0}

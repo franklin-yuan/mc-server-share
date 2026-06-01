@@ -1,5 +1,0 @@
-RLCraft_DecentCaveSpider,1048,1048,-1850,-1850
-RLCraft_UndergroundRuin2,1046,1053,-1855,-1845
-ShrineSmallFire,1176,1186,-1643,-1633
-RLCraft_DecentSkeleton,1521,1521,-1573,-1573
-RLCraft_UndergroundRuin2,1516,1526,-1575,-1568

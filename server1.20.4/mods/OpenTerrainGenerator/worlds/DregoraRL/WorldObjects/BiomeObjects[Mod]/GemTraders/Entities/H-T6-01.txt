@@ -1,9 +1,0 @@
-{CustomName:"Topographer",CustomNameVisible:0,Profession:1,ProfessionName:"minecraft:librarian",PersistenceRequired:1,Offers:{Recipes:[
-
-{buy:{id:"gold_nugget",Count:5},sell:{id:"written_book",Count:1,tag:{pages:["{\"text\":\"Towers high as they are old and tunnels deep as they are dark in which you shall find what I seek, ancient coin and eldest antique.\\n\\nBring these to me and I shall reward you with my knowledge of the world.\\n\\nTowers & Tunnels -->\"}","{\"text\":\"This page both illustrates as describes a collection of densely packed tall buildings situated next to ancient pathways, tunnels and waterways underneath.\\n\\nThese vertical mazes are only for the bravest to explore.\\n \"}","{\"text\":\"Deep tunnels, littered with coin and artifact but as trecherous as tempting due to the blights of old whom guard these treasures.\\n\\nThe entrance to these tunnels are accessed from a small stone like building with two black formations sticking out and in the ground.\"}"],title:"Book of Artifacts",author:Topographer,display:{Lore:["This book explains where to find the artifacts used in trading with Topographers."]}}}},
-
-{buy:{id:"emerald",Count:7},buyB:{id:"variedcommodities:coin_gold",Count:8},sell:{id:"written_book",Count:1,tag:{pages:["{\"text\":\"This journey will take you across many lands towards the south western parts of Dregora in which you will find a frozen wasteland with fiery ravines leading to a pit of lava inhabited by huge, white floating creatures\\n\\nX: 15097 Z: 5195\"}"],title:"Massive Meteor Crater",author:Topographer,display:{Lore:["This book contains locational information on the massive meteor crater."]}}}},
-
-{buy:{id:"variedcommodities:crowbar",Count:1},sell:{id:"variedcommodities:coin_gold",Count:7}}
-
-]}}

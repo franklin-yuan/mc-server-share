@@ -11,9 +11,9 @@
     "typecheck": "tsc -p tsconfig.json --noEmit"
   },
   "dependencies": {
-    "@mc-share/protocol": "workspace:*",
+    "@mc-share/protocol": "file:../../packages/protocol",
     "@neondatabase/serverless": "^1.0.2",
-    "@vercel/blob": "^1.0.0",
+    "@vercel/blob": "^2.4.0",
     "next": "^16.0.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",

@@ -1,4 +1,4 @@
-import { neon } from "@neondatabase/serverless";
+import { neon, type NeonQueryFunction } from "@neondatabase/serverless";
 import type {
   CoordinatorRepository,
   CreatePackageInput,
@@ -19,7 +19,7 @@ import { conflict, notFound } from "./errors";
 type Row = Record<string, unknown>;
 
 export class PostgresRepository implements CoordinatorRepository {
-  private readonly sql: ReturnType<typeof neon>;
+  private readonly sql: NeonQueryFunction<false, false>;
 
   constructor(databaseUrl: string) {
     this.sql = neon(databaseUrl);

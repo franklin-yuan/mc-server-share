@@ -10,12 +10,20 @@ export type LocalArchive = {
   archiveFormat: ArchiveFormat;
 };
 
+export type UploadedBlob = {
+  url: string;
+  downloadUrl: string;
+  pathname: string;
+  contentType: string;
+  contentDisposition: string;
+};
+
 export async function uploadArchive(input: {
   archive: LocalArchive;
   coordinatorUrl: string;
   endpoint: "/api/uploads/world-token" | "/api/uploads/package-token";
   clientPayload: Record<string, unknown>;
-}) {
+}): Promise<UploadedBlob> {
   const bytes = await readFile(input.archive.path);
   const file = new File([bytes], input.archive.fileName, {
     type: input.archive.archiveFormat === "zip" ? "application/zip" : "application/zstd"

@@ -180,6 +180,8 @@ export default function App() {
       }
       let restoreProfile = { ...profile, serverPath };
 
+      const downloaded: string[] = [];
+
       if (manifest.currentPackage) {
         const archive = await invoke<LocalArchive>("download_archive", {
           url: manifest.currentPackage.url,
@@ -198,6 +200,7 @@ export default function App() {
           coordinatorUrl: current.coordinatorUrl,
           shareCode: manifest.code
         }));
+        downloaded.push("server package");
       }
 
       if (manifest.latestSnapshot) {
@@ -210,9 +213,14 @@ export default function App() {
           profile: restoreProfile,
           archivePath: archive.path
         });
+        downloaded.push("world snapshot");
       }
 
-      setStatus("Latest package and world snapshot restored.");
+      setStatus(
+        downloaded.length > 0
+          ? `Restored: ${downloaded.join(" and ")}.`
+          : "Nothing to download — share has no package or snapshot yet."
+      );
     } catch (error) {
       setStatus(String(error));
     } finally {

@@ -4,7 +4,6 @@ import {
   CompleteSessionRequestSchema,
   CreateShareRequestSchema,
   LOCK_TTL_SECONDS,
-  PROTOCOL_VERSION,
   PublishPackageRequestSchema,
   SNAPSHOT_RETENTION_COUNT,
   UploadClientPayloadSchema,

@@ -20,7 +20,6 @@ import { toManifest } from "./mapper";
 import type {
   CoordinatorRepository,
   HostSessionRecord,
-  PendingUploadRecord,
   ShareRecord
 } from "./repository";
 
@@ -194,7 +193,7 @@ export class CoordinatorService {
     const request = CompleteSessionRequestSchema.parse(input);
     const session = await this.requireActiveSession(sessionId, request.lockToken);
 
-    const pendingUpload = await this.requirePendingUpload({
+    const pendingUpload = await this.repository.getPendingUpload({
       uploadType: "world",
       shareId: session.shareId,
       sessionId: session.id,
@@ -203,7 +202,7 @@ export class CoordinatorService {
       size: request.size
     });
 
-    if (pendingUpload.archiveFormat !== request.archiveFormat) {
+    if (pendingUpload && pendingUpload.archiveFormat !== request.archiveFormat) {
       throw badRequest("Uploaded archive format does not match completion request");
     }
 
@@ -221,7 +220,9 @@ export class CoordinatorService {
     });
 
     await this.repository.markSessionStatus(session.id, "completed", new Date());
-    await this.repository.deletePendingUpload(pendingUpload.id);
+    if (pendingUpload) {
+      await this.repository.deletePendingUpload(pendingUpload.id);
+    }
     await this.repository.pruneWorldSnapshots(session.shareId, SNAPSHOT_RETENTION_COUNT);
 
     return { snapshot };
@@ -235,7 +236,7 @@ export class CoordinatorService {
       throw unauthorized("Invalid admin token");
     }
 
-    const pendingUpload = await this.requirePendingUpload({
+    const pendingUpload = await this.repository.getPendingUpload({
       uploadType: "package",
       shareId: share.id,
       sessionId: null,
@@ -244,7 +245,7 @@ export class CoordinatorService {
       size: request.size
     });
 
-    if (pendingUpload.archiveFormat !== request.archiveFormat) {
+    if (pendingUpload && pendingUpload.archiveFormat !== request.archiveFormat) {
       throw badRequest("Uploaded archive format does not match publish request");
     }
 
@@ -260,7 +261,9 @@ export class CoordinatorService {
       createdAt: new Date()
     });
 
-    await this.repository.deletePendingUpload(pendingUpload.id);
+    if (pendingUpload) {
+      await this.repository.deletePendingUpload(pendingUpload.id);
+    }
     return { serverPackage };
   }
 
@@ -288,20 +291,6 @@ export class CoordinatorService {
     return session;
   }
 
-  private async requirePendingUpload(input: {
-    uploadType: "world" | "package";
-    shareId: string;
-    sessionId?: string | null;
-    url: string;
-    sha256: string;
-    size: number;
-  }): Promise<PendingUploadRecord> {
-    const pendingUpload = await this.repository.getPendingUpload(input);
-    if (!pendingUpload) {
-      throw badRequest("No completed upload matches this publish request");
-    }
-    return pendingUpload;
-  }
 }
 
 function addSeconds(date: Date, seconds: number) {

@@ -236,9 +236,14 @@ export default function App() {
       });
       setLock(nextLock);
 
-      await invoke("start_minecraft_server", { profile });
-      if (profile.playitPath) {
-        await invoke("start_playit", { playitPath: profile.playitPath });
+      try {
+        await invoke("start_minecraft_server", { profile });
+        if (profile.playitPath) {
+          await invoke("start_playit", { playitPath: profile.playitPath });
+        }
+      } catch (startError) {
+        setLock(null);
+        throw startError;
       }
       setStatus("Hosting started. Share the playit address when it appears.");
     } catch (error) {
@@ -537,7 +542,8 @@ export default function App() {
 function normalizeShareCode(value: string) {
   const trimmed = value.trim();
   if (!trimmed.includes("/")) {
-    return trimmed;
+    return trimmed.split("?")[0].split("#")[0];
   }
-  return trimmed.split("/").filter(Boolean).at(-1) ?? trimmed;
+  const segment = trimmed.split("/").filter(Boolean).at(-1) ?? trimmed;
+  return segment.split("?")[0].split("#")[0];
 }

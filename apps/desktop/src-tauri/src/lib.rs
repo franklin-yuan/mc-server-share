@@ -299,7 +299,10 @@ fn detect_server_jar(root: &Path) -> (String, Option<String>) {
     }
   }
 
-  ("vanilla".to_string(), fallback)
+  match fallback {
+    Some(name) => ("vanilla".to_string(), Some(name)),
+    None => ("unknown".to_string(), None),
+  }
 }
 
 fn default_world_includes(root: &Path, level_name: &str) -> Vec<String> {
@@ -345,10 +348,10 @@ where
     }
   }
 
-  builder.finish().map_err(|error| error.to_string())?;
   if !added {
     return Err("No files matched the archive include rules".into());
   }
+  builder.finish().map_err(|error| error.to_string())?;
   Ok(())
 }
 
